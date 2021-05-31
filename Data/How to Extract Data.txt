@@ -1,0 +1,9 @@
+** How to extract data **
+
+Note - This data has been downloaded from the FreeDict Org website and is free to use for educational purposes. For all other uses, please reach out to them directly.
+
+Extracting the data is pretty straightforward. Steps - 
+1. Windows users can use apps like BreeZip (available on Microsoft Store for free) and successively unzip the file. Mac/Linux users can use similar unzipping apps. 
+2. On reaching the folder that contains *.dict.dz file, first change the extension to .dict.gz using rename (available on right-click) and then extract again. The final file will be in a .dict format which can be opened in a text editor.
+ 
+ 
