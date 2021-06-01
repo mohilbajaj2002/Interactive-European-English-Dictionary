@@ -1,0 +1,9933 @@
+
+00-database-dictfmt-1.12.1
+Spanish-English FreeDict Dictionary
+
+Maintainer: [up for grabs]
+
+Edition: 0.3.1
+Size: 4502 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+    Copyright (C) 1999-2019 by various authors listed below.
+    Available under the terms of the GNU General Public License ver. 2.0 and
+  any later version.
+    This program is free software; you can redistribute it and/or modify it
+  under the terms of the GNU General Public License as published by the
+  Free Software Foundation; either version 2 of the License, or (at your
+  option) any later version.
+    This program is distributed in the hope that it will be useful, but
+  WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+  Public License for more details.
+    You should have received a copy of the GNU General Public License along
+  with this program; if not, write to the Free Software Foundation, Inc.,
+  59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
+
+Published at: http://freedict.org/
+Publication date: 30th of April 2019.
+
+Notes:
+
+ * Database Status: too small
+
+
+Source(s):
+
+  Home: http://www.travlang.com/ This Database was generated from Ergane.
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for
+  free and for good. It is part of the FreeDict project,
+  http://freedict.org/. This project aims to make translating dictionaries
+  available for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2019-04-30 Tom Green:
+   Minor corrections
+ * 2017-12-09 Sebastian Humenda ver. 0.3:
+   * update licencing stanza (thanks to Karl Bartel)
+   * remove duplicated entries
+ * 2015-02-27 Sebastian Humenda ver. 0.2:
+   remove Esperanto words in parenthesis from translations
+ * 2010-10-25 Piotr Bański:
+   Conversion of TEI P4 source into P5 via tools/freedict_P4toP5.xsl;
+   manual clean-up. We are back to version from before Michael Bunk's
+   re-import from Ergane of 2006-12-22 that was rolled back due to
+   Ergane's cryptic change of database licensing. Multi-word equivalents
+   should be split by spaces. There are also what look like Esperanto
+   equivalents tacked onto some equivalents.
+ * 2005-02-12 Michael Bunk:
+   Converted file to TEI P4
+ * 2000-04-30 Horst Eyermann:
+   Database was converted to TEI format and checked into CVS
+ * 2000-01-01 Horst Eyermann:
+   This Database was generated from ergane, http://www.travlang.com -
+   Thanks!
+Spanish-English FreeDict Dictionary ver. 0.3.1
+Adán /aðˈan/
+Adam
+Alcorán /ˌalkoɾˈan/
+Koran
+Alejandro /ˌalexˈandɾo/
+Alexander
+Alemania /ˌalemˈanja/
+Germany
+Alpes /ˈalpes/
+Alps
+Amberes /ambˈeɾes/
+Antwerp
+Amsterdam /ˌamsteɾðˈam/
+Amsterdam
+América /amˈeɾika/
+America
+América del Sur /amˈeɾika ðel sˈuɾ/
+South America
+América meridional /amˈeɾika mˌeɾiðjonˈal/
+South America
+América septentrional /amˈeɾika sˌepːtentɾionˈal/
+NorthAmerica
+Andalucía /ˌandaluθˈia/
+Andalusia
+Andorra /andˈoɾɾa/
+Andorra
+Antillas /antˈiʎas/
+Antilles
+Anunciación /ˌanunθjaθjˈon/
+Annunciation, LadyDay
+Apocalipsis /ˌapokalˈipsis/
+Apocalypse
+Aquisgrán /ˌakisɣɾˈan/
+Aix‐la‐Chapelle
+Arabia /aɾˈaβja/
+Arabia
+Argel /aɾxˈel/
+Algiers
+Argentina /ˌaɾxentˈina/
+Argentina
+Arizona /ˌaɾiθˈona/
+Arizona
+Aruba /aɾˈuβa/
+Aruba
+Ascensión /ˌasθensjˈon/
+AscensionDay
+Asia /ˈasja/
+Asia
+Asia Menor /ˈasja menˈoɾ/
+AsiaMinor
+Asturias /astˈuɾjas/
+Asturias
+Atenas /atˈenas/
+Athens
+Australia /aʊstɾˈalja/
+Australia
+Austria /ˈaʊstɾia/
+Austria
+Balkanes /balkˈanes/
+Balkans
+Barcelona /bˌaɾθelˈona/
+Barcelona
+Bengala /beŋɡˈala/
+Bengal
+Berlín /beɾlˈin/
+Berlin
+Biblia /bˈiβlia/
+Bible
+Blanca‐Nieve /blˈanka njˈeβe/
+LittleSnowWhite
+Bolivia /bolˈiβja/
+Bolivia
+Brasil /bɾasˈil/
+Brazil
+Bruselas /bɾusˈelas/
+Brussels
+Bulgaria /bulɣˈaɾja/
+Bulgaria
+Burdeos /buɾðˈeos/
+Bordeaux
+Báltico /bˈaltiko/
+Baltic Sea
+Bélgica /bˈelxika/
+Belgium
+Canadá /kˌanaðˈa/
+Canada
+Candelaria /kˌandelˈaɾja/
+Candlemas
+Castilla /kastˈiʎa/
+Castile
+Cataluña /kˌatalˈuɲa/
+Catalonia
+Cenicienta /θˌeniθjˈɛnta/
+Cinderella
+Cenopegias /θˌenopˈexjas/
+FeastofTabernacles
+Cerdeña /θeɾðˈeɲa/
+1. Sardina
+2. Sardinia
+Checoeslovaquia /tʃˌekoˌesloβˈakja/
+Czechoslovakia
+Chile /tʃˈile/
+Chile
+China /tʃˈina/
+China
+Colombia /kolˈombja/
+Colombia
+Colonia /kolˈonja/
+Cologne
+Colón /kolˈon/
+Columbus
+Costa Brava /kˈosta βɾˈaβa/
+CostaBrava
+Costa Rica /kˈosta ɾɾˈika/
+CostaRica
+Creta /kɾˈeta/
+Crete
+Cristo /kɾˈisto/
+Christ
+Cruz Roja /kɾˈuθ ɾɾˈoxa/
+RedCross
+Cuba /kˈuβa/
+Cuba
+Curazao /kˌuɾaθˈao/
+Curaçao
+Cáucaso /kˈaukˌaso/
+Caucasus
+Córcega /kˈoɾθeɣa/
+Corsica
+Córdoba /kˈoɾðoβa/
+Cordova
+Dinamarca /dˌinamˈaɾka/
+Denmark
+Dios /djˈos/
+God
+Ecuador /ˌekwaðˈoɾ/
+Ecuador
+Egipto /exˈipːto/
+Egypt
+El Salvador /el sˌalβaðˈoɾ/
+ElSalvador
+Escalda /eskˈalða/
+Scheldt
+Escandinavia /ˌeskandinˈaβja/
+Scandinavia
+Escocia /eskˈoθja/
+Scotland
+España /espˈaɲa/
+Spain
+Estados Unidos /estˈaðos unˈiðos/
+United States of America, USA
+Estonia /estˈonja/
+Estonia
+Estrasburgo /ˌestɾasβˈuɾɣo/
+Strasbourg
+Estrecho de Gibraltar /estɾˈetʃo ðe xˌiβɾaltˈaɾ/
+StraitofGibraltar
+Etna /ˈetna/
+Etna
+Europa /eʊɾˈopa/
+1. Europe
+2. Europa
+Europa occidental /eʊɾˈopa ˌokθiðentˈal/
+WesternEurope
+Extremadura /ˌekstɾemaðˈuɾa/
+Estremadura
+Extremo Oriente /ekstɾˈemo oɾjˈɛnte/
+1. Far East, theFarEast
+2. FarEast
+Fiesta de los Tabernáculos /fjˈesta ðe los tˌaβeɾnˈakulos/
+FeastofTabernacles
+Finlandia /finlˈandja/
+Finland
+Flandes /flˈandes/
+Flanders
+Florencia /floɾˈɛnθja/
+Florence
+Francia /fɾˈanθja/
+France
+Frisia /fɾˈisja/
+Friesland
+Gales /ɡˈales/
+Wales
+Galicia /ɡalˈiθja/
+Galicia
+Gante /ɡˈante/
+Ghent
+Gibraltar /xˌiβɾaltˈaɾ/
+Gibraltar
+Ginebra /xinˈeβɾa/
+Geneva
+Gran Bretaña /ɡɾˈam bɾetˈaɲa/
+Britain, GreatBritain
+Grecia /ɡɾˈeθja/
+Greece
+Groenlandia /ɡɾˌoenlˈandja/
+Greenland
+Guatemala /ɡwˌatemˈala/
+1. Guatemala
+2. GuatemalaCity
+Guinea Ecuatorial /ɡinˈea ˌekwatoɾjˈal/
+EquatorialGuinea
+Güeldres /ɡuˈelðɾes/
+Guelderland, Guelders
+Génova /xˈenoβa/
+Genoa
+Havana /aβˈana/
+Havana
+Holanda /olˈanda/
+1. Holland
+2. theNetherlands
+Holanda septentrional /olˈanda sˌepːtentɾionˈal/
+NorthHolland
+Honduras /ondˈuɾas/
+Honduras
+Hungría /uŋɡɾˈia/
+Hungary
+IVA /ˈiβa/
+VAT
+India /ˈindja/
+India
+Indonesia /ˌindonˈesja/
+Indonesia
+Inglaterra /ˌiŋɡlatˈeɾɾa/
+England
+Irlanda /iɾlˈanda/
+Ireland
+Islandia /islˈandja/
+Iceland
+Islas Baleares /ˈislas βˌaleˈaɾes/
+BalearicIslands
+Islas Canarias /ˈislas kanˈaɾjas/
+CanaryIslands
+Islas Malvinas /ˈislas malβˈinas/
+Falkland Islands, Falklands
+Italia /itˈalja/
+Italy
+Japón /xapˈon/
+Japan
+Java /xˈaβa/
+Java
+Jesucristo /xˌesukɾˈisto/
+JesusChrist
+Laponia /lapˈonja/
+Lapland
+Latvia /lˈatβja/
+Latvia
+La Haya /la ˈajja/
+TheHague
+Letonia /letˈonja/
+Latvia
+Lieja /liˈexa/
+Liège
+Lisboa /lisβˈoa/
+Lisbon
+Lituania /litwˈanja/
+Lithuania
+Livonia /liβˈonja/
+Livonia
+Londres /lˈondɾes/
+London
+Lorena /loɾˈena/
+Lorraine, Lothringen
+Los Países Bajos /los paˈises βˈaxos/
+Holland, the Netherlands
+Lovaina /loβˈaɪna/
+Louvain
+Luxemburgo /lˌuksembˈuɾɣo/
+Luxemburg
+Madrid /maðɾˈid/
+Madrid
+Mahoma /maˈoma/
+Mohammed, Muhammad
+Malinas /malˈinas/
+Malines, Mechlin
+Mallorca /maʎˈoɾka/
+Majorca
+Marruecos /mˌaɾɾuˈekos/
+Morocco
+Marsella /maɾsˈeʎa/
+Marseilles
+Mar Cantábrico /mˈaɾ kantˈaβɾiko/
+BayofBiscay
+Mediterráneo /mˌeðiteɾɾˈaneo/
+Mediterranean
+Moisés /moɪsˈes/
+Moses
+Mosa /mˈosa/
+Meuse
+Moscú /moskˈu/
+Moscow
+Mosela /mosˈela/
+Moselle
+Munich /munˈitʃ/
+Munich
+Méjico /mˈexiko/
+Mexico
+México /mˈɛxiko/
+1. Mexico
+2. MexicoCity
+Navidad /nˌaβiðˈad/
+Christmas, Yule
+Nicaragua /nˌikaɾˈaɣwa/
+Nicaragua
+Nilo /nˈilo/
+Nile
+Nimega /nimˈeɣa/
+Nimwegen
+Norteamérica /nˌoɾteamˈeɾika/
+NorthAmerica
+Noruega /nˌoɾuˈeɣa/
+Norway
+Noé /noˈe/
+Noah
+Nuestra Señora /nwˌestɾa seɲˈoɾa/
+OurLady
+Nueva Gales del Sur /nwˈeβa ɣˈales ðel sˈuɾ/
+NewSouthWales
+Nueva York /nwˈeβa ʝˈoɾk/
+New Amsterdam, New York, NewYorkCity
+Nápoles /nˈapoles/
+Naples
+Oceanía /ˌoθeanˈia/
+Oceania, Oceanica
+Océano Pacífico /oθˈeano paθˈifiko/
+Pacific, PacificOcean
+Pacífico /paθˈifiko/
+Pacific, PacificOcean
+Panamá /pˌanamˈa/
+Panama
+Paraguay /pˌaɾaɣwˈaɪ/
+Paraguay
+París /paɾˈis/
+Paris
+Pascua /pˈaskwa/
+Easter
+Patagonia /pˌataɣˈonja/
+Patagonia
+País Vasco /paˈis βˈasko/
+BasqueCountry
+Pentecostés /pˌentekostˈes/
+Pentecost, Whitsunday
+Persia /pˈeɾsja/
+Persia
+Perú /peɾˈu/
+Peru
+Pirineos /pˌiɾinˈeos/
+Pyrenees
+Polonia /polˈonja/
+Poland
+Portugal /pˌoɾtuɣˈal/
+Portugal
+Prusia /pɾˈusja/
+Prussia
+Purificación /pˌuɾifˌikaθjˈon/
+Candlemas
+Redentor /ɾɾˌeðentˈoɾ/
+1. Redeemer, Saviour
+Rin /ɾɾˈin/
+Rhine
+Rio Brava /ɾɾiˈo βɾˈaβa/
+RioGrande
+Rio Grande del Norte /ɾɾiˈo ɣɾˈande ðel nˈoɾte/
+RioGrande
+Roma /ɾɾˈoma/
+Rome
+Rumania /ɾɾumˈanja/
+Romania
+Rusia /ɾɾˈusja/
+Russia
+Sahara /saˈaɾa/
+Sahara
+Sajonia /saxˈonja/
+1. Saxe, Saxony
+Salvador /sˌalβaðˈoɾ/
+Redeemer, Saviour
+Satanás /sˌatanˈas/
+Lucifer, Satan
+Satán /satˈan/
+Lucifer, Satan
+Sevilla /seβˈiʎa/
+Seville
+Siberia /siβˈeɾja/
+Siberia
+Suecia /swˈeθja/
+Sweden
+Suiza /swˈiθa/
+Switzerland
+Surinam /suɾˈinam/
+Surinam
+Tajo /tˈaxo/
+Tagus
+Todos los Santos /tˈoðos los sˈantos/
+1. All Hallows, AllSaints'Day
+2. AllSouls'Day
+Trinidad /tɾˌiniðˈad/
+Trinity
+Turquía /tuɾkˈia/
+Turkey
+Támesis /tˈamesis/
+Thames
+Túnez /tˈuneθ/
+Tunis
+Union Europea /ˈunjon ˌeʊɾopˈea/
+EuropeanUnion
+Unión soviética /unjˈon soβjˈetika/
+Soviet Union, USSR
+Uruguay /ˌuɾuɣwˈaɪ/
+Uruguay
+Valencia /balˈɛnθja/
+Valencia
+Venezuela /bˌeneθwˈela/
+Venezuela
+Viena /bjˈena/
+Vienna
+Viernes Santo /bjˈeɾnes sˈanto/
+GoodFriday
+Vizcaya /biθkˈajja/
+Biscay
+Vístula /bˈistula/
+Vistula
+Yugoeslavia /ʝˌuɣoeslˈaβja/
+Yugoslavia
+Zelandia /θelˈandja/
+Zealand
+¿cuánto tiempo? /kwˈanto tjˈempo/
+howlong?
+¿cómo está usted? /kˈomo estˈa ustˈed/
+how are you?, howdoyoudo?
+¿qué hora es? /kˈe ˈoɾa ˈes/
+whattimeisit?
+a /ˈa/
+1. at, to, toward, towards
+2. a, in, inside, into, on, per, within
+abad /aβˈad/
+1. abbot
+2. archimandrite
+abadesa /ˌaβaðˈesa/
+abbess
+abadía /ˌaβaðˈia/
+abbey
+abajo /aβˈaxo/
+1. below, downstairs, underneath
+abandonar /ˌaβandonˈaɾ/
+1. cede, give in, give up, give way, relinquish, yield
+2. abandon, forsake, desert, leave, quit
+abastacimiento /ˌaβastˌaθimjˈɛnto/
+catering
+abatido /ˌaβatˈiðo/
+dejected, depressed
+abecé /ˌaβeθˈe/
+alphabet
+abedul /ˌaβeðˈul/
+birch
+abeja /aβˈexa/
+bee
+abeto /aβˈeto/
+fir
+abierto /aβjˈeɾto/
+open
+abismo /aβˈismo/
+abyss, chasm, gulf, precipice
+abjurar /ˌaβxuɾˈaɾ/
+abjure, forswear, swear off, renounce
+abolas /aβˈolas/
+bearing
+abolición /ˌaβoliθjˈon/
+abolition, abrogation
+abolir /ˌaβolˈiɾ/
+1. abolish, abrogate
+2. do away with, get rid of, remove
+abominable /ˌaβominˈaβle/
+abhorrent, abominable, alien, awful, hideous, horrible, gruesome
+abonado /ˌaβonˈaðo/
+subscriber
+abonar /ˌaβonˈaɾ/
+fertilize
+abonarse /ˌaβonˈaɾse/
+subscribe, subscribeto
+abono /aβˈono/
+1. subscription
+2. dressing, fertilization, manuring
+abordaje /ˌaβoɾðˈaxe/
+collision
+abordar /ˌaβoɾðˈaɾ/
+1. land
+2. collide with, crashinto
+abrazar /ˌaβɾaθˈaɾ/
+1. embrace
+2. hug
+abrelatas /ˌaβɾelˈatas/
+can opener, tin‐opener
+abreviación /ˌaβɾeβjaθjˈon/
+abbreviation
+abreviar /ˌaβɾeβjˈaɾ/
+abbreviate, abridge, shorten
+abreviatura /ˌaβɾeβjatˈuɾa/
+abbreviation
+abridor de tapones /ˌaβɾiðˈoɾ ðe tapˈones/
+bottleopener
+abrigo /aβɾˈiɣo/
+1. cloak, mantle
+2. coat, overcoat
+abril /aβɾˈil/
+April
+abrir /aβɾˈiɾ/
+open, openup
+abrogar /ˌaβɾoɣˈaɾ/
+1. abolish, abrogate
+2. do away with, get rid of, remove
+absceso /aβsθˈeso/
+abscess
+abstinencia /ˌaβstinˈɛnθja/
+teetotalism, totalabstinence
+abuela /aβwˈela/
+grandmother
+abuelo /aβwˈelo/
+grandfather
+aburrido /ˌaβuɾɾˈiðo/
+1. boring, stodgy
+2. tiresome
+aburrir /ˌaβuɾɾˈiɾ/
+bore
+acabado /ˌakaβˈaðo/
+1. finishingoff
+2. completed, done, finished, over, through
+acabar /ˌakaβˈaɾ/
+1. finish, workout
+2. accomodate, end, terminate
+3. useup
+4. waste
+academia /ˌakaðˈemja/
+academy
+acampar /ˌakampˈaɾ/
+camp, be encamped, lie encamped, campout
+acaso /akˈaso/
+accidence, chance, hazard
+accidente /ˌakθiðˈɛnte/
+accident
+accionista /ˌakθjonˈista/
+shareholder
+acción /akθjˈon/
+1. action, activity
+2. achievement, act
+3. share
+4. accomplishment
+acechar /ˌaθetʃˈaɾ/
+set a trap, setatrapfor
+aceite /aθˈeɪte/
+oil
+aceite de oliva /aθˈeɪte ðe olˈiβa/
+oil of olives, olive‐oil
+aceituna /ˌaθeɪtˈuna/
+olive
+acelerador /ˌaθelˌeɾaðˈoɾ/
+1. accelerator, acceleratorpedal
+acento /aθˈɛnto/
+1. accent, stress
+2. accent mark, supersign
+acentuar /ˌaθentwˈaɾ/
+accent, accentuate, stress
+aceptable /ˌaθepːtˈaβle/
+1. acceptable
+aceptación /ˌaθepːtaθjˈon/
+acceptance, admission
+aceptar /ˌaθepːtˈaɾ/
+accept, receive, take, takein
+acera /aθˈeɾa/
+pavement, sidewalk
+acercarse /ˌaθeɾkˈaɾse/
+advance, come close, come closer, comeon
+acero /aθˈeɾo/
+steel
+acertar /ˌaθeɾtˈaɾ/
+catch, hit, run across, strike
+achicoria /ˌatʃikˈoɾja/
+chicory
+acidez de estómago /ˌaθiðˈeθ ðe estˈomaɣo/
+heartburn
+acoger /ˌakoxˈeɾ/
+greet, salute
+acogida /ˌakoxˈiða/
+greeting, salutation
+acometer /ˌakometˈeɾ/
+1. commitaggression
+2. assault, attack
+3. violate
+acometida /ˌakometˈiða/
+access, aggression, attack
+acomodado /ˌakomoðˈaðo/
+in easy circumstances, well‐to‐do
+acomodar /ˌakomoðˈaɾ/
+accomodate
+acompañamiento /ˌakompˌaɲamjˈɛnto/
+accompaniment, escort
+acompañar /ˌakompaɲˈaɾ/
+accompany
+aconsejar /ˌakonsexˈaɾ/
+advise, counsel
+acontecer /ˌakonteθˈeɾ/
+1. become, come about, grow, happen
+2. occur
+acontecimiento /ˌakontˌeθimjˈɛnto/
+chance, event, occurence, opportunity
+acordar /ˌakoɾðˈaɾ/
+accede, agree, consent
+acordarse /ˌakoɾðˈaɾse/
+think
+acorde /akˈoɾðe/
+1. accord, accordance, agreement, concurrence
+2. concord
+acordeón /ˌakoɾðeˈon/
+accordion
+acortar /ˌakoɾtˈaɾ/
+abbreviate, abridge, shorten
+acostar /ˌakostˈaɾ/
+puttobed
+acostarse /ˌakostˈaɾse/
+gotobed
+acostumbrarse /ˌakostumbɾˈaɾse/
+accustom oneself, getused
+activo /aktˈiβo/
+1. active
+2. inaction
+3. assets
+4. hardworking
+5. transitive
+actor /aktˈoɾ/
+actor
+actriz /aktɾˈiθ/
+actress
+actual /aktwˈal/
+current, present, present‐day, topical, up‐to‐date
+actualmente /aktwˈalmˈente/
+at present, now
+acuarela /ˌakwaɾˈela/
+water‐colour
+acuario /akwˈaɾjo/
+aquarium
+acuerdo /akwˈeɾðo/
+1. accord, accordance, agreement, concurrence
+2. accommodation, adjustment, arrangement
+acumulador /ˌakumˌulaðˈoɾ/
+accumulator, battery, storagebattery
+acusación /ˌakusaθjˈon/
+1. accusal, accusation
+2. charge, complaint, indictment
+acusado /ˌakusˈaðo/
+1. accused, defendant
+acusar /ˌakusˈaɾ/
+1. accuse
+2. denounce
+adaptar /ˌaðapːtˈaɾ/
+1. accomodate
+2. affiliate
+adelantar /ˌaðelantˈaɾ/
+1. overhaul, overtake, pass
+adelante /ˌaðelˈante/
+ahead, foreward, on
+adelgazar /ˌaðelɣaθˈaɾ/
+fall away, lose, lose flesh, loseinweight
+además /ˌaðemˈas/
+1. besides, in addition, moreover
+además de /ˌaðemˈas ðˈe/
+apart from, besides, except, exceptfor
+adiestrar /ˌaðjestɾˈaɾ/
+1. tame, train
+2. break
+adivinar /ˌaðiβinˈaɾ/
+guess
+adiós /aðjˈos/
+adieu, farewell, bye, goodbye
+adjetivo /ˌaðxetˈiβo/
+adjective
+administración /ˌadminˌistɾaθjˈon/
+1. administration, management
+administración del Sacramento /ˌadminˌistɾaθjˈon del sˌakɾamˈɛnto/
+administrationofthelastsacraments
+administrador /ˌadminˌistɾaðˈoɾ/
+1. manager
+2. administrator
+administrar /ˌadministɾˈaɾ/
+administer, manage
+admirar /ˌadmiɾˈaɾ/
+admire
+admisible /ˌadmisˈiβle/
+acceptable
+admitir /ˌadmitˈiɾ/
+accept, receive, take, takein
+adoptivo /ˌaðopːtˈiβo/
+adopted
+adoración /ˌaðoɾaθjˈon/
+adoration, worship
+adorar /ˌaðoɾˈaɾ/
+adore, worship
+adornado /ˌaðoɾnˈaðo/
+adorned
+adquisición /ˌadkisiθjˈon/
+1. accession, acquisition, gain
+2. asset
+aduana /aðwˈana/
+customs
+adular /ˌaðulˈaɾ/
+flatter
+adverbio /aðβˈeɾβjo/
+adverb
+advertidor de incendios /ˌaðβeɾtiðˈoɾ ðe inθˈɛndjos/
+fire‐alarm, firecall
+adyacente /ˌaðjjaθˈɛnte/
+1. adjacent
+2. adjoining
+3. nearby, neighbouring
+aeroplano /ˌaeɾoplˈano/
+aeroplane, airplane, plane
+aeropuerto /ˌaeɾopwˈeɾto/
+1. aerodrome, airdrome, airfield
+2. airport
+aeróstato /ˌaeɾˈostato/
+1. balloon, air‐balloon
+afable /afˈaβle/
+lovable
+afectación /ˌafektaθjˈon/
+affectation
+afectar /ˌafektˈaɾ/
+affect
+afectuosidad /ˌafektwˌosiðˈad/
+1. adherence, attachment
+2. affection
+3. attachement
+afectuoso /ˌafektwˈoso/
+1. affectionate, devoted, selfless
+afeitar /ˌafeɪtˈaɾ/
+shave
+aficionado /ˌafiθjonˈaðo/
+amateur, fancier
+afligido /ˌaflixˈiðo/
+1. sad
+2. bleak, dismal, dreary, gaunt, miserable, somber
+afligir /ˌaflixˈiɾ/
+1. afflict, grieve
+2. cause pain, cause pain to, distress, givepainto
+africana /ˌafɾikˈana/
+Africanwoman
+africano /ˌafɾikˈano/
+African
+afán /afˈan/
+1. attempt, effort
+2. efforts
+3. tension
+agarrar /ˌaɣaɾɾˈaɾ/
+1. grasp
+2. clutch, grapple
+agencia /axˈɛnθja/
+agency
+agencia de viaje /axˈɛnθja ðe βjˈaxe/
+tourist agency, travelagency
+agenda /axˈɛnda/
+agenda, appointmentbook
+agente /axˈɛnte/
+agent
+agilidad /ˌaxiliðˈad/
+expertness, skilfulness, skill, skillfulness
+agosto /aɣˈosto/
+August
+agotado /ˌaɣotˈaðo/
+exhausted, tired out, wornout
+agradable /ˌaɣɾaðˈaβle/
+1. agreeable, enjoyable, lovely, nice, pleasant
+2. comfortable
+3. pleasing
+agradar /ˌaɣɾaðˈaɾ/
+please
+agradecer /ˌaɣɾaðeθˈeɾ/
+thank
+agrado /aɣɾˈaðo/
+pleasure
+agrario /aɣɾˈaɾjo/
+agrarian, agricultural, farm‐
+agresión /ˌaɣɾesjˈon/
+1. access, aggression, attack
+2. assault
+agresor /ˌaɣɾesˈoɾ/
+aggressor, assailant, attacker
+agridulce /ˌaɣɾiðˈulθe/
+sweet‐and‐sour
+agrio /ˈaɣɾio/
+1. acetous, acid, sour, tart
+agua /ˈaɣwa/
+water
+aguardar /ˌaɣwaɾðˈaɾ/
+bide, abide, stay for, wait, await, waitfor
+aguas /ˈaɣwas/
+spa
+agua dolce /ˈaɣwa ðˈolθe/
+freshwater
+agua dulce /ˈaɣwa ðˈulθe/
+freshwater
+agua potable /ˈaɣwa potˈaβle/
+drinking‐water
+agudo /aɣˈuðo/
+acute
+aguijón /ˌaɣixˈon/
+sting
+aguja /aɣˈuxa/
+needle
+agujero /ˌaɣuxˈeɾo/
+hole
+agüero /ˌaɣuˈeɾo/
+1. indication, omen, portent, precursor, presage, sign
+ah /ˈa/
+1. ah, aha
+2. oh
+ahogarse /ˌaoɣˈaɾse/
+drown
+ahora /aˈoɾa/
+1. at present, now
+2. currently, nowadays, thesedays
+ahora mismo /aˈoɾa mˈismo/
+at once, immediately, just, right away, rightnow
+ahumado /ˌaumˈaðo/
+smoked
+aire /ˈaɪɾe/
+air
+aire acondicionado /ˈaɪɾe ˌakondˌiθjonˈaðo/
+airconditioning
+aislado /aɪslˈaðo/
+remote
+aislamiento /ˌaɪslamjˈɛnto/
+1. insulation, isolation
+2. separation
+ajuar /axwˈaɾ/
+furniture
+ajustar /ˌaxustˈaɾ/
+1. makeacontract
+2. adjust
+ají /axˈi/
+chilli
+ala /ˈala/
+wing
+alabar /ˌalaβˈaɾ/
+commend, laud, praise
+alambre /alˈambɾe/
+1. wire
+2. ironwire
+alargar /ˌalaɾɣˈaɾ/
+1. give
+2. hand, handover
+3. extend, strechout
+4. pass, spend
+5. lengthen
+6. convey, hand over
+alarma /alˈaɾma/
+alarm
+albaricoque /ˌalβaɾikˈoke/
+apricot
+albaricoquero /ˌalβaɾˌikokˈeɾo/
+apricot‐tree
+albergue /alβˈeɾɣe/
+hostel, inn
+albergue juvenil /alβˈeɾɣe xˌuβenˈil/
+youthhostel
+alcachofa /ˌalkatʃˈofa/
+artichoke
+alcade /alkˈaðe/
+1. mayor
+2. burgomaster, provost
+alcanzable /ˌalkanθˈaβle/
+accessible
+alcanzar /ˌalkanθˈaɾ/
+1. achieve, acquire, attain, get, obtain
+2. accomplish, reach
+alcohol /ˌalkoˈol/
+1. alcohol, booze, liquor, spirits, strongdrink
+alcohol de quemar /ˌalkoˈol ðe kemˈaɾ/
+methylatedspirit
+alcázar /alkˈaθaɾ/
+fortification
+aldea /alðˈea/
+village
+alegre /alˈeɣɾe/
+happy, glad
+alegría /ˌaleɣɾˈia/
+gladness, joy
+alemana /ˌalemˈana/
+German, Germanwoman
+alemán /ˌalemˈan/
+1. German
+2. Germanlanguage
+alentar /ˌalentˈaɾ/
+encourage
+aleta /alˈeta/
+fin
+alfabeto /ˌalfaβˈeto/
+alphabet
+alfiler /ˌalfilˈeɾ/
+pin, needle
+alfombra /alfˈombɾa/
+carpet
+algo /ˈalɣo/
+anything, something
+algodón /ˌalɣoðˈon/
+cotton
+alguien /ˈalɣjen/
+a, any, anybody, some, somebody, one, some one, someone
+alguno /alɣˈuno/
+a, any, anybody, some, somebody, one, some one, someone
+alhaja /alˈaxa/
+1. adornment, decoration, ornament
+aliento /aljˈɛnto/
+breath
+alimentar /ˌalimentˈaɾ/
+feed, nourish
+alimento /ˌalimˈɛnto/
+food, nourishment
+alistar /ˌalistˈaɾ/
+recruit
+alma /ˈalma/
+soul
+almacén /ˌalmaθˈen/
+warehouse
+almanaque /ˌalmanˈake/
+almanac
+almeja /almˈexa/
+mussel
+almendra /almˈɛndɾa/
+almond
+almirante /ˌalmiɾˈante/
+admiral
+almohada /ˌalmoˈaða/
+1. pillow
+2. cushion
+almorranas /ˌalmoɾɾˈanas/
+haemorhoids
+almorzar /ˌalmoɾθˈaɾ/
+lunch
+almuerzo /almwˈeɾθo/
+lunch, snack
+almíbar /almˈiβaɾ/
+syrup
+alojamiento /ˌaloxamjˈɛnto/
+accommodation
+alojarse /ˌaloxˈaɾse/
+1. be a guest of, staywith
+2. be on a visit, stay, stop
+alondra /alˈondɾa/
+lark
+alquilado /ˌalkilˈaðo/
+hiredout
+alquilar /ˌalkilˈaɾ/
+1. let
+2. hire
+3. rentout
+alquitrán /ˌalkitɾˈan/
+tar
+alrededores /ˌalreðeðˈoɾes/
+environment, environs, surroundings
+alrededor de /ˌalreðeðˈoɾ ðˈe/
+about, round, around, towards
+altar /altˈaɾ/
+altar
+alternar /ˌalteɾnˈaɾ/
+alternate
+alternativa /ˌalteɾnatˈiβa/
+alternation
+altitud /ˌaltitˈud/
+altitude, height
+alto /ˈalto/
+1. contralto, contraltovoice
+2. high, lofty, tall
+3. loud
+altura /altˈuɾa/
+height
+altura barométrica /altˈuɾa βˌaɾomˈetɾika/
+barometer reading, heightofthebarometer
+alumbrado /ˌalumbɾˈaðo/
+lighting
+alumbrar /ˌalumbɾˈaɾ/
+illuminate, light
+alumbre /alˈumbɾe/
+alum
+aluminio /ˌalumˈinjo/
+aluminium, aluminum
+al amanecer /al ˌamaneθˈeɾ/
+atdaybreak
+al contrario /al kontɾˈaɾjo/
+reverse, reversed
+al dorso /al ðˈoɾso/
+1. attheback
+2. behind
+al día /al ðˈia/
+aday
+al fin /al fˈin/
+at last, finally, ultimately
+al la derecha /al la ðeɾˈetʃa/
+ontheright
+al menos /al mˈenos/
+atleast
+al mismo tiempo /al mˈismo tjˈempo/
+atthesametime
+al norte de /al nˈoɾte ðˈe/
+above
+al presente /al pɾesˈɛnte/
+currently, nowadays, thesedays
+al principio /al pɾinθˈipjo/
+first, firstly, firstofall
+al revés /al ɾɾeβˈes/
+1. reverse, reversed
+2. vice‐versa
+amable /amˈaβle/
+1. affable, friendly, good‐natured, kind
+2. dainty, nice, pretty
+3. lovable
+amainar /ˌamaɪnˈaɾ/
+1. abate, weaken
+2. decrease, diminish, drop, fall
+amanecer /ˌamaneθˈeɾ/
+dawn, daybreak
+amar /amˈaɾ/
+love
+amargo /amˈaɾɣo/
+acerbic, bitter
+amarillo /ˌamaɾˈiʎo/
+yellow
+amarradero /ˌamaɾɾaðˈeɾo/
+landing‐stage, pier
+amasadura /ˌamasaðˈuɾa/
+massage
+amazona /ˌamaθˈona/
+Amazon
+ambos /ˈambos/
+both
+amenaza /ˌamenˈaθa/
+menace, threat
+amenazar /ˌamenaθˈaɾ/
+menace, threaten
+americana /ˌameɾikˈana/
+1. jacket
+2. American woman
+americano /ˌameɾikˈano/
+1. American
+2. US citizen
+amerindio /ˌameɾˈindjo/
+Indian, American Indian
+amianto /amjˈanto/
+asbestos
+amiga /amˈiɣa/
+friend
+amigo /amˈiɣo/
+friend
+amistad /ˌamistˈad/
+friendship
+amnistía /ˌamnistˈia/
+act of grace, amnesty
+amo /ˈamo/
+1. boss, chief, leader
+amojonar /ˌamoxonˈaɾ/
+mark out, trace, traceout
+amoníaco /ˌamonˈiako/
+ammonia
+amor /amˈoɾ/
+affection, love
+amortiguador /ˌamoɾtˌiɣwaðˈoɾ/
+shock‐absorber
+amortización /ˌamoɾtˌiθaθjˈon/
+redemption
+amortizar /ˌamoɾtiθˈaɾ/
+1. amortize, deaden
+2. pay off, redeem
+ampliación /ˌampliaθjˈon/
+1. aggrandizement, enlargement, increase
+ampolla /ampˈoʎa/
+1. bulb
+2. blister
+amputar /ˌamputˈaɾ/
+amputate
+amén /amˈen/
+amen
+amén de /amˈen dˈe/
+apart from, besides, except, exceptfor
+anales /anˈales/
+annals
+analfabeto /ˌanalfaβˈeto/
+illiterate
+ananás /ˌananˈas/
+pineapple
+anatema /ˌanatˈema/
+anathema, ban, excommunication
+ancas de rana /ˈankas ðe ɾɾˈana/
+frog'slegs
+anchas /ˈantʃas/
+comfort
+ancho /ˈantʃo/
+broad
+anchoa /antʃˈoa/
+anchovy
+anchura /antʃˈuɾa/
+1. width
+anciano /anθjˈano/
+old
+ancla /ˈankla/
+anchor
+anclar /anklˈaɾ/
+anchor
+andar /andˈaɾ/
+march, walk
+andas /ˈandas/
+litter, strecher
+andén /andˈen/
+platform, quay, wharf
+anexar /ˌaneksˈaɾ/
+annex
+anexionar /ˌaneksjonˈaɾ/
+annex
+anexión /ˌaneksjˈon/
+annexation
+anguila /aŋɡˈila/
+eel
+angustia /aŋɡˈustja/
+1. agony, anguish, fear
+2. fright
+angustioso /ˌaŋɡustjˈoso/
+afraid, fearful
+anillo /anˈiʎo/
+ring
+animación /ˌanimaθjˈon/
+encouragement
+animal /ˌanimˈal/
+1. animal
+2. beast
+animar /ˌanimˈaɾ/
+1. encourage, impel, instigate, spur on, stimulate, urge
+2. cheer, fire, inspire
+3. fan, stir up, urgeon
+4. rouse, stirup
+ano /ˈano/
+anus, arse
+anoche /anˈotʃe/
+lastnight
+anonchecer /ˌanontʃeθˈeɾ/
+dusk
+anormal /ˌanoɾmˈal/
+abnormal
+anotación /ˌanotaθjˈon/
+annotation, note
+anotar /ˌanotˈaɾ/
+note, make a note, writedown
+anteayer /ˌanteajjˈeɾ/
+thedaybeforeyesterday
+antebrazo /ˌanteβɾˈaθo/
+lower‐arm
+antecedente /ˌanteθeðˈɛnte/
+antecedent
+antena /antˈena/
+aerial, antenna
+anteriormente /ˌanteɾjˈoɾmˈente/
+ahead, formerly, previously
+antes /ˈantes/
+1. before, infrontof
+2. first, firstly, firstofall
+antes de que /ˈantes ðe kˈe/
+before, previousto
+anticongelante /ˌantikˌoŋxelˈante/
+antifreeze
+antideslizante /ˌantiðˌesliθˈante/
+non‐skid
+antiguo /antˈiɣwo/
+ancient, antique
+antigüedad /ˌantiɣˌueðˈad/
+antiquity
+antiséptico /ˌantisˈepːtiko/
+antiseptic
+anualidad /ˌanwaliðˈad/
+instalment, repayment
+anualmente /anwˈalmˈente/
+annual, yearly
+anudar /ˌanuðˈaɾ/
+tieon
+anular /ˌanulˈaɾ/
+1. cancel, countermand
+2. abjure, abolish, abrogate, annul, remit
+anunciar /ˌanunθjˈaɾ/
+1. advertise, announce, givenotice
+2. advise, counsel, notify
+anuncio /anˈunθjo/
+1. announcement, notification, notice
+2. ad, advertisement
+anzuelo /anθwˈelo/
+hook
+anécdota /anˈekðota/
+anecdote
+anís /anˈis/
+anise
+anónimo /anˈonimo/
+1. anonymous
+2. nameless, withoutaname
+apagar /ˌapaɣˈaɾ/
+extinguish, putout
+aparador /ˌapaɾaðˈoɾ/
+chest, dresser
+aparador de cocina /ˌapaɾaðˈoɾ ðe koθˈina/
+dresser
+aparato /ˌapaɾˈato/
+apparatus, device, set
+aparato para sordos /ˌapaɾˈato pˌaɾa sˈoɾðos/
+hearingaid
+aparcamiento /ˌapaɾkamjˈɛnto/
+1. parkinggarage
+2. car park, lay‐by, parking bay, parking garage, parkingplace
+aparcamiento de taxis /ˌapaɾkamjˈɛnto ðe tˈaksis/
+cab‐stand
+aparecer /ˌapaɾeθˈeɾ/
+appear, emerge, perform
+apariencia /ˌapaɾjˈɛnθja/
+appearance
+apartado /ˌapaɾtˈaðo/
+1. paragraph
+2. remote
+apartamento /ˌapaɾtamˈɛnto/
+apartment, flat
+apartar /ˌapaɾtˈaɾ/
+1. divide, separate
+2. turnaway
+aparte /apˈaɾte/
+1. apart, particular, separate, special
+2. separately
+apelación /ˌapelaθjˈon/
+appeal
+apellido /ˌapeʎˈiðo/
+surname
+apenas /apˈenas/
+barely, hardly, only just, scarcely
+aperitivo /ˌapeɾitˈiβo/
+dram, nip, peg, snifter, snorter
+apestar /ˌapestˈaɾ/
+reek, smell, smell bad, stink
+apetito /ˌapetˈito/
+appetite
+apio /ˈapjo/
+1. celery
+2. turnip‐rootedcelery
+aplaudir /ˌaplaʊðˈiɾ/
+acclaim, applaud, clap
+aplauso /aplˈaʊso/
+acclaim, acclamation, approval
+apoplejía /ˌapoplexˈia/
+fit, apoplectic fit, seizure, stroke, strokeofapoplexy
+aporrear /ˌapoɾɾeˈaɾ/
+thrash
+apostar /ˌapostˈaɾ/
+bet, wager
+apostatar /ˌapostatˈaɾ/
+apostatize
+apoyarse /ˌapojjˈaɾse/
+lean
+aprender /ˌapɾendˈeɾ/
+learn
+apresurarse /ˌapɾesuɾˈaɾse/
+1. go fast, hurry, rush
+apretar /ˌapɾetˈaɾ/
+1. press, oppress, squeeze
+2. fasten, tighten, turn, turnon
+aprovechar /ˌapɾoβetʃˈaɾ/
+1. avail
+2. make use of, turn to good account, utilize
+aprovecharse /ˌapɾoβetʃˈaɾse/
+profit
+aprovisionamiento /ˌapɾoβˌisjonamjˈɛnto/
+1. arrival, arrivals, supply
+aproximarse /ˌapɾoksimˈaɾse/
+advance, come close, come closer, comeon
+apróximadamente /apɾˈoksimˌaðamˈente/
+about, approximately
+apuntar /ˌapuntˈaɾ/
+note, make a note, writedown
+apéndice /apˈendiθe/
+1. accessory, side‐issue
+2. addition, adjunct
+3. appendix
+apócrifo /apˈokɾifo/
+apocryphal
+apóstata /apˈostata/
+apostate
+apóstol /apˈostol/
+apostle
+arabesco /ˌaɾaβˈesko/
+arabesque
+arado /aɾˈaðo/
+plough
+araña /aɾˈaɲa/
+spider
+arbusto /aɾβˈusto/
+bush, shrub
+arca /ˈaɾka/
+1. ark
+2. box, chest
+archi‐ /ˈaɾtʃi/
+arch‐, chief‐
+archiduque /ˌaɾtʃiðˈuke/
+archduke
+archipiélago /ˌaɾtʃipjˈelaɣo/
+archipelago
+archivero /ˌaɾtʃiβˈeɾo/
+archivist, keeperoftherecords
+archivista /ˌaɾtʃiβˈista/
+archivist, keeperoftherecords
+archivo /aɾtʃˈiβo/
+archive, archives, files, records
+arcilla /aɾθˈiʎa/
+clay
+arco iris /ˈaɾko ˈiɾis/
+rainbow
+arder /aɾðˈeɾ/
+burn
+ardilla /aɾðˈiʎa/
+squirrel
+arena /aɾˈena/
+1. arena
+2. sand
+arenas movedizas /aɾˈenas mˌoβeðˈiθas/
+quicksand, quicksands
+arenque /aɾˈɛnke/
+herring
+arenque ahumado /aɾˈɛnke ˌaumˈaðo/
+redherring
+argelina /ˌaɾxelˈina/
+Algerianwoman
+argelino /ˌaɾxelˈino/
+Algerian
+argentina /ˌaɾxentˈina/
+Argentinianwoman
+argentino /ˌaɾxentˈino/
+1. Argentine, Argentinean
+argumento /ˌaɾɣumˈɛnto/
+argument, plea
+aristócrata /ˌaɾistˈokɾata/
+aristocrat
+arma /ˈaɾma/
+weapon
+armar /aɾmˈaɾ/
+arm
+armario /aɾmˈaɾjo/
+cabinet, closet, cupboard, sideboard
+armario para libros /aɾmˈaɾjo pˌaɾa lˈiβɾos/
+bookcase
+armario ropero /aɾmˈaɾjo ɾɾopˈeɾo/
+clothes‐press, wardrobe
+arquitecto /ˌaɾkitˈekto/
+architect
+arrancar /ˌaɾɾankˈaɾ/
+1. pick, pluck, tearoff
+2. put on, start, switch on, turnon
+3. startrunning
+4. extort, wrest, wring
+5. abstract, takeaway
+arranque /aɾɾˈanke/
+run
+arreglar /ˌaɾɾeɣlˈaɾ/
+arrange, put in order, tidy
+arreglo /aɾɾˈeɣlo/
+1. accommodation, adjustment, arrangement
+2. accord, agreement
+arrendar /ˌaɾɾendˈaɾ/
+hire
+arrepentimiento /ˌaɾɾepˌentimjˈɛnto/
+repentance
+arrestar /ˌaɾɾestˈaɾ/
+arrest
+arresto /aɾɾˈesto/
+apprehension, arrest, detention
+arriba /aɾɾˈiβa/
+above, on top, overhead, upstairs
+arriesgado /ˌaɾɾiesɣˈaðo/
+adventurous, hazardous, risky
+arriesgar /ˌaɾɾiesɣˈaɾ/
+hazard, risk, venture
+arroba /aɾɾˈoβa/
+atpersand, commercial‐at sign, snail
+arrodillarse /ˌaɾɾoðiʎˈaɾse/
+kneel
+arrogante /ˌaɾɾoɣˈante/
+arrogant
+arrojar /ˌaɾɾoxˈaɾ/
+result
+arromar /ˌaɾɾomˈaɾ/
+blunt
+arroyo /aɾɾˈojjo/
+stream
+arroz /aɾɾˈoθ/
+rice
+arruinar /ˌaɾɾuinˈaɾ/
+ruin
+arrurruz /ˌaɾɾuɾɾˈuθ/
+curry
+arte /ˈaɾte/
+art
+arteria /aɾtˈeɾja/
+artery
+artesanía /ˌaɾtesanˈia/
+handiwork
+artificial /ˌaɾtifiθjˈal/
+artificial
+artillero /ˌaɾtiʎˈeɾo/
+1. artilleryman, gunner
+artillería /ˌaɾtiʎeɾˈia/
+artillery
+artista /aɾtˈista/
+artist
+artículo /aɾtˈikulo/
+1. article, commodity
+artículos de cuero /aɾtˈikulos ðe kwˈeɾo/
+leathergoods
+artículo determinado /aɾtˈikulo ðˌeteɾminˈaðo/
+definitearticle
+artístico /aɾtˈistiko/
+artistic
+arzo‐ /ˈaɾθo/
+arch‐, chief‐
+arzobispado /ˌaɾθoβispˈaðo/
+archbishopric
+arzobispo /ˌaɾθoβˈispo/
+archbishop
+as /ˈas/
+ace
+asado /asˈaðo/
+roasted
+asalter /ˌasaltˈeɾ/
+assault, violate
+asar /asˈaɾ/
+roast, toast
+ascender /ˌasθendˈeɾ/
+ascend, climb, scale
+ascender a /ˌasθendˈeɾ ˈa/
+amountto
+ascensor /ˌasθensˈoɾ/
+elevator, lift
+asediar /ˌaseðjˈaɾ/
+besiege
+asedio /asˈeðjo/
+siege
+asegurador /ˌaseɣˌuɾaðˈoɾ/
+insurer
+asegurar /ˌaseɣuɾˈaɾ/
+1. insure
+2. affirm, assure
+asentir /ˌasentˈiɾ/
+affirm, assent, sayyes
+asfalto /asfˈalto/
+asphalt
+asiento /asjˈɛnto/
+seat
+asilo /asˈilo/
+asylum
+asir /asˈiɾ/
+1. clutch, grab, grasp, grip, seize
+2. grapple
+3. capture, catch
+asistencias /ˌasistˈɛnθjas/
+alimony
+asistente /ˌasistˈɛnte/
+aid, assistant, helper
+asiático /asjˈatiko/
+1. Asian, Asiatic
+asma /ˈasma/
+asthma, shortness of breath, wheeziness
+asombrar /ˌasombɾˈaɾ/
+amaze
+asombrarse /ˌasombɾˈaɾse/
+marvel, marvel at, wonder
+aspecto /aspˈekto/
+1. appearance, aspect, look, sight, view
+2. exterior
+aspirina /ˌaspiɾˈina/
+aspirin
+aster /astˈeɾ/
+aster
+astilla /astˈiʎa/
+splinter
+astrigente antidiárrico /ˌastɾixˈɛnte ˌantiðjˈaɾɾiko/
+adstringent
+astronauta /ˌastɾonˈaʊta/
+astronaut, spaceman
+astucia /astˈuθja/
+1. snare
+2. craft, craftiness, cunning, guile
+astuto /astˈuto/
+1. insidious
+2. malicious, mischievous, nasty, vicious
+asumir /ˌasumˈiɾ/
+guess, presume, suppose, surmise
+asunto /asˈunto/
+affair, business, business deal, case, matter
+así /asˈi/
+so, such, thus
+así así /asˈi asˈi/
+soso
+así como /asˈi kˈomo/
+and also, and ... as well, as well as, togetherwith
+atacador /ˌatakaðˈoɾ/
+aggressor, assailant, attacker
+atacar /ˌatakˈaɾ/
+1. commitaggression
+2. assault, attack
+ataque /atˈake/
+1. access, aggression, attack
+2. assault
+atención /ˌatenθjˈon/
+acuity, advertence, advertency, attention
+atender /ˌatendˈeɾ/
+advert, pay attention, pay attention to, watchoutfor
+atender a /ˌatendˈeɾ ˈa/
+1. advert, pay attention, pay attention to, watchoutfor
+2. lookafter
+atentado /ˌatentˈaðo/
+assault
+atento /atˈɛnto/
+attentive
+aterrizaje /ˌateɾɾiθˈaxe/
+landing
+aterrizar /ˌateɾɾiθˈaɾ/
+land
+atleta /atlˈeta/
+athlete
+atletismo /ˌatletˈismo/
+athletics
+atlántico /atlˈantiko/
+Atlantic
+atlético /atlˈetiko/
+athletic
+atmosférico /ˌatmosfˈeɾiko/
+atmospheric
+atmósfera /atmˈosfeɾa/
+atmosphere
+atomización /ˌatomˌiθaθjˈon/
+fission
+atornillar /ˌatoɾniʎˈaɾ/
+screw
+atracar /ˌatɾakˈaɾ/
+land
+atractivo /ˌatɾaktˈiβo/
+attractive
+atraer /ˌatɾaˈeɾ/
+1. attract, draw
+atrasado /ˌatɾasˈaðo/
+backward, mentally deficient, retarded
+atrasarse /ˌatɾasˈaɾse/
+belate
+atrasos /atɾˈasos/
+arrears
+atravesar /ˌatɾaβesˈaɾ/
+1. cross, go beyond, transfer
+2. gobeyond
+atrayente /ˌatɾajjˈɛnte/
+attractive
+atreverse /ˌatɾeβˈeɾse/
+be bold, dare
+atropallamiento /ˌatɾopˌaʎamjˈɛnto/
+collision
+atropellar /ˌatɾopeʎˈaɾ/
+collide, run
+atrás /atɾˈas/
+1. at the back, behind, intherear
+2. backward, backwards
+3. back
+aturdir /ˌatuɾðˈiɾ/
+1. drug
+2. intoxicate, stun, stupefy
+atún /atˈun/
+tuna, tuna‐fish, tunny
+audiencia /aʊðjˈɛnθja/
+audience
+aula magna /ˈaʊla mˈaɡna/
+auditorium
+aumentar /ˌaʊmentˈaɾ/
+1. accrue, grow
+2. increase, freshen
+aumento /aʊmˈɛnto/
+accretion, growth
+aunque /ˈaʊnke/
+though, although
+ausencia /aʊsˈɛnθja/
+absence
+ausente /aʊsˈɛnte/
+absent
+australiano /ˌaʊstɾaljˈano/
+Australian
+austriaco /ˌaʊstɾiˈako/
+1. Austrian
+autobús /ˌaʊtoβˈus/
+bus, autobus, omnibus
+autoestrada /ˌaʊtoestɾˈaða/
+1. motor road, motorway
+automático /ˌaʊtomˈatiko/
+1. automatic
+2. automoton
+automóvil /ˌaʊtomˈoβil/
+car
+autopista /ˌaʊtopˈista/
+1. motor road, motorway
+autor /aʊtˈoɾ/
+1. author
+2. writer
+autoridad /ˌaʊtoɾiðˈad/
+authority
+autorización /ˌaʊtoɾˌiθaθjˈon/
+authorization
+autovía /ˌaʊtoβˈia/
+motorway, super highway, turnpike
+autócrata /aʊtˈokɾata/
+absolute ruler, autocrat
+autónomo /aʊtˈonomo/
+autonomic, autonomous
+avalancha /ˌaβalˈantʃa/
+avalanche
+ave /ˈaβe/
+bird
+avellana /ˌaβeʎˈana/
+hazelnut
+avena /aβˈena/
+oats
+avenida /ˌaβenˈiða/
+avenue
+aventajar /ˌaβentaxˈaɾ/
+exceed, surpass
+aventura /ˌaβentˈuɾa/
+adventure
+aventurero /ˌaβentuɾˈeɾo/
+1. adventurous
+2. adventurer
+avergonzarse /ˌaβeɾɣonθˈaɾse/
+beashamed
+averia /aβˈeɾja/
+brakedown
+aversión /ˌaβeɾsjˈon/
+1. abhorrence, abomination, horror
+2. aversion, dislike
+3. disgust, nausea
+avería /ˌaβeɾˈia/
+damage
+aves /ˈaβes/
+1. birds
+2. fowl, poultry
+avestruz /ˌaβestɾˈuθ/
+ostrich
+aviación /ˌaβjaθjˈon/
+aeronautics, aviation
+avisar /ˌaβisˈaɾ/
+caution, warn
+aviso /aβˈiso/
+1. warning
+2. notification, notice
+avispa /aβˈispa/
+wasp
+avión /aβjˈon/
+1. aeroplane, airplane, plane
+2. aircraft
+axioma /aksjˈoma/
+axiom
+ay /ˈaɪ/
+1. ah, oh, ow
+2. woe
+ayer /ajjˈeɾ/
+yesterday
+ayuda /ajjˈuða/
+1. aid, help
+ayudante /ˌajjuðˈante/
+1. adjutant, aide‐de‐camp
+2. aid, assistant, helper
+ayudar /ˌajjuðˈaɾ/
+accomodate, aid, assist, help
+ayunar /ˌajjunˈaɾ/
+fast
+ayuntamiento /ˌajjuntamjˈɛnto/
+1. town‐hall
+2. city hall, townhall
+azada /aθˈaða/
+hoe
+azafata /ˌaθafˈata/
+stewardess
+azteca /aθtˈeka/
+Aztec
+azucarero /ˌaθukaɾˈeɾo/
+sugar‐bowl, sugarbowl
+azul /aθˈul/
+1. blue
+2. skyblue
+azulejo /ˌaθulˈexo/
+tile
+azúcar /aθˈukaɾ/
+sugar
+aún /aˈun/
+still, yet
+a bordo /a βˈoɾðo/
+aboard
+a cuadros /a kwˈaðɾos/
+checked, chequered
+a eso de /a ˈeso ðˈe/
+about, approximately
+a instancias de /a instˈanθjas ðˈe/
+attheinstanceof
+a la cubana /a la kuβˈana/
+intheCubanway
+a la izquierda /a la iθkjˈeɾða/
+ontheleft
+a lo largo de /a lo lˈaɾɣo ðˈe/
+1. along
+2. through
+a lo menos /a lo mˈenos/
+atleast
+a menudo /a menˈuðo/
+frequently, often, regularly
+a propósito /a pɾopˈosito/
+bytheway
+a que /a kˈe/
+until, till
+a saber /a saβˈeɾ/
+thatis
+a su salud /a su salˈud/
+cheers, goodhealth
+a tiempo /a tjˈempo/
+at the right time, intime
+a través de /a tɾaβˈes ðˈe/
+across, beyond, ontheothersideof
+a veces /a βˈeθes/
+several times, sometimes
+año /ˈaɲo/
+year
+año bisiesto /ˈaɲo βisjˈesto/
+leap‐year
+año nuevo /ˈaɲo nwˈeβo/
+NewYear'sDay
+babero /baβˈeɾo/
+bib
+babor /baβˈoɾ/
+portside
+babosa /baβˈosa/
+slug
+bacalao /bˌakalˈao/
+cod, codfish
+bache /bˈatʃe/
+1. pole
+2. cavity
+3. cave
+bacteria /baktˈeɾja/
+bacterium
+badajo /baðˈaxo/
+clapper
+bagatela /bˌaɣatˈela/
+trifle
+bagazo /baɣˈaθo/
+bagasse
+bahía /baˈia/
+bay
+bailar /baɪlˈaɾ/
+dance
+bailarín de ballet /bˌaɪlaɾˈin de βaʎˈet/
+balletdancer
+baile /bˈaɪle/
+1. ball, dance
+baja /bˈaxa/
+1. abatement
+2. decay
+bajamar /bˌaxamˈaɾ/
+lowtide
+bajar /baxˈaɾ/
+1. getout
+2. descend, godown
+3. decrease, lower
+4. get off
+5. discount, rebate
+bajo /bˈaxo/
+1. bass, bassvoice
+2. low
+bajorrelieve /bˌaxoɾɾeljˈeβe/
+bas‐relief, lowrelief
+bala /bˈala/
+bale
+balance /balˈanθe/
+balancesheet
+balancear /bˌalanθeˈaɾ/
+1. rock, swing
+2. balance, poise
+balanza /balˈanθa/
+scales
+balaustrada /bˌalaʊstɾˈaða/
+balustrade, banisters, parapet, railing
+balcón /balkˈon/
+balcony
+baliza /balˈiθa/
+1. buoy
+2. beacon
+ballena /baʎˈena/
+1. whale
+2. baleen, whalebone
+3. busk, steel
+ballet /baʎˈet/
+ballet
+balneario /bˌalneˈaɾjo/
+spa
+baloncesto /bˌalonθˈesto/
+basketball
+balotaje /bˌalotˈaxe/
+ballot, balloting, votingbyballot
+bambú /bambˈu/
+bamboo
+bancarrota quiebra /bˌankaɾɾˈota kjˈeβɾa/
+bankruptcy, failure
+banco /bˈanko/
+1. bank
+2. bench
+bandeja /bandˈexa/
+tray
+bandera /bandˈeɾa/
+1. banner, flag
+2. standard
+bandido /bandˈiðo/
+bandit
+banquero /bankˈeɾo/
+banker, bankmanager
+banquete /bankˈete/
+1. banquet
+2. feast
+bar /bˈaɾ/
+1. buffet
+2. bar, pub
+barato /baɾˈato/
+cheap, inexpensive
+barba /bˈaɾβa/
+1. beard
+2. chin
+barbero /baɾβˈeɾo/
+barber
+barco /bˈaɾko/
+1. bark, barque
+2. boat
+3. ship, vessel
+barco de remos /bˈaɾko ðe ɾɾˈemos/
+row‐boat, rowing‐boat
+barco de vapor /bˈaɾko ðe βapˈoɾ/
+steamship
+barman /bˈaɾman/
+barman, bartender
+baronesa /bˌaɾonˈesa/
+baroness
+barraca /baɾɾˈaka/
+barrack, barn, shack, shanty, shed
+barra de chocolate /bˈaɾɾa ðe tʃˌokolˈate/
+barofchocolate
+barrena /baɾɾˈena/
+bore
+barrendero /bˌaɾɾendˈeɾo/
+sweeper
+barrer /baɾɾˈeɾ/
+sweep
+barricada /bˌaɾɾikˈaða/
+barricade
+barrio /bˈaɾɾio/
+district, neighbourhood, quarter
+barrio bajo /bˈaɾɾio βˈaxo/
+back street, slum
+barro /bˈaɾɾo/
+mud
+barítono /baɾˈitono/
+baritone
+barómetro /baɾˈometɾo/
+barometer
+barón /baɾˈon/
+baron
+basalto /basˈalto/
+basalt, whimstone
+basar /basˈaɾ/
+base
+bastante /bastˈante/
+1. a little, rather, some, somewhat, tosomeextent
+2. enough, sufficient
+3. quite, sufficiently
+bastar /bastˈaɾ/
+suffice
+bastardo /bastˈaɾðo/
+bastard
+bastidor /bˌastiðˈoɾ/
+flat
+basurero /bˌasuɾˈeɾo/
+dump, refuse dump, tip, rubbishtip
+bata /bˈata/
+négligé, undress
+batalla /batˈaʎa/
+action, battle, scuffle, struggle
+batallón /bˌataʎˈon/
+battalion
+batata /batˈata/
+sweet potato, yam
+batería /bˌateɾˈia/
+battery
+batista /batˈista/
+batiste, cambric, lawn
+baya /bˈajja/
+berry
+bayeta /bajjˈeta/
+baize
+bazar /baθˈaɾ/
+1. bazaar, fair, market
+baúl /baˈul/
+trunk
+bañador /bˌaɲaðˈoɾ/
+swimmingtrunks
+bañar /baɲˈaɾ/
+bathe
+bañarse /baɲˈaɾse/
+bathe, haveabath
+bañero /baɲˈeɾo/
+bath superintendant, bathssuperintendant
+baño /bˈaɲo/
+bath
+beber /beβˈeɾ/
+drink
+bebida /beβˈiða/
+beverage, drink
+bebé /beβˈe/
+baby
+beige /bˈeɪxe/
+beige
+belga /bˈelɣa/
+Belgian, Belgianwoman
+belleza /beʎˈeθa/
+beauty
+bencina /benθˈina/
+gasolene, gasoline, petrol
+besar /besˈaɾ/
+kiss
+beso /bˈeso/
+kiss
+bestia /bˈestja/
+animal, beast
+bestial /bestjˈal/
+beastly, bestial
+biblioteca /bˌiβliotˈeka/
+library
+bicarbonato /bˌikaɾβonˈato/
+bicarbonateofsoda
+bicicleta /bˌiθiklˈeta/
+1. bike, cycle, bicycle
+bien /bjˈen/
+okay, well
+bienvenida /bjˌembenˈiða/
+welcome
+bife /bˈife/
+steak, beefsteak
+biftec /biftˈek/
+steak, beefsteak
+bigoti /biɣˈoti/
+moustache
+bilis /bˈilis/
+bile, gall
+billete /biʎˈete/
+bill, ticket, note
+billete del tren /biʎˈete ðel tɾˈen/
+railway ticket, trainticket
+billete de banco /biʎˈete ðe βˈanko/
+bank‐note
+billete de entrada /biʎˈete ðe entɾˈaða/
+admissionticket
+billete de equipaje /biʎˈete ðe ˌekipˈaxe/
+luggageticket
+billete de ida y vuelta /biʎˈete ðe ˈiða i βwˈelta/
+return‐ticket
+billete de viaje /biʎˈete ðe βjˈaxe/
+ticket
+billete por un día /biʎˈete poɾ ˈun dˈia/
+day‐ticket
+biquini /bikˈini/
+bikini
+birrete /biɾɾˈete/
+1. beret
+2. cap
+bisnieta /bisnjˈeta/
+greatgranddaughter
+bisnieto /bisnjˈeto/
+greatgrandson
+bistec /bistˈek/
+steak, beefsteak
+bisté /bistˈe/
+steak, beefsteak
+bizcocho /biθkˈotʃo/
+1. bicuit
+2. biscuit, cookie
+blanco /blˈanko/
+white
+bloc de notas /blˈok ðe nˈotas/
+notepad
+bloque /blˈoke/
+block, pad
+blusa /blˈusa/
+blouse
+boca /bˈoka/
+mouth
+bocadillo /bˌokaðˈiʎo/
+1. roll
+2. sandwich
+boca arriba /bˈoka aɾɾˈiβa/
+1. backward, onone'sback
+2. backwards
+bocina /boθˈina/
+1. hooter
+2. horn, klaxon
+boda /bˈoða/
+1. wedding, wedding‐party
+boina /bˈoɪna/
+beret
+bola /bˈola/
+1. chunk, clod, lump
+2. bullet
+bolsa /bˈolsa/
+hand‐bag
+bolsa de trabajo /bˈolsa ðe tɾaβˈaxo/
+employment exchange, labor exchange, labourexchange
+bolsa para bicicletas /bˈolsa pˌaɾa βˌiθiklˈetas/
+cycle‐bag
+bolsa para señoras /bˈolsa pˌaɾa seɲˈoɾas/
+lady's bag, vanitybag
+bolígrafo /bolˈiɣɾafo/
+ballpointpen
+bomba /bˈomba/
+1. bomb
+2. pump
+bomba atómica /bˈomba atˈomika/
+atombomb
+bomba incendiaria /bˈomba ˌinθendjˈaɾja/
+incendiarybomb
+bombón /bombˈon/
+bonbon, bon‐bon
+bondad /bondˈad/
+goodness
+boniato /bonjˈato/
+sweet potato, yam
+bonito /bonˈito/
+1. affable, friendly, good‐natured, kind
+2. beautiful, fine, handsome, lovely
+3. nice
+4. delightful
+5. charming
+borde /bˈoɾðe/
+border, brim, brink, edge, edging, fringe, rim
+borracho /boɾɾˈatʃo/
+drunk, intoxicated
+bosque /bˈoske/
+forest, woods
+bota /bˈota/
+boot
+bota de montaña /bˈota ðe montˈaɲa/
+mountaineeringboot
+botella /botˈeʎa/
+bottle
+botella de gas /botˈeʎa ðe ɣˈas/
+gas cannister, gascylinder
+botica /botˈika/
+chemist's shop, drugstore
+boticario /bˌotikˈaɾjo/
+chemist
+botón /botˈon/
+button
+botón de presión /botˈon de pɾesjˈon/
+push‐button
+boxeador /bˌokseaðˈoɾ/
+boxer
+boya /bˈojja/
+buoy
+braguitas /bɾaɣˈitas/
+briefs
+branquia /bɾˈankja/
+gill
+brasileña /bɾˌasilˈeɲa/
+Brazilianwoman
+brasileño /bɾˌasilˈeɲo/
+Brazilian
+bravo /bɾˈaβo/
+brave, courageous, valiant
+brazalete /bɾˌaθalˈete/
+bracelet
+brazo /bɾˈaθo/
+arm
+brema /bɾˈema/
+bream
+brezal /bɾeθˈal/
+heath
+brillar /bɾiʎˈaɾ/
+shine
+britano /bɾitˈano/
+Briton
+británico /bɾitˈaniko/
+British
+brocha de afeitar /bɾˈotʃa ðe ˌafeɪtˈaɾ/
+shaving‐brush
+broma /bɾˈoma/
+gag, joke
+bromear /bɾˌomeˈaɾ/
+jest, joke
+bronco /bɾˈonko/
+1. abrupt
+2. brutal, gruff, harsh, rough, sour, surly, unkind, unpleasant
+brumoso /bɾumˈoso/
+fuzzy, misty
+brusco /bɾˈusko/
+abrupt
+brusko /bɾˈusko/
+brutal, gruff, harsh, rough, sour, surly, unkind, unpleasant
+brújula /bɾˈuxula/
+compass
+bucear /bˌuθeˈaɾ/
+1. dive, plunge
+2. sink
+buenas noches /bwˈenas nˈotʃes/
+goodnight
+buenas tardes /bwˈenas tˈaɾðes/
+goodevening
+bueno /bwˈeno/
+good, nice, okay
+buenos días /bwˈenos ðˈias/
+1. goodmorning
+2. goodday
+buey /bwˈeɪ/
+ox
+buho /bˈuo/
+owl
+bujía /buxˈia/
+plug, sparkplug
+bula /bˈula/
+indulgence
+burdel /buɾðˈel/
+brothel
+burla /bˈuɾla/
+gag, joke
+burro /bˈuɾɾo/
+ass, donkey
+buscar /buskˈaɾ/
+1. fetch, get, pickup
+2. lay hold of, pick up, take
+3. look for, seek
+butaca /butˈaka/
+armchair
+butifarra de hígado /bˌutifˈaɾɾa ðe ˈiɣaðo/
+liversausage
+buzón /buθˈon/
+letterbox, mailbox
+bálsamo /bˈalsamo/
+balm, balsam
+báltico /bˈaltiko/
+Baltic
+bárbaro /bˈaɾβaɾo/
+barbarian
+bázico /bˈaθiko/
+basic
+búfalo /bˈufalo/
+buffalo
+búlgara /bˈulɣaɾa/
+Bulgarianwoman
+búlgaro /bˈulɣaɾo/
+1. Bulgarian
+2. Bulgar
+cabal /kaβˈal/
+1. absolute, complete
+2. entire, overall, whole
+caballero /kˌaβaʎˈeɾo/
+cavalier, knight
+caballería /kˌaβaʎeɾˈia/
+cavalry
+caballo /kaβˈaʎo/
+horse
+caballos /kaβˈaʎos/
+horsepower
+caballo padre /kaβˈaʎo pˈaðɾe/
+stallion
+cabana /kaβˈana/
+cabin, hut, shack
+cabeza /kaβˈeθa/
+head, pate
+cabina /kaβˈina/
+1. bathingbox
+2. barn, shed, stand
+cabina telefónica /kaβˈina tˌelefˈonika/
+call box, telephone kiosk, phone booth, telephonebooth
+cable /kˈaβle/
+cable
+cable de remolque /kˈaβle ðe ɾɾemˈolke/
+towing‐line
+cabra /kˈaβɾa/
+goat
+cabrón /kaβɾˈon/
+he‐goat
+cacahuete /kˌakawˈete/
+peanut
+cacahué /kˌakawˈe/
+peanut
+cacao /kakˈao/
+cocoa
+cacerola /kˌaθeɾˈola/
+casserole, saucepan
+cacto /kˈakto/
+cactus
+cada vez /kˈaða βˈeθ/
+each time, everytime
+cadena /kaðˈena/
+chain
+cadena antideslizante /kaðˈena ˌantiðˌesliθˈante/
+non‐skidchain
+cadera /kaðˈeɾa/
+hip
+caer /kaˈeɾ/
+drop, fall
+caer enfermo /kaˈeɾ emfˈeɾmo/
+be taken ill, fallill
+cafetera /kˌafetˈeɾa/
+coffee‐pot
+cafetería /kˌafeteɾˈia/
+cafetaria
+café /kafˈe/
+café, coffee‐house
+caja /kˈaxa/
+1. cashier's stand, fund, money box, money‐box, till
+2. box, chest
+3. jug, container, vessel
+caja de cambios /kˈaxa ðe kˈambjos/
+gear‐box, gear‐case
+cal /kˈal/
+lime
+calabacín /kˌalaβaθˈin/
+courgette, zucchini
+calabaza /kˌalaβˈaθa/
+calabash, gourd
+calamar /kˌalamˈaɾ/
+sepia
+calcetín /kˌalθetˈin/
+sock
+calcular /kˌalkulˈaɾ/
+calculate, count, figure, workout
+caldo /kˈalðo/
+bouillon
+calefacción /kˌalefakθjˈon/
+heating
+calefacción central /kˌalefakθjˈon θentɾˈal/
+centralheating
+calendario /kˌalendˈaɾjo/
+almanac
+calentar /kˌalentˈaɾ/
+heat, stoke
+calidad /kˌaliðˈad/
+property, quality
+caliente /kaljˈɛnte/
+1. warm
+2. hot
+callarse /kaʎˈaɾse/
+bequiet
+calle /kˈaʎe/
+street
+calleja /kaʎˈexa/
+alley, lane
+callo /kˈaʎo/
+corn
+calmar /kalmˈaɾ/
+appease, calm, quiet, soothe, still
+calmarse /kalmˈaɾse/
+1. abate, subside
+2. calmdown
+calor /kalˈoɾ/
+heat
+caloría /kˌaloɾˈia/
+calorie
+calumniar /kˌalumnjˈaɾ/
+slander
+calzador /kˌalθaðˈoɾ/
+shoe‐horn, shoe‐lift
+calzoncillos /kˌalθonθˈiʎos/
+drawers, panties, underpants
+cama /kˈama/
+1. sleeping‐accomodation, sleeping‐place
+2. bed
+camarera /kˌamaɾˈeɾa/
+1. dressing‐gown
+2. waitress
+camarero /kˌamaɾˈeɾo/
+waiter
+camarote /kˌamaɾˈote/
+cabin
+cama de matrimonio /kˈama ðe mˌatɾimˈonjo/
+doublebed
+cambiar /kambjˈaɾ/
+1. alter, change
+2. interchange, swap
+3. vary
+4. turn
+cambio /kˈambjo/
+1. variety
+2. change
+camello /kamˈeʎo/
+camel
+camilla /kamˈiʎa/
+litter, strecher
+camino /kamˈino/
+1. path, road, way
+2. route
+camino sin salida /kamˈino sin salˈiða/
+blind alley, cul‐de‐sac
+camisa /kamˈisa/
+shirt
+camisa de deporte /kamˈisa ðe ðepˈoɾte/
+sportsshirt
+camiseta /kˌamisˈeta/
+shirt
+camisón /kˌamisˈon/
+night‐shirt
+camita /kamˈita/
+bedstead
+camita de niño /kamˈita ðe nˈiɲo/
+child's bed, cot
+camión /kamjˈon/
+lorry, truck
+camote /kamˈote/
+sweet potato, yam
+campamento /kˌampamˈɛnto/
+1. camping ground, campingsite
+2. camp of tents, tentedcamp
+campana /kampˈana/
+hood, suctionapparatus
+campanilla /kˌampanˈiʎa/
+1. bell
+2. blister
+campesino /kˌampesˈino/
+farmer
+camping /kˈampiŋ/
+camping ground, campingsite
+campo /kˈampo/
+1. country, countryside
+2. field
+campo deportivo /kˈampo ðˌepoɾtˈiβo/
+sportsground
+campo santo /kˈampo sˈanto/
+cemetery, God's acre, graveyard
+canal /kanˈal/
+canal, channel
+canapé /kˌanapˈe/
+couch, sofa
+canario /kanˈaɾjo/
+Canary
+canción /kanθjˈon/
+song
+candelero /kˌandelˈeɾo/
+candlestick
+cangrejo /kaŋɡɾˈexo/
+1. crayfish
+2. crab
+cansado /kansˈaðo/
+tired
+cansar /kansˈaɾ/
+fag out, jade, overdrive, override
+cantar /kantˈaɾ/
+sing
+cantidad /kˌantiðˈad/
+1. quantity
+2. amount, sum
+cantor /kantˈoɾ/
+singer
+cantora /kantˈoɾa/
+singer, femalesinger
+cantábrico /kantˈaβɾiko/
+Cantabrian
+caos /kˈaos/
+chaos, tangle
+capacidad /kˌapaθiðˈad/
+1. ability
+2. capability, fitness, suitability
+capaz /kapˈaθ/
+able, capable
+capital /kˌapitˈal/
+1. capital
+2. metropolis
+3. capital city
+capitanear /kˌapitˌaneˈaɾ/
+1. govern, head up, restrain
+2. command, be in command, order
+capitular /kˌapitulˈaɾ/
+capitulate, surrender
+capitán /kˌapitˈan/
+1. boss, chief, leader
+capot /kapˈot/
+bonnet, hood
+cara /kˈaɾa/
+face
+caracol /kˌaɾakˈol/
+snail
+carburador /kˌaɾβuɾaðˈoɾ/
+carburettor
+carbón /kaɾβˈon/
+charcoal
+cardo /kˈaɾðo/
+thisle
+carga /kˈaɾɣa/
+burden, charge, load
+cargar /kaɾɣˈaɾ/
+burden, load
+cargo /kˈaɾɣo/
+1. accusal, accusation
+2. function
+3. charge, complaint, indictment
+4. job, office, post
+carnada /kaɾnˈaða/
+bait
+carnaval /kˌaɾnaβˈal/
+carnival
+carne /kˈaɾne/
+1. flesh
+2. meat
+carnero /kaɾnˈeɾo/
+1. ram, tup
+2. mutton
+carnestolendas /kˌaɾnestolˈɛndas/
+carnival
+carnet /kaɾnˈet/
+1. notebook
+2. attempt, test
+carnet de conducir /kaɾnˈet ðe kˌonduθˈiɾ/
+driving‐licence
+carne de cerdo /kˈaɾne ðe θˈeɾðo/
+pork
+carne de cordero /kˈaɾne ðe koɾðˈeɾo/
+lamb
+carne de ternera /kˈaɾne ðe teɾnˈeɾa/
+veal
+carne de vaca /kˈaɾne ðe βˈaka/
+beef
+carne picada /kˈaɾne pikˈaða/
+mincedmeat
+carne salada /kˈaɾne salˈaða/
+salt meat, saltedmeat
+carnicero /kˌaɾniθˈeɾo/
+butcher
+carnicería /kˌaɾniθeɾˈia/
+butcher'sshop
+carné /kaɾnˈe/
+attempt, test
+caro /kˈaɾo/
+1. dear, expensive, valuable
+2. costly, pricey
+carrera /kaɾɾˈeɾa/
+career
+carrete /kaɾɾˈete/
+film
+carretera /kˌaɾɾetˈeɾa/
+1. motor road, motorway
+carretera principal /kˌaɾɾetˈeɾa pɾˌinθipˈal/
+majorroad
+carretera resbaladiza /kˌaɾɾetˈeɾa ɾɾˌesβalaðˈiθa/
+dangerofskidding
+carretera secundaria /kˌaɾɾetˈeɾa sˌekundˈaɾja/
+by‐way, side‐way
+carrete de rueda /kaɾɾˈete ðe ɾɾuˈeða/
+hub, nave
+carro /kˈaɾɾo/
+cart, chariot
+carrocería /kˌaɾɾoθeɾˈia/
+body, coach‐work
+carroña /kaɾɾˈoɲa/
+carrion
+carta /kˈaɾta/
+letter
+carta aérea /kˈaɾta aˈeɾea/
+air letter, aerogramme
+cartearse /kˌaɾteˈaɾse/
+correspond
+cartel /kaɾtˈel/
+notice, placard, poster
+cartera /kaɾtˈeɾa/
+1. wallet
+2. briefcase, file
+cartero /kaɾtˈeɾo/
+postman
+casa /kˈasa/
+house
+casada /kasˈaða/
+married
+casado /kasˈaðo/
+married
+casarse /kasˈaɾse/
+marry, be married, getmarried
+casa de huéspedes /kˈasa ðe wˈespeðes/
+boarding house, boardingschool
+cascada /kaskˈaða/
+waterfall
+cascajo /kaskˈaxo/
+broken stones, chippings, road‐metal, rubble, stone‐chippings
+casi /kˈasi/
+almost, nearly
+caso /kˈaso/
+affair, case, matter
+caspa /kˈaspa/
+dandruff
+castaña /kastˈaɲa/
+chestnut, horse‐chestnut
+castaño /kastˈaɲo/
+chestnut‐tree
+castellano /kˌasteʎˈano/
+Castillian
+castigar /kˌastiɣˈaɾ/
+punish
+castigo /kastˈiɣo/
+1. redemption
+2. punishment
+castillo /kastˈiʎo/
+castle
+castor /kastˈoɾ/
+beaver
+catalán /kˌatalˈan/
+Catalonian
+catecismo /kˌateθˈismo/
+catechism
+catedral /kˌateðɾˈal/
+cathedral
+catorce /katˈoɾθe/
+fourteen
+catálogo /katˈaloɣo/
+catalogue, directory
+católico /katˈoliko/
+1. Catholic
+2. catholic
+cauce /kˈaʊθe/
+bed, watercourse
+caucho /kˈaʊtʃo/
+rubber
+caudillo /kaʊðˈiʎo/
+1. boss, chief, leader
+causa /kˈaʊsa/
+cause, reason
+causar /kaʊsˈaɾ/
+activate, cause, giveriseto
+cavar /kaβˈaɾ/
+dig, grub, spade
+cazar /kaθˈaɾ/
+chase, hunt
+caótico /kaˈotiko/
+chaotic
+caña /kˈaɲa/
+fishingrod
+caña de pescar /kˈaɲa ðe peskˈaɾ/
+fishingrod
+cebada /θeβˈaða/
+barley
+cebo /θˈeβo/
+bait
+cebolla /θeβˈoʎa/
+onion
+cebollana /θˌeβoʎˈana/
+chive
+ceder /θeðˈeɾ/
+cede, give in, give up, give way, relinquish, yield
+ceja /θˈexa/
+brow, eyebrow
+celebrar /θˌeleβɾˈaɾ/
+celebrate
+celebrar su cumpleaños /θˌeleβɾˈaɾ su kˌumpleˈaɲos/
+celebratingone'sbirthday
+celebrar una fiesta /θˌeleβɾˈaɾ ˈuna fjˈesta/
+celebrate
+celo /θˈelo/
+fervor, fervour, zeal
+cementerio /θˌementˈeɾjo/
+cemetery, God's acre, graveyard
+cena /θˈena/
+1. dinner, middaymeal
+2. evening meal, supper
+cenicero /θˌeniθˈeɾo/
+ashtray
+ceniciento /θˌeniθjˈɛnto/
+ashen
+ceniza /θenˈiθa/
+ash, cinder
+censura /θensˈuɾa/
+1. censor
+2. criticism
+3. observation, remark, reproof
+censurable /θˌensuɾˈaβle/
+blameworthy, censurable, condemnable, objectionable
+censurar /θˌensuɾˈaɾ/
+1. censor
+2. censure, criticize
+3. reproach, rebuke, reprove, scold
+centeno /θentˈeno/
+rye
+central /θentɾˈal/
+central
+centro /θˈɛntɾo/
+1. centre
+2. average, mean, middle
+centímetro /θentˈimetɾo/
+centimetre
+cepillar /θˌepiʎˈaɾ/
+brush
+cepillo /θepˈiʎo/
+1. brush
+2. plane
+cepillo de dientes /θepˈiʎo ðe ðjˈɛntes/
+tooth‐brush
+cerca /θˈeɾka/
+close, near, nearby
+cercar /θeɾkˈaɾ/
+bar, obstruct
+cerca de /θˈeɾka ðˈe/
+1. at, beside, by, near, nearby, near to, nextto
+2. about, approximately
+cerda /θˈeɾða/
+sow
+cerdo /θˈeɾðo/
+1. hog, pig, swine
+2. boar
+cerebro /θeɾˈeβɾo/
+brain
+ceremonia /θˌeɾemˈonja/
+ceremony
+cereso /θeɾˈeso/
+cherry‐tree
+cereza /θeɾˈeθa/
+cherry
+cero /θˈeɾo/
+nought, zero
+cerrado /θeɾɾˈaðo/
+closed, shut
+cerradura /θˌeɾɾaðˈuɾa/
+lock
+cerrar /θeɾɾˈaɾ/
+1. close, shut
+2. lock
+certificación /θˌeɾtifˌikaθjˈon/
+certificate, testimony
+certificado /θˌeɾtifikˈaðo/
+1. certificate, testimony
+2. registered
+certificar /θˌeɾtifikˈaɾ/
+record, register
+cerveza /θeɾβˈeθa/
+ale, beer
+cerámica /θeɾˈamika/
+crockery, earthenware, pottery
+cesión /θesjˈon/
+abandonment
+cesto /θˈesto/
+basket
+chal /tʃˈal/
+shawl
+chaleco /tʃalˈeko/
+vest, waistcoat
+champaña /tʃampˈaɲa/
+champagne
+champiñon /tʃampˈiɲon/
+mushroom
+champú /tʃampˈu/
+shampoo
+chanza /tʃˈanθa/
+gag, joke
+chaqueta /tʃakˈeta/
+jacket
+charco /tʃˈaɾko/
+pool
+charlar /tʃaɾlˈaɾ/
+chat, chatter
+chauffeur /tʃaʊffˈeʊɾ/
+chauffeur, driver
+checo /tʃˈeko/
+Czech
+cheque /tʃˈeke/
+check, cheque
+chicle /tʃˈikle/
+chewing‐gum
+chico /tʃˈiko/
+1. boy, lad, laddie
+2. diminutive, little, small
+chilena /tʃilˈena/
+Chileanwoman
+chileno /tʃilˈeno/
+Chilean
+chino /tʃˈino/
+1. Chinese
+2. Chinaman
+chispa /tʃˈispa/
+spark
+chocar kun /tʃokˈaɾ kˈun/
+collide with, crashinto
+chocolate /tʃˌokolˈate/
+chocolate
+choque /tʃˈoke/
+collision
+chuleta /tʃulˈeta/
+cutlet
+chupar /tʃupˈaɾ/
+suck
+chófer /tʃˈofeɾ/
+1. conductor, driver
+2. chauffeur
+ciclo /θˈiklo/
+cycle
+ciclomotor /θˌiklomotˈoɾ/
+moped
+ciclón /θiklˈon/
+cyclone
+ciego /θjˈeɣo/
+blind
+cielo /θjˈelo/
+heaven, sky
+ciencia /θjˈɛnθja/
+science
+ciento /θjˈɛnto/
+hundred, onehundred
+ciertamente /θjˈeɾtamˈente/
+certainly
+cierto /θjˈeɾto/
+1. certain, sure
+2. a, any, anybody, some, somebody, one, some one, someone
+cifra /θˈifɾa/
+cipher, digit, figure, numeral
+cigarillo /θˌiɣaɾˈiʎo/
+cigarette
+cigarro /θiɣˈaɾɾo/
+cigar
+cilindro /θilˈindɾo/
+cylinder, roller
+cincel /θinθˈel/
+chisel
+cinco /θˈinko/
+five
+cine /θˈine/
+cinema, movietheatre
+cinta /θˈinta/
+1. bond, tie
+2. connection, league
+3. ribbon
+cinta pegante /θˈinta peɣˈante/
+adhesivetape
+cinto /θˈinto/
+belt, girdle
+cintura /θintˈuɾa/
+waist, waistline
+cinturón /θˌintuɾˈon/
+belt, girdle
+ciprés /θipɾˈes/
+cypres
+circo /θˈiɾko/
+circus
+circuito /θiɾkwˈito/
+circuit
+circular /θˌiɾkulˈaɾ/
+circular
+circuncisión /θˌiɾkunθisjˈon/
+circumcision
+circunspecto /θˌiɾkunspˈekto/
+1. thoughtful
+2. careful, cautious
+ciruela /θˌiɾuˈela/
+plum
+cirujano /θˌiɾuxˈano/
+surgeon
+cita /θˈita/
+1. citation, quotation
+2. appointment, date, rendezvous
+citación /θˌitaθjˈon/
+citation, quotation
+citar /θitˈaɾ/
+cite, quote
+ciudad /θjuðˈad/
+city, town
+ciudadela /θjˌuðaðˈela/
+citadel
+civil /θiβˈil/
+civil, civilian, non‐military
+civilización /θˌiβilˌiθaθjˈon/
+civilization
+cizalla para setos /θiθˈaʎa pˌaɾa sˈetos/
+hedge clippers, hedgeshears
+claro /klˈaɾo/
+1. bright, clear, light
+2. distinct, plain
+clase /klˈase/
+1. class
+2. kind, sort
+clasificar /klˌasifikˈaɾ/
+classify
+clavel /klaβˈel/
+carnation, pink
+clavo /klˈaβo/
+nail
+cliente /kliˈɛnte/
+1. buyer, client, purchaser
+2. customer
+clientela /klientˈela/
+clientèle
+clima /klˈima/
+climate
+cloaca /kloˈaka/
+sewer
+cloro /klˈoɾo/
+chlorine
+club /klˈub/
+club, society
+cláusula /klˈausˌula/
+clause
+coartada /kˌoaɾtˈaða/
+alibi
+cobertizo /kˌoβeɾtˈiθo/
+1. penthouse, shed
+2. barrack, barn, shack, shanty
+cobrador /kˌoβɾaðˈoɾ/
+guard
+cobre /kˈoβɾe/
+copper
+cocaína /kˌokaˈina/
+cocaine
+cocer /koθˈeɾ/
+bake
+coche‐cama /kˈotʃe kˈama/
+sleeping‐car
+coche /kˈotʃe/
+1. car
+2. carriage, coach
+3. railway carriage, waggon
+coche remolque /kˈotʃe ɾɾemˈolke/
+trailer
+cochina /kotʃˈina/
+sow
+cochinillo /kˌotʃinˈiʎo/
+piglet
+cocina /koθˈina/
+kitchen
+cocinar /kˌoθinˈaɾ/
+cook
+cocinera /kˌoθinˈeɾa/
+cook, femalecook
+cocinero /kˌoθinˈeɾo/
+cook, malecook
+cocodrilo /kˌokoðɾˈilo/
+crocodile
+codiciar /kˌoðiθjˈaɾ/
+covet
+codicioso /kˌoðiθjˈoso/
+acquisitive, eager, greedy
+codo /kˈoðo/
+elbow
+coger /koxˈeɾ/
+1. clutch, grab, grasp, grip, seize
+2. grapple
+3. fetch, get, pickup
+4. capture, catch
+5. lay hold of, pick up, take
+cohete /koˈete/
+rocket
+cojear /kˌoxeˈaɾ/
+limp
+cojo /kˈoxo/
+lame
+col /kˈol/
+cabbage
+cola /kˈola/
+1. glue
+2. tail
+colcha de cama /kˈoltʃa ðe kˈama/
+bedspread, counterpane, coverlet
+colchón /koltʃˈon/
+mattress
+colecta /kolˈekta/
+collection
+colega /kolˈeɣa/
+1. colleague
+colegio /kolˈexjo/
+college
+coles de Bruselas /kˈoles ðe βɾusˈelas/
+Brussels‐sprouts
+colgar /kolɣˈaɾ/
+1. droop, hang
+coliflor /kˌoliflˈoɾ/
+cauliflower
+colina /kolˈina/
+hill
+colisión /kˌolisjˈon/
+collision
+colocar /kˌolokˈaɾ/
+1. invest
+2. lay
+3. lay down, place, put, putdown
+colonia /kolˈonja/
+colony, settlement
+color /kolˈoɾ/
+colour, dye
+columna /kolˈumna/
+column, pillar
+comadrona /kˌomaðɾˈona/
+nurse, dry‐nurse, monthlynurse
+comandante /kˌomandˈante/
+1. boss, chief, leader
+2. commander
+comarca /komˈaɾka/
+region
+combiar /kombjˈaɾ/
+change
+combinación /kˌombinaθjˈon/
+1. combination
+2. undergarment
+comedor /kˌomeðˈoɾ/
+dining‐room
+comenzar /kˌomenθˈaɾ/
+1. begin, commence, start
+comer /komˈeɾ/
+lunch
+comerciante /kˌomeɾθjˈante/
+1. merchant
+2. businessman
+comercio /komˈeɾθjo/
+business, commerce, trade
+comerse /komˈeɾse/
+eatup
+comestible /kˌomestˈiβle/
+edible
+comestibles /kˌomestˈiβles/
+food
+cometer /kˌometˈeɾ/
+1. achieve, act, do, make, perform
+2. accomplish, keep, observe
+comida /komˈiða/
+1. meal
+2. dinner, middaymeal
+comienzo /komjˈɛnθo/
+beginning, commencement, start
+comisaría /kˌomisaɾˈia/
+police‐station
+comisión /kˌomisjˈon/
+commission
+comitiva /kˌomitˈiβa/
+procession
+comité /kˌomitˈe/
+committee
+communicación /kˌommunˌikaθjˈon/
+account, communication
+como /kˈomo/
+how, inwhatway
+como es debido /kˌomo ˈes ðeβˈiðo/
+decently, properly
+como si /kˌomo sˈi/
+as if, as though, inaway
+compadecer a /kˌompaðeθˈeɾ ˈa/
+have compassion on, pity
+comparar /kˌompaɾˈaɾ/
+compare
+compartir /kˌompaɾtˈiɾ/
+divide, separate, share
+compañero /kˌompaɲˈeɾo/
+colleague
+compañía /kˌompaɲˈia/
+company
+compensar /kˌompensˈaɾ/
+compensate
+competencia /kˌompetˈɛnθja/
+competition
+competidor /kˌompetiðˈoɾ/
+rival
+competir /kˌompetˈiɾ/
+compete, rival
+complacer /kˌomplaθˈeɾ/
+meet with, satisfy
+complekso /komplˈekso/
+complex
+completamente /komplˈetamˈente/
+1. completely, entirely, through
+2. fully
+completar /kˌompletˈaɾ/
+complete
+completo /komplˈeto/
+1. absolute, complete
+2. entire, overall, whole
+componerse /kˌomponˈeɾse/
+consistof
+compositor /kˌompositˈoɾ/
+composer
+compra /kˈompɾa/
+1. accession, acquisition, asset
+2. purchase
+comprador /kˌompɾaðˈoɾ/
+1. buyer, client, purchaser
+2. customer
+comprender /kˌompɾendˈeɾ/
+understand, realize
+comprendido /kˌompɾendˈiðo/
+understood
+comprensible /kˌompɾensˈiβle/
+understandable
+compromiso /kˌompɾomˈiso/
+accommodation
+computador /kˌomputaðˈoɾ/
+computer
+computar /kˌomputˈaɾ/
+calculate, count, figure, workout
+comunicación /kˌomunˌikaθjˈon/
+connection
+comunicar /kˌomunikˈaɾ/
+1. communicate, report
+2. connect, connect up, plugin
+comunista /kˌomunˈista/
+communist
+comunión /kˌomunjˈon/
+communion
+común /komˈun/
+1. commonplace, dismal, trite
+2. common, joint
+3. ordinary, usual
+con /kˈon/
+with
+concernir /kˌonθeɾnˈiɾ/
+concern
+concha /kˈontʃa/
+shell
+concierto /konθjˈeɾto/
+concert
+concisión /kˌonθisjˈon/
+brevity, briefness, conciseness
+conciso /konθˈiso/
+concise
+concluir /kˌonkluˈiɾ/
+accomodate, end, finish, terminate
+conclusión /kˌonklusjˈon/
+conclusion, inference
+concordación /kˌonkoɾðaθjˈon/
+accord, accordance, agreement, concurrence
+concurso /konkˈuɾso/
+competition, contest
+condenar /kˌondenˈaɾ/
+condemn, sentence
+condición /kˌondiθjˈon/
+1. circumstance
+2. condition, stipulation, terms
+condom /kˈondom/
+condom, rubber
+conducir /kˌonduθˈiɾ/
+1. conduct, guide, lead
+2. go, ride, travel
+conducirse /kˌonduθˈiɾse/
+behave, conductoneself
+conejo /konˈexo/
+rabbit
+conejo macho /konˈexo mˈatʃo/
+buck, buck‐rabbit
+conexión /kˌoneksjˈon/
+relation
+confección /kˌomfekθjˈon/
+1. making, manifacture
+2. manufacture
+conferencia /kˌomfeɾˈɛnθja/
+conference
+confesar /kˌomfesˈaɾ/
+1. acknowledge, admit, confess, profess
+confesión /kˌomfesjˈon/
+1. acknowledgement, admission, confession
+confianza /komfjˈanθa/
+confidence
+confirmación /kˌomfiɾmaθjˈon/
+confirmation
+confirmar /kˌomfiɾmˈaɾ/
+1. affirm, assent, sayyes
+2. acknowledge, confirm, corroborate
+confiscar /kˌomfiskˈaɾ/
+confiscate
+conflicto /komflˈikto/
+conflict
+conforme /komfˈoɾme/
+agreed, okay
+congreso /koŋɡɾˈeso/
+congress, convention
+conminación /kˌonminaθjˈon/
+menace, threat
+conminar /kˌonminˈaɾ/
+menace, threaten
+conmovedor /kˌonmoβeðˈoɾ/
+1. affecting, moving, touching
+conmover /kˌonmoβˈeɾ/
+1. move, stir
+2. affect, agitate
+conmovido /kˌonmoβˈiðo/
+seizedwithemotion
+conocido /kˌonoθˈiðo/
+1. famous
+2. acquaintance
+conocimiento /kˌonoθimjˈɛnto/
+acquaintance, knowledge
+conocimientos /kˌonoθimjˈɛntos/
+fame, renown
+conquistar /kˌonkistˈaɾ/
+conquer
+consecuencia /kˌonsekwˈɛnθja/
+consequence, consistency
+consecuente /kˌonsekwˈɛnte/
+consistent
+consecutivo /kˌonsekutˈiβo/
+following, next
+conseguir /kˌonseɣˈiɾ/
+succeed
+consejero /kˌonsexˈeɾo/
+counsellor
+consejo /konsˈexo/
+advice, counsel
+consentir /kˌonsentˈiɾ/
+spoil
+consequir /kˌonsekˈiɾ/
+achieve, acquire, attain, get, obtain
+conserje /konsˈeɾxe/
+porter
+conservación /kˌonseɾβaθjˈon/
+conservation, maintenance, preservation, retention
+conservador /kˌonseɾβaðˈoɾ/
+conservative
+conservar /kˌonseɾβˈaɾ/
+conserve, keep, maintain, preserve
+conservatorio /kˌonseɾβatˈoɾjo/
+academyofmusic
+considerable /kˌonsiðeɾˈaβle/
+considerable, sizable
+consideración /kˌonsiðˌeɾaθjˈon/
+consideration, deliberation
+considerar /kˌonsiðeɾˈaɾ/
+account, consider, esteem, regard, takeintoaccount
+consolar /kˌonsolˈaɾ/
+comfort, console
+constipado /kˌonstipˈaðo/
+constipation
+constitución /kˌonstituθjˈon/
+constitution
+construcción /kˌonstɾukθjˈon/
+1. accommodation, adjustment, arrangement
+2. building
+construir /kˌonstɾuˈiɾ/
+build, construct
+consulado /kˌonsulˈaðo/
+consulate
+consulta /konsˈulta/
+consultation
+consumidor /kˌonsumiðˈoɾ/
+consumer
+consumir /kˌonsumˈiɾ/
+consume, useup
+consumo /konsˈumo/
+demand, sale
+contable /kontˈaβle/
+book‐keeper
+contacto /kontˈakto/
+contact
+contador público /kˌontaðˈoɾ pˈuβliko/
+accountant
+contagiado /kˌontaxjˈaðo/
+contaminated, infected
+contagiar /kˌontaxjˈaɾ/
+1. infect
+2. communicate
+contagioso /kˌontaxjˈoso/
+1. catching, contagious, infectious
+contante /kontˈante/
+cash, incash
+contar /kontˈaɾ/
+1. count
+2. narrate, relate, tell
+contemplación /kˌontemplaθjˈon/
+1. consideration, deliberation
+2. examination
+contemplar /kˌontemplˈaɾ/
+account, consider, esteem, regard, takeintoaccount
+contemporáneo /kˌontempoɾˈaneo/
+1. current, present
+contener /kˌontenˈeɾ/
+1. bridle, check, restrain
+2. comprise, contain, include
+3. control, govern, rule
+contento /kontˈɛnto/
+contented, pleased, satisfied
+contestación /kˌontestaθjˈon/
+answer, reply
+contestar /kˌontestˈaɾ/
+answer, reply, respond
+contestar a /kˌontestˈaɾ ˈa/
+answer
+contiguo /kontˈiɣwo/
+1. adjacent
+2. adjoining
+3. nearby, neighbouring
+continuamente /kontˈinwamˈente/
+1. constantly, continually, continuously
+2. all the time, ceaselessly
+continuar /kˌontinwˈaɾ/
+1. continue, hold, last
+2. endure, keep on
+3. go on, proceedwith
+continuo /kontˈinwo/
+1. abiding, lasting
+2. constant, continual, permanent, sustained
+3. continuous
+contra /kˈontɾa/
+across from, against, in exchange for, opposed to, opposite, upon
+contradecir /kˌontɾaðeθˈiɾ/
+contradict
+contramandar /kˌontɾamandˈaɾ/
+1. cancel, countermand
+2. abjure, abolish, abrogate, annul, remit
+contraste /kontɾˈaste/
+contrast
+contratar /kˌontɾatˈaɾ/
+1. invite tenders for, putouttotender
+2. makeacontract
+contrato /kontɾˈato/
+contract
+contribución /kˌontɾiβuθjˈon/
+tax
+contribuyente /kˌontɾiβujjˈɛnte/
+ratepayer, taxpayer
+controlar /kˌontɾolˈaɾ/
+audit, check, check up on, supervise, verify
+conulla /konˈuʎa/
+inverted comma, quotation mark, quote
+conullas /konˈuʎas/
+1. quotation marks, quotes
+2. inverted commas
+convencer /kˌombenθˈeɾ/
+convince, persuade
+convenido /kˌombenˈiðo/
+agreed, okay
+conveniente /kˌombenjˈɛnte/
+1. decent, fitting, proper, suitable
+2. appropriate, becoming, seemly
+convenio /kombˈenjo/
+1. accord, accordance, agreement, concurrence
+2. accommodation
+convenir /kˌombenˈiɾ/
+1. befit, befitting
+2. agree
+3. be appropriate, suit, besuitable
+convento /kombˈɛnto/
+monastery
+conversar /kˌombeɾsˈaɾ/
+converse
+conversión /kˌombeɾsjˈon/
+conversion
+convertir /kˌombeɾtˈiɾ/
+convert
+con motivo de /kon motˈiβo ðˈe/
+because of, onaccountof
+copa /kˈopa/
+goblet
+copia /kˈopja/
+copy
+copiar /kopjˈaɾ/
+1. copy
+2. print
+copla /kˈopla/
+verse
+copo de nieve /kˈopo ðe njˈeβe/
+snowflake
+corazón /kˌoɾaθˈon/
+heart
+corbata /koɾβˈata/
+tie, necktie
+corcho /kˈoɾtʃo/
+cork
+cordel /koɾðˈel/
+line
+cordero /koɾðˈeɾo/
+lamb
+cordillera /kˌoɾðiʎˈeɾa/
+chain of mountains, mountain chain, mountain range, rand
+cordón /koɾðˈon/
+shoe‐lace
+coronar /kˌoɾonˈaɾ/
+crown
+correcto /koɾɾˈekto/
+correct, right
+corregir /kˌoɾɾexˈiɾ/
+correct
+correo /koɾɾˈeo/
+mail, post
+correo aéreo /koɾɾˈeo aˈeɾeo/
+airmail
+correr /koɾɾˈeɾ/
+1. flow
+2. race, run
+corresponder al /kˌoɾɾespondˈeɾ ˈal/
+1. answer, answer to, comeupto
+2. correspondto
+corriente /kˌoɾɾiˈɛnte/
+1. current, flow, stream
+corromper /kˌoɾɾompˈeɾ/
+spoil
+corrupción /kˌoɾɾupθjˈon/
+corruption
+cortacircuito /kˌoɾtaθiɾkwˈito/
+shortcircuit
+cortar /koɾtˈaɾ/
+1. cutoff
+2. pick, pluck, tearoff
+3. behead, decapitate
+4. clip, cut, shear
+5. slice
+cortesía /kˌoɾtesˈia/
+politeness
+corteza /koɾtˈeθa/
+1. bark
+2. bast
+cortina /koɾtˈina/
+curtain
+corto /kˈoɾto/
+1. short
+2. brief
+cortés /koɾtˈes/
+courteous, polite, well‐mannered
+corzo /kˈoɾθo/
+roe
+cosa /kˈosa/
+thing
+cosecha /kosˈetʃa/
+harvest
+coser /kosˈeɾ/
+sew
+costa /kˈosta/
+coast, seaside, shore
+costar /kostˈaɾ/
+cost
+costear /kˌosteˈaɾ/
+bear the cost of, defray the cost of, paytheexpensesof
+costumbre /kostˈumbɾe/
+custom, habit, way
+costura /kostˈuɾa/
+1. seam
+costurera /kˌostuɾˈeɾa/
+tailor, femaletailor
+coñac /koɲˈak/
+brandy, cognac
+crecer /kɾeθˈeɾ/
+accrue, grow
+creer /kɾeˈeɾ/
+1. account, accredit, believe, deem
+2. create
+3. think
+crema /kɾˈema/
+cream
+cremallera /kɾˌemaʎˈeɾa/
+zipper
+crema para zapatos /kɾˈema pˌaɾa θapˈatos/
+polish, wax
+crepe /kɾˈepe/
+pancake
+criada /kɾiˈaða/
+1. maid, servant
+criado /kɾiˈaðo/
+boy, servant
+crimen /kɾˈimen/
+crime
+crisis /kɾˈisis/
+crisis, depression, emergency
+cristianismo /kɾˌistjanˈismo/
+Christianity
+cristiano /kɾistjˈano/
+Christian
+criticar /kɾˌitikˈaɾ/
+1. censure, criticize
+2. judge
+cruce /kɾˈuθe/
+crossroads
+crudo /kɾˈuðo/
+1. crude, raw, rough
+2. uncooked
+cruz /kɾˈuθ/
+cross
+cráneo /kɾˈaneo/
+skull
+crítica /kɾˈitika/
+criticism
+crítico /kɾˈitiko/
+alarming, grave, serious
+cuadra /kwˈaðɾa/
+stable, stall, sty
+cuadro /kwˈaðɾo/
+1. bed
+2. painting, picture
+cuartel /kwaɾtˈel/
+barracks
+cuarto /kwˈaɾto/
+1. apartment, flat
+2. fourth
+3. chamber, room
+cuarto de baño /kwˈaɾto ðe βˈaɲo/
+bathroom
+cuatro /kwˈatɾo/
+four
+cubierta /kuβjˈeɾta/
+deck
+cubierto /kuβjˈeɾto/
+forks, knivesandspoons
+cubierto de verdor /kuβjˈeɾto ðe βeɾðˈoɾ/
+covered, grown over, overgrown
+cubo /kˈuβo/
+bucket, pail
+cubrir /kuβɾˈiɾ/
+cover
+cucaracha /kˌukaɾˈatʃa/
+cockroach
+cuchara /kutʃˈaɾa/
+spoon
+cuchichear /kˌutʃitʃeˈaɾ/
+whisper
+cuchillo /kutʃˈiʎo/
+knife
+cuello /kwˈeʎo/
+1. neck
+2. collar
+cuenta /kwˈɛnta/
+1. account, bill, invoice
+2. calculation
+cuenta bancaria /kwˈɛnta βankˈaɾja/
+bank account, bankingaccount
+cuerda /kwˈeɾða/
+cord, rope, string
+cuerno /kwˈeɾno/
+horn
+cuero /kwˈeɾo/
+leather
+cuerpo /kwˈeɾpo/
+body
+cuervo /kwˈeɾβo/
+raven
+cuesta /kwˈesta/
+acclivity, hillside, slope
+cuesta abajo /kwˈesta aβˈaxo/
+down the slope, downhill
+cueva /kwˈeβa/
+1. cave, grotto
+2. cavern, den
+cuidado /kwiðˈaðo/
+care, concern
+cuidar /kwiðˈaɾ/
+1. attend, nurse, tendto
+2. care, see, take care, worry
+cuidarse de /kwiðˈaɾse ðˈe/
+care about, takecareof
+cuidar de /kwiðˈaɾ ðˈe/
+lookafter
+culpa /kˈulpa/
+blame, fault, guilt
+culpable /kulpˈaβle/
+guilty
+cultivar /kˌultiβˈaɾ/
+1. cultivate, grow
+2. plant
+cultivo /kultˈiβo/
+planting
+culto /kˈulto/
+service, worshipservice
+cultura /kultˈuɾa/
+culture
+cumpleaños /kˌumpleˈaɲos/
+birthday
+cumplimiento /kˌumplimjˈɛnto/
+1. replacement, replenishment, supplement
+2. compliment
+cuna /kˈuna/
+cradle, placeofbirth
+cuota /kwˈota/
+dues, subscription
+cupón /kupˈon/
+coupon
+cura /kˈuɾa/
+1. treatment
+2. pastor, vicar
+3. clergyman, priest
+curar /kuɾˈaɾ/
+1. care for, cure, treat
+2. heal, remedy
+curioso /kuɾjˈoso/
+agog, curious, inquisitive
+cursillo /kuɾsˈiʎo/
+class, course
+curso /kˈuɾso/
+1. class, course
+2. exchange rate, rateofexchange
+curva /kˈuɾβa/
+bend, curve
+curvar /kuɾβˈaɾ/
+bend
+cáliz /kˈaliθ/
+goblet
+cámara /kˈamaɾa/
+camera
+cámara de películas /kˈamaɾa ðe pelˈikulas/
+camera
+cándido /kˈandiðo/
+guileless, inoffensive
+cápsula /kˈapsula/
+capsule, firing‐cap
+cáscara /kˈaskaɾa/
+bark, husk, peel, shell
+célula /θˈelula/
+cell
+címbalo /θˈimbalo/
+cymbal
+cínico /θˈiniko/
+cynical
+círculo /θˈiɾkulo/
+circle
+cítara /θˈitaɾa/
+zither
+código /kˈoðiɣo/
+code
+cólera /kˈoleɾa/
+cholera
+cómico /kˈomiko/
+amusing, entertaining, funny
+cómo /kˈomo/
+how, inwhatway
+cómodo /kˈomoðo/
+1. homy
+2. close, intimate
+cónsul /kˈonsul/
+consul
+dado que /dˈaðo kˈe/
+supposingthat
+dama /dˈama/
+lady
+damas /dˈamas/
+checkers
+danés /danˈes/
+1. Danish
+2. Dane
+dar /dˈaɾ/
+give
+darse de baja /dˈaɾse ðe βˈaxa/
+quit, resign
+darse tono /dˈaɾse tˈono/
+attitudinize, pose, putonairs
+dar a destajo /dˈaɾ a ðestˈaxo/
+invite tenders for, putouttotender
+dar a la bomba /dˈaɾ a la βˈomba/
+pump
+dar a luz /dˈaɾ a lˈuθ/
+bear, givebirthto
+dar dentelladas a /dˈaɾ ðˌenteʎˈaðas ˈa/
+snap at, snarl at, snub
+dar de comer /dˈaɾ ðe komˈeɾ/
+feed
+dar el pésame a /dˈaɾ el pˈesame ˈa/
+expresscondolences
+dar gracias a /dˈaɾ ɣɾˈaθjas ˈa/
+thank
+dar la bienvenida /dˈaɾ la βjˌembenˈiða/
+welcome
+dar lugar a /dˈaɾ luɣˈaɾ ˈa/
+cause, causetotakeplace
+dar parte de /dˈaɾ pˈaɾte ðˈe/
+issue, proclaim
+dañar a /daɲˈaɾ ˈa/
+1. be detrimental to, detract from, doharmto
+2. harm
+daño /dˈaɲo/
+1. damage
+2. harm
+de /dˈe/
+1. from, of
+2. outof
+debajo de /deβˈaxo ðˈe/
+below, beneath, under, underneath
+deber /deβˈeɾ/
+1. duty, obligation
+2. owe
+debutante /dˌeβutˈante/
+beginner
+decadencia /dˌekaðˈɛnθja/
+decay
+decentar /dˌeθentˈaɾ/
+1. cutinto
+2. begin, commence, start
+decidirse /dˌeθiðˈiɾse/
+decide
+decir /deθˈiɾ/
+say, tell
+decisivo /dˌeθisˈiβo/
+decisive
+decisión /dˌeθisjˈon/
+decision
+declaración /dˌeklaɾaθjˈon/
+1. declaration, proclamation, statement
+2. acknowledgement, admission, confession
+3. agreement, consent, permission
+declarar /dˌeklaɾˈaɾ/
+1. declare, state
+2. acknowledge, admit, confess, profess
+3. accede, agree, consent
+declararse en huelga /dˌeklaɾˈaɾse en wˈelɣa/
+strike
+decorar /dˌekoɾˈaɾ/
+adorn, decorate, ornament
+decrecer /dˌekɾeθˈeɾ/
+abate, decrease, diminish, drop, fall
+decrépito /dekɾˈepito/
+decayed, decrepit, dilapidated, lapsed, rickety
+decudir /dˌekuðˈiɾ/
+1. abstract, deduce, gather
+2. induce, infer
+decímetro /deθˈimetɾo/
+decimetre
+dedo /dˈeðo/
+finger
+dedo de pie /dˈeðo ðe pjˈe/
+toe
+deducción /dˌeðukθjˈon/
+demand, sale
+deducir /dˌeðuθˈiɾ/
+countdown
+defecto /defˈekto/
+damage
+defender /dˌefendˈeɾ/
+protect
+defensa /defˈɛnsa/
+1. defence, defense
+2. protection
+definir /dˌefinˈiɾ/
+define, determine
+dejar /dexˈaɾ/
+1. allow, leave, let, release
+2. leavebehind
+dejar en pos /dexˈaɾ em pˈos/
+leavebehind
+dejo /dˈexo/
+accent
+delante /delˈante/
+ahead, formerly, previously
+delante de /delˈante ðˈe/
+before, infrontof
+delatar /dˌelatˈaɾ/
+accuse, denounce
+delegar /dˌeleɣˈaɾ/
+1. delegate
+2. depute
+deletrear /dˌeletɾeˈaɾ/
+spell
+demandar /dˌemandˈaɾ/
+ask, ask for, beg, bid, request
+demasiado /dˌemasjˈaðo/
+too, toomuch
+demoler /dˌemolˈeɾ/
+break down, demolish, pull down, takedown
+demolición /dˌemoliθjˈon/
+demolition
+demontar /dˌemontˈaɾ/
+takeapart
+demostrable /dˌemostɾˈaβle/
+apparent
+demás /demˈas/
+besides, in addition, moreover
+dengoso /deŋɡˈoso/
+prudish
+dentista /dentˈista/
+dentist
+dentro /dˈɛntɾo/
+inside
+dentro de /dˈɛntɾo ðˈe/
+1. a, in, inside, into, on, per, within
+denuncia /denˈunθja/
+accusation
+denunciar /dˌenunθjˈaɾ/
+1. accuse
+2. denounce
+departamento /dˌepaɾtamˈɛnto/
+1. compartment, coupé
+2. section
+departamento de fumar /dˌepaɾtamˈɛnto ðe fumˈaɾ/
+smokers
+dependencia /dˌependˈɛnθja/
+dependence
+depender /dˌependˈeɾ/
+depend
+depender de /dˌependˈeɾ ðˈe/
+be dependent on, dependonldependupon
+dependienta /dˌependjˈɛnta/
+saleswoman
+dependiente /dˌependjˈɛnte/
+1. dependent
+2. clerk
+deplorable /dˌeploɾˈaβle/
+1. regrettable
+2. dismal, miserable, pitiful, poor
+deplorar /dˌeploɾˈaɾ/
+1. be sorry about, regret
+2. begrudge
+3. mourn
+deporte /depˈoɾte/
+sport
+depositar /dˌepositˈaɾ/
+deposit
+depósito /depˈosito/
+depository
+depósito de gasolina /depˈosito ðe ɣˌasolˈina/
+1. gas tank, petroltank
+2. fueltank
+derecho /deɾˈetʃo/
+1. claim, presumption, pretence
+2. right
+3. direct, straight
+derechos de consumo /deɾˈetʃos ðe konsˈumo/
+excise, excise‐duty
+derivación /dˌeɾiβaθjˈon/
+derivation
+derivar /dˌeɾiβˈaɾ/
+derive
+derivar del rumbo /dˌeɾiβˈaɾ ðel ɾɾˈumbo/
+drift, beadrift
+derramar /dˌeɾɾamˈaɾ/
+pour, scatter, shed
+derretir /dˌeɾɾetˈiɾ/
+melt
+derretirse /dˌeɾɾetˈiɾse/
+melt
+derribar /dˌeɾɾiβˈaɾ/
+break down, demolish, pull down, takedown
+derribos /deɾɾˈiβos/
+rubbish, oldmaterials
+derrota /deɾɾˈota/
+defeat
+derruirse /dˌeɾɾuˈiɾse/
+crumble, crumble away, crumbleoff
+desaconsejar /dˌesakˌonsexˈaɾ/
+advise against, dissuadefrom
+desacostumbrar /dˌesakˌostumbɾˈaɾ/
+break of a habit, teach
+desagüe /dˌesaɣˈue/
+draining
+desanimado /dˌesanimˈaðo/
+dejected, depressed
+desaprender /dˌesapɾendˈeɾ/
+unlearn
+desaprobación /dˌesapɾˌoβaθjˈon/
+censure, condemnation, disapprobation, disapproval
+desaprobar /dˌesapɾoβˈaɾ/
+1. condemn, disapprove, disapprove of, rebuke
+2. reproach, reprove, scold
+desarrollar /dˌesaɾɾoʎˈaɾ/
+1. account for, explain
+2. clarify
+desatinar /dˌesatinˈaɾ/
+drivel, twaddle
+desayuno /dˌesajjˈuno/
+breakfast
+descalzo /deskˈalθo/
+barefoot
+descansar /dˌeskansˈaɾ/
+repose, rest
+descanso /deskˈanso/
+1. break, intermission, pause, recess
+2. repose, rest
+descargar /dˌeskaɾɣˈaɾ/
+1. writeoff
+2. abreact
+3. unload
+descendencia /dˌesθendˈɛnθja/
+1. lineage
+2. origin
+descender /dˌesθendˈeɾ/
+1. accrue, come, derive, originate, result
+2. descend, get off, godown
+descendiente /dˌesθendjˈɛnte/
+offspring, successor
+descolgar /dˌeskolɣˈaɾ/
+abstract, takeaway
+desconcharse /dˌeskontʃˈaɾse/
+flake off, peel off, scaleoff
+desconocido /dˌeskonoθˈiðo/
+unknown
+descortés /dˌeskoɾtˈes/
+rude
+describir /dˌeskɾiβˈiɾ/
+describe
+descripción /dˌeskɾipθjˈon/
+account, description
+descubrimiento /dˌeskuβɾimjˈɛnto/
+discovery
+descubrir /dˌeskuβɾˈiɾ/
+discover, uncover
+descuento /deskwˈɛnto/
+abatement, discount, rebate
+descuidado /dˌeskwiðˈaðo/
+1. careless, negligent
+descuidar /dˌeskwiðˈaɾ/
+neglect
+desde /dˈesðe/
+from, since
+desear /dˌeseˈaɾ/
+1. ache
+2. desire, wish
+desechos /desˈetʃos/
+1. clippings, cuttings, parings, refuse, rubbish, waste, windfall
+2. remainder, rest
+3. debris, rubble
+desembarcadero /dˌesembˌaɾkaðˈeɾo/
+landing‐stage, pier
+desembocadura /dˌesembˌokaðˈuɾa/
+mouth
+desempeñar /dˌesempeɲˈaɾ/
+occupy, take
+desenfrenado /dˌesemfɾenˈaðo/
+lawless, licentious, riotous
+desentenderse de /dˌesentendˈeɾse ðˈe/
+ignore, leaveoutofaccount
+deseo /desˈeo/
+1. avidity, covetousness, eagerness, greediness
+2. desire, want, wish
+deserción /dˌeseɾθjˈon/
+apostasy, defection
+desertar /dˌeseɾtˈaɾ/
+apostatize, desert, secede
+desfiladero /dˌesfilaðˈeɾo/
+pass
+desgastarse /dˌesɣastˈaɾse/
+wear away, wear off, wearout
+desgracia /desɣɾˈaθja/
+accident
+desgraciadamente /dˌesɣɾaθjˈaðamˈente/
+unfortunately
+deshielo /desjˈelo/
+melting, thaw
+deshonesto /dˌesonˈesto/
+nasty
+desierto /desjˈeɾto/
+desert
+designar /dˌesiɡnˈaɾ/
+1. indicate, suggest
+2. point out, show
+desigual /dˌesiɣwˈal/
+1. bumpy
+2. different
+3. coarse, rough
+desinteresado /dˌesintˌeɾesˈaðo/
+disinterested
+desistir de /dˌesistˈiɾ ðˈe/
+relinquish, renounce, waive
+deslumbar /dˌeslumbˈaɾ/
+dazzle
+desmayado /dˌesmajjˈaðo/
+unconscious
+desmayarse /dˌesmajjˈaɾse/
+faint, swoon
+desmayo /desmˈajjo/
+faint, swoon
+desmejorarse /dˌesmexoɾˈaɾse/
+decline, go back, falloff
+desmoronarse /dˌesmoɾonˈaɾse/
+crumble, crumble away, crumbleoff
+desnatar /dˌesnatˈaɾ/
+cream, skim
+desnudo /desnˈuðo/
+bare, naked, nude
+despachar /dˌespatʃˈaɾ/
+1. dispatch, send off, ship
+2. conclude, expedite, finnish, settle
+3. dismiss, turnaway
+4. send, transmit
+despacho /despˈatʃo/
+demand, sale
+despedida /dˌespeðˈiða/
+farewell, goodbye, good‐bye
+despedir /dˌespeðˈiɾ/
+1. dismiss, turnaway
+2. discharge, fire, sack
+3. discard
+despedirse /dˌespeðˈiɾse/
+say goodbye, say goodbye to, take leave, takeleavefrom
+despeñadero /dˌespeɲaðˈeɾo/
+abyss, chasm, gulf, precipice
+despojar /dˌespoxˈaɾ/
+rob
+despreciar /dˌespɾeθjˈaɾ/
+despise
+desprecio /despɾˈeθjo/
+contempt
+desprendimiento de tierras /dˌespɾendimjˈɛnto ðe tjˈeɾɾas/
+landslide
+despuntar /dˌespuntˈaɾ/
+blunt
+después /despwˈes/
+1. after, behind
+2. afterwards, next, subsequently
+3. beyond, then, thereafter
+destajar /dˌestaxˈaɾ/
+makeacontract
+destajista /dˌestaxˈista/
+builder, contractor, building contractor, masterbuilder
+destajo /destˈaxo/
+1. contract
+2. tender
+desterrado /dˌesteɾɾˈaðo/
+exile
+destierro /destjˈeɾɾo/
+exile
+destinatario /dˌestinatˈaɾjo/
+consignee, recipient
+destino /destˈino/
+destiny, fate
+destituir /dˌestitwˈiɾ/
+depose
+destornillador /dˌestoɾnˌiʎaðˈoɾ/
+screwdriver
+destreza /destɾˈeθa/
+expertness, skilfulness, skill, skillfulness
+destruir /dˌestɾuˈiɾ/
+destroy, quash
+desviar /desβjˈaɾ/
+divert
+desviarse /desβjˈaɾse/
+1. deviate
+2. turn
+3. deflect, diverge, wander
+desván /desβˈan/
+attic
+desvío /desβˈio/
+aberrance, aberration
+detalle /detˈaʎe/
+detail
+detective /dˌetektˈiβe/
+detective
+detención /dˌetenθjˈon/
+apprehension, arrest, detention
+detener /dˌetenˈeɾ/
+arrest
+detenido /dˌetenˈiðo/
+arrested person, prisoner
+deterioración /dˌeteɾjˌoɾaθjˈon/
+1. corruption, decay, depravation, taint
+deteriorar /dˌeteɾjoɾˈaɾ/
+damage, injure, spoil
+deterioro /dˌeteɾjˈoɾo/
+damage
+determinar /dˌeteɾminˈaɾ/
+determine, fix
+detestar /dˌetestˈaɾ/
+abhor, abominate, loathe
+detrimento /dˌetɾimˈɛnto/
+harm
+detrito /detɾˈito/
+1. clippings, cuttings, parings, refuse, rubbish, waste, windfall
+2. remainder, rest
+3. debris, rubble
+detrás /detɾˈas/
+1. at the back, behind, intherear
+detrás de /detɾˈas ðˈe/
+behind, after
+deuda /dˈeʊða/
+debt
+deudo /dˈeʊðo/
+relative
+devanar /dˌeβanˈaɾ/
+1. unroll, unwind, windoff
+devolver /dˌeβolβˈeɾ/
+give back, return
+de acuerdo /de akwˈeɾðo/
+agreed, okay
+de aire acondicionado /de ˈaɪɾe ˌakondˌiθjonˈaðo/
+airconditioned
+de confianza /de komfjˈanθa/
+reliable, trustworthy
+de cuando en cuando /de kwˌando en kwˈando/
+nowandthen
+de dia /de ðjˈa/
+1. by day, duringtheday
+2. during the day, inthedaytime
+de espaldas /de espˈalðas/
+1. backward, onone'sback
+2. backwards
+de golpe /de ɣˈolpe/
+all of a sudden, suddenly
+de hierro /de jˈeɾɾo/
+iron
+de madera /de maðˈeɾa/
+wooden
+de mala fama /de mˈala fˈama/
+ofillrepute
+de memoria /de memˈoɾja/
+byheart
+de nilón /de nilˈon/
+nylon
+de ninguna manera /de niŋɡˈuna manˈeɾa/
+by no means, in no way, not at all, notonanyaccount
+de ningún modo /de niŋɡˈun mˈoðo/
+notatall
+de nuevo /de nwˈeβo/
+1. afresh, again, all over again, anew
+2. oncemore
+de otra manera /de ˈotɾa manˈeɾa/
+1. differently, else
+de paso /de pˈaso/
+bytheway
+de poca profundidad /de pˈoka pɾˌofundiðˈad/
+shallow, superficial
+de prisa /de pɾˈisa/
+fast, quickly, swiftly
+de propósito /de pɾopˈosito/
+deliberately, onpurpose
+de repente /de ɾɾepˈɛnte/
+all of a sudden, suddenly
+de segunda mano /de seɣˈunda mˈano/
+second hand, secondhand
+de sopetón /de sˌopetˈon/
+all of a sudden, suddenly
+de todos los días /de tˈoðos los ðˈias/
+daily
+de veras /de βˈeɾas/
+absolutely, genuinly, indeed, really, truly
+diabetes /djaβˈetes/
+diabetes
+diamante /djamˈante/
+diamond
+diariamente /djˈaɾjamˈente/
+daily
+diario /djˈaɾjo/
+daily
+diarrea /djaɾɾˈea/
+diarrhoea
+dibujar /dˌiβuxˈaɾ/
+design, draw
+diccionario /dˌikθjonˈaɾjo/
+dictionary, vocabulary
+dicho /dˈitʃo/
+concerned, inquestion
+diciembre /diθjˈembɾe/
+December
+dieciocho /djeθjˈotʃo/
+eighteen
+diestro /djˈestɾo/
+adroit, clever, dexterous, skillful
+dieta /djˈeta/
+diet
+dietario /djetˈaɾjo/
+agenda, appointmentbook
+diez /djˈeθ/
+ten
+diez y nueve /djˈeθ i nwˈeβe/
+nineteen
+diez y ocho /djˈeθ i ˈotʃo/
+eighteen
+diez y seis /djˈeθ i sˈeɪs/
+sixteen
+diez y siete /djˈeθ i sjˈete/
+seventeen
+diferencia /dˌifeɾˈɛnθja/
+difference
+diferente /dˌifeɾˈɛnte/
+different
+diferir /dˌifeɾˈiɾ/
+differ, bedifferent
+dificil /dˌifiθˈil/
+difficult, hard, inconvenient
+dificultar /dˌifikultˈaɾ/
+hamper, hinder, thwart
+difundir /dˌifundˈiɾ/
+send, transmit
+digestión /dˌixestjˈon/
+digestion
+digresar /dˌiɣɾesˈaɾ/
+stray from one's subject, wanderfromone'ssubject
+dimensión /dˌimensjˈon/
+dimension, measurement
+dimitir /dˌimitˈiɾ/
+1. resign
+2. quit
+dinamarqués /dˌinamaɾkˈes/
+1. Danish
+2. Dane
+dinero /dinˈeɾo/
+money
+dinero del embase /dinˈeɾo ðel embˈase/
+pledge, security
+diputado /dˌiputˈaðo/
+1. delegate
+2. deputy, representative
+diputar /dˌiputˈaɾ/
+1. delegate
+2. depute
+dirección /dˌiɾekθjˈon/
+1. address
+2. direction
+directamente /diɾˈektamˈente/
+at once, instantly, immediately, withoutdelay
+director /dˌiɾektˈoɾ/
+director, manager
+directorio /dˌiɾektˈoɾjo/
+addresslist
+dirigir /dˌiɾixˈiɾ/
+1. address
+2. conduct, guide, lead
+dirigirse /dˌiɾixˈiɾse/
+go
+dirigirse a /dˌiɾixˈiɾse ˈa/
+accost, address
+dirigir la palabra a /dˌiɾixˈiɾ la palˈaβɾa ˈa/
+accost, address
+disco /dˈisko/
+grammophonedisc
+discreto /diskɾˈeto/
+discrete
+discriminación /dˌiskɾimˌinaθjˈon/
+discrimination
+disculpa /diskˈulpa/
+apology
+disculparse /dˌiskulpˈaɾse/
+apologize
+disferente /dˌisfeɾˈɛnte/
+different
+disfrutar /dˌisfɾutˈaɾ/
+delight in, enjoy
+disminuir /dˌisminwˈiɾ/
+1. abate, decrease, diminish
+2. drop, fall
+disponible /dˌisponˈiβle/
+available
+disposición /dˌisposiθjˈon/
+ability, capability, fitness, suitability
+disputar /dˌisputˈaɾ/
+quarrel, wrangle
+dispénseme /dispˈenseme/
+excuseme
+distancia /distˈanθja/
+distance, offset
+distinguir /dˌistiŋɡˈiɾ/
+distinguish
+distinto /distˈinto/
+different
+distracción /dˌistɾakθjˈon/
+distraction, diversion
+distraer /dˌistɾaˈeɾ/
+distract, divert, entertain
+distraído /dˌistɾaˈiðo/
+absent‐minded, abstracted, distracted
+distribuir /dˌistɾiβwˈiɾ/
+distribute
+distrito /distɾˈito/
+district
+divergente /dˌiβeɾxˈɛnte/
+different
+diversión /dˌiβeɾsjˈon/
+amusement, fun
+divertido /dˌiβeɾtˈiðo/
+amusing, entertaining, funny
+divertimento /dˌiβeɾtimˈɛnto/
+amusement, fun
+divertir /dˌiβeɾtˈiɾ/
+amuse
+divertirse /dˌiβeɾtˈiɾse/
+enjoy oneself, haveagoodtime
+dividir /dˌiβiðˈiɾ/
+divide, separate, share
+divorcio /diβˈoɾθjo/
+divorce
+divulgar /dˌiβulɣˈaɾ/
+1. publish, reveal
+2. acquaint, let know, inform
+diámetro /djˈametɾo/
+diameter
+doblar /doβlˈaɾ/
+1. fold
+2. bend
+doble /dˈoβle/
+double, dual
+doce /dˈoθe/
+twelve
+doctor /doktˈoɾ/
+doctor, physician
+documento /dˌokumˈɛnto/
+document, paper
+doler /dolˈeɾ/
+ache, be painful, hurt
+dolerse por /dolˈeɾse pˈoɾ/
+have compassion on, pity
+dolor /dolˈoɾ/
+ache, pain
+dolor de muelas /dolˈoɾ ðe mwˈelas/
+toothache
+domesticado /dˌomestikˈaðo/
+tame
+domicilio /dˌomiθˈiljo/
+1. abode, dwelling‐place, residence
+2. dwelling‐place‐residence
+dominga de Ramos /domˈiŋɡa ðe ɾɾˈamos/
+PalmSunday
+domingo /domˈiŋɡo/
+Sunday
+donde /dˈonde/
+where
+dormir /doɾmˈiɾ/
+be asleep, sleep
+dos /dˈos/
+two
+dosis /dˈosis/
+dose
+dos veces /dˈos βˈeθes/
+twice
+dotado /dotˈaðo/
+1. gifted, talented
+2. accomplished
+dotar /dotˈaɾ/
+endow
+dromedario /dɾˌomeðˈaɾjo/
+dromedary
+ducha /dˈutʃa/
+shower
+ducharse /dutʃˈaɾse/
+takeashower
+duda /dˈuða/
+1. hesitation, wavering
+dudar /duðˈaɾ/
+doubt
+dueño /dwˈeɲo/
+1. boss, chief, leader
+2. master
+3. owner
+dueño de sí mismo /dwˈeɲo ðe sˈi mˈismo/
+composed, restrained, self‐possessed
+dulce /dˈulθe/
+1. gentle, soft, sweet, tender
+2. delicacy, tidbit
+durar /duɾˈaɾ/
+continue, endure, keep on, last
+duro /dˈuɾo/
+1. hard
+2. leather
+dyschatell /ðˌistʃatˈeʎ/
+couch, divan
+dátil /dˈatil/
+date
+débil /dˈeβil/
+faint, light, weak
+día /dˈia/
+day
+día del Corpus /dˈia ðel kˈoɾpus/
+CorpusChristi
+dólar /dˈolaɾ/
+dollar
+dómine /dˈomine/
+pastor
+ebrio /ˈeβɾio/
+drunk, intoxicated
+echar /etʃˈaɾ/
+throw
+echar a perder /etʃˈaɾ a peɾðˈeɾ/
+spoil
+echar la siesta /etʃˈaɾ la sjˈesta/
+doze, nap, slumber
+económico /ˌekonˈomiko/
+thrifty
+edad /eðˈad/
+age
+edad media /eðˈad mˈeðja/
+MiddleAges
+edecán /ˌeðekˈan/
+adjutant, aide‐de‐camp
+edificar /ˌeðifikˈaɾ/
+1. erect, establish
+2. found
+3. build, construct
+edificio /ˌeðifˈiθjo/
+building
+edificio anexo /ˌeðifˈiθjo anˈekso/
+annexation
+editor /ˌeðitˈoɾ/
+publisher
+eficaz /ˌefikˈaθ/
+effective, effectual, efficacious
+efigie /efˈixje/
+effigy, head
+egipcio /exˈipθjo/
+Egyptian
+egipcíaco /ˌexipθˈiako/
+1. Egyptian
+egoísta /ˌeɣoˈista/
+1. self‐interested, selfish
+eje /ˈexe/
+axis, axle
+ejemplo /exˈemplo/
+example
+ejercicio /ˌexeɾθˈiθjo/
+exercise, practice
+ejército /exˈeɾθito/
+army
+el /ˈel/
+the
+elección /ˌelekθjˈon/
+choice, election
+electricidad /ˌelektɾˌiθiðˈad/
+electricity
+elefante /ˌelefˈante/
+elephant
+elegante /ˌeleɣˈante/
+1. elegant
+2. chic
+elegir /ˌelexˈiɾ/
+choose, elect, pickout
+elevación /ˌeleβaθjˈon/
+altitude, height
+ella /ˈeʎa/
+her, she
+eléctrico /elˈektɾiko/
+electric
+el día de Todos los Santos /el ðˈia ðe tˈoðos los sˈantos/
+AllSouls'Day
+embajada /ˌembaxˈaða/
+embassy
+embajador /ˌembaxaðˈoɾ/
+1. ambassador
+2. emissary, envoy, messenger
+embalsamar /ˌembalsamˈaɾ/
+1. embalm
+embarcación /ˌembaɾkaθjˈon/
+ship, vessel
+embarcarse /ˌembaɾkˈaɾse/
+embark
+embargar /ˌembaɾɣˈaɾ/
+confiscate
+embelesar /ˌembelesˈaɾ/
+charm
+embotado /ˌembotˈaðo/
+1. blunt
+2. dull, obtuse
+embragar /ˌembɾaɣˈaɾ/
+couple
+embriaguez /ˌembɾiaɣˈeθ/
+drunkenness, inebriety
+embudo /embˈuðo/
+funnel
+embuste /embˈuste/
+swindle
+embustero /ˌembustˈeɾo/
+cheat, deceiver, imposter
+emigrar /ˌemiɣɾˈaɾ/
+emigrate
+emigrarse /ˌemiɣɾˈaɾse/
+emigrate
+emoción /ˌemoθjˈon/
+emotion
+empacar /ˌempakˈaɾ/
+pack, package, wrapup
+empalmar /ˌempalmˈaɾ/
+correspond
+empalme /empˈalme/
+connection
+empezar /ˌempeθˈaɾ/
+begin, commence, start
+empleado /ˌempleˈaðo/
+1. employee
+2. clerk
+3. officer, official
+emplear /ˌempleˈaɾ/
+apply, practice
+empleo /emplˈeo/
+post
+emprender /ˌempɾendˈeɾ/
+undertake
+empresa /empɾˈesa/
+industry
+empujar /ˌempuxˈaɾ/
+push, thrust
+en /ˈen/
+1. a, in, inside, into, on, per, within
+2. upon
+enamorarse de /ˌenamoɾˈaɾse ðˈe/
+fallinlovewith
+encadenación /ˌenkaðˌenaθjˈon/
+order
+encadenamiento /ˌenkaðˌenamjˈɛnto/
+order
+encajar /ˌenkaxˈaɾ/
+palmoffon
+encaje /enkˈaxe/
+lace
+encamado /ˌenkamˈaðo/
+bedridden, confined to one's bed, laidup
+encantador /ˌenkantaðˈoɾ/
+charming, lovely
+encantar /ˌenkantˈaɾ/
+1. attract, draw
+2. charm
+encanto /enkˈanto/
+charm
+encargarse de /ˌenkaɾɣˈaɾse ðˈe/
+undertake
+encendedor /ˌenθendeðˈoɾ/
+lighter
+encender /ˌenθendˈeɾ/
+1. burn
+2. kindle, light
+3. illuminate
+encentar /ˌenθentˈaɾ/
+cutinto
+enciclopedia /ˌenθiklopˈeðja/
+encyclopaedia
+encima de /enθˈima ðˈe/
+above, over
+encogido /ˌenkoxˈiðo/
+afraid, timid
+encontrar /ˌenkontɾˈaɾ/
+1. come across, encounter, meet, see
+2. find
+encontrarse /ˌenkontɾˈaɾse/
+1. be found, be located, findoneself
+encuadernación /ˌenkwaðˌeɾnaθjˈon/
+binding, cover
+encuentro /enkwˈɛntɾo/
+encounter
+encuesta /enkwˈesta/
+inquiry, investigation
+encía /enθˈia/
+gum
+endrino /endɾˈino/
+sledge, sleigh
+enemigo /ˌenemˈiɣo/
+adversary, enemy
+enero /enˈeɾo/
+January
+enfermedad venérea /ˌemfeɾmeðˈad βenˈeɾea/
+venerealdisease
+enfermera /ˌemfeɾmˈeɾa/
+nurse
+enfrenar /ˌemfɾenˈaɾ/
+brake
+enfrente de /emfɾˈɛnte ðˈe/
+opposite
+enfriar /ˌemfɾiˈaɾ/
+1. cool, cooldown
+2. getcold
+engañar /ˌeŋɡaɲˈaɾ/
+1. fool, hoax, mystify, trick
+2. takein
+3. cheat, deceive
+engaño /eŋɡˈaɲo/
+swindle
+engañoso /ˌeŋɡaɲˈoso/
+1. deceptive, delusive, fallacious
+2. deceitful
+enjugar /ˌeŋxuɣˈaɾ/
+1. dry
+2. delete, wipe, wipeoff
+enlace /enlˈaθe/
+1. startingpoint
+2. connection
+enmohecerse /ˌenmoeθˈeɾse/
+getmouldy
+enorme /enˈoɾme/
+enormous
+enrollar /ˌenroʎˈaɾ/
+envelop
+ensalada /ˌensalˈaða/
+salad
+ensangrentado /ˌensaŋɡɾentˈaðo/
+1. blood‐stained, coveredwithblood
+enseñar /ˌenseɲˈaɾ/
+1. indicate, suggest
+2. teach
+3. point out, show
+enteblar /ˌenteβlˈaɾ/
+begin, commence, start
+entender /ˌentendˈeɾ/
+understand, realize
+enteramente /entˈeɾamˈente/
+at all, entirely, quite, wholly
+entero /entˈeɾo/
+entire, overall, whole
+enterramiento /ˌenteɾɾamjˈɛnto/
+1. burial, funeral, interment
+enterrar /ˌenteɾɾˈaɾ/
+1. bury
+2. entomb, inter
+3. flood, overwhelm
+entierro /entjˈeɾɾo/
+1. burial, funeral, interment
+entonar /ˌentonˈaɾ/
+intone, raise
+entonces /entˈonθes/
+then
+entrada /entɾˈaða/
+1. entrance, portal
+2. access, admission, admittance
+entrante /entɾˈante/
+1. future
+2. close, near, nearby, next
+3. following
+entrar /entɾˈaɾ/
+go in, enter, perform
+entrar en cuenta /entɾˈaɾ en kwˈɛnta/
+be considered, count
+entre /ˈɛntɾe/
+among, between
+entrecortado /ˌentɾekoɾtˈaðo/
+broken
+entrega /entɾˈeɣa/
+delivery
+entregar /ˌentɾeɣˈaɾ/
+1. hand, handover
+2. deliver, furnish, supply
+3. pass, spend
+4. convey, hand over
+entretener /ˌentɾetenˈeɾ/
+amuse
+entristecer /ˌentɾisteθˈeɾ/
+1. afflict, grieve
+2. cause pain, cause pain to, distress, givepainto
+envejecer /ˌembexeθˈeɾ/
+be on the decline, go downhill, gooff
+envenenar /ˌembenenˈaɾ/
+poison
+enviar /embjˈaɾ/
+1. dispatch, send off, ship
+2. dismiss, turnaway
+3. send, transmit
+envidia /embˈiðja/
+envy
+envidiar /ˌembiðjˈaɾ/
+envy
+envidioso /ˌembiðjˈoso/
+envious
+envolver /ˌembolβˈeɾ/
+pack, package, wrapup
+en alta voz /en ˈalta βˈoθ/
+loudly
+en casa /en kˈasa/
+athome
+en cuanto a /en kwˌanto ˈa/
+1. about, concerning
+2. on, upon
+3. as to, as regards
+en cuestón /en kwestˈon/
+concerned, inquestion
+en efecto /en efˈekto/
+1. absolutely, actually, infact
+2. genuinly, indeed, really, truly
+en el acto /en el ˈakto/
+at once, immediately, just, right away, rightnow
+en el extranjero /en el ˌekstɾaŋxˈeɾo/
+abroad
+en el fondo /en el fˈondo/
+below, downstairs, underneath
+en ninguna parte /en niŋɡˈuna pˈaɾte/
+nowhere
+en orden /en ˈoɾðen/
+agreed, okay
+en otra parte /en ˈotɾa pˈaɾte/
+elsewhere
+en parte /em pˈaɾte/
+partially, partly
+en pos /em pˈos/
+1. at the back, behind, intherear
+en primer lugar /em pɾimˈeɾ luɣˈaɾ/
+first, firstly, firstofall
+en principio /em pɾinθˈipjo/
+inprinciple
+en realidad /en ɾɾˌealiðˈad/
+absolutely, genuinly, indeed, really, truly
+en seguida /en seɣˈiða/
+1. at once, instantly, immediately, withoutdelay
+2. just, right away, rightnow
+en su mayor parte /en su majjˈoɾ pˈaɾte/
+1. for the greater part, forthemostpart
+en todas partes /en tˈoðas pˈaɾtes/
+1. all about, everywhere
+en todos conceptos /en tˈoðos konθˈepːtos/
+1. ineveryway
+2. in all respects, in every respect
+en torno de /en tˈoɾno ðˈe/
+about, round, around, towards
+en un principio /en ˈum pɾinθˈipjo/
+1. at first, at the outset, inthebeginning
+en vano /em bˈano/
+invain
+equipaje /ˌekipˈaxe/
+baggage, luggage
+equipajes /ˌekipˈaxes/
+baggage, luggage
+equis /ˈekis/
+X
+equivocación /ˌekiβˌokaθjˈon/
+aberration, error, mistake
+equivocarse /ˌekiβokˈaɾse/
+err, makeamistake
+error /eɾɾˈoɾ/
+aberration, error, mistake
+escala /eskˈala/
+ladder
+escalar /ˌeskalˈaɾ/
+ascend, climb, scale
+escalera /ˌeskalˈeɾa/
+staircase, stairs
+escama /eskˈama/
+scale
+escandaloso /ˌeskandalˈoso/
+aggravating
+escandálo /ˌeskandˈalo/
+1. offence, scandal
+2. commotion
+escaparate /ˌeskapaɾˈate/
+showwindow
+escarola /ˌeskaɾˈola/
+endive
+escarpado /ˌeskaɾpˈaðo/
+abrupt, steep
+escaño /eskˈaɲo/
+bank
+esclusa /esklˈusa/
+lock, sluice
+escocés /ˌeskoθˈes/
+1. Scottish
+2. Scot, Scotsman
+escoger /ˌeskoxˈeɾ/
+choose, elect, pickout
+escombro /eskˈombɾo/
+mackerel
+escopeta /ˌeskopˈeta/
+gun, rifle
+escribir /ˌeskɾiβˈiɾ/
+write
+escribir a máquina /ˌeskɾiβˈiɾ a mˈakina/
+type
+escrupuloso /ˌeskɾupulˈoso/
+accurate, scrupulous
+escuchar /ˌeskutʃˈaɾ/
+listen
+escuela /eskwˈela/
+school
+escultor /ˌeskultˈoɾ/
+sculptor
+escupir /ˌeskupˈiɾ/
+spit
+esforzarse por /ˌesfoɾθˈaɾse pˈoɾ/
+aim, attempt, endeavour, take steps, undertake
+eslavo /eslˈaβo/
+1. Slavic
+2. Slav
+eso /ˈeso/
+that, that over there, those
+espacio /espˈaθjo/
+room, space
+espalda /espˈalða/
+back
+espantar /ˌespantˈaɾ/
+deter, discourage, scare
+espanto /espˈanto/
+fright
+esparadrapo /ˌespaɾaðɾˈapo/
+plaster
+español /ˌespaɲˈol/
+1. Spanish
+2. Spanishlanguage
+3. Spaniard
+española /ˌespaɲˈola/
+Spanishwoman
+especia /espˈeθja/
+spice
+especial /ˌespeθjˈal/
+particular, special
+especie /espˈeθje/
+kind, sort
+espejo /espˈexo/
+looking‐glass, mirror
+esperanto /ˌespeɾˈanto/
+Esperanto
+esperanza /ˌespeɾˈanθa/
+hope
+esperar /ˌespeɾˈaɾ/
+1. foresee
+2. abide, expect, wait, await, waitfor
+3. hope
+4. bide, stay for
+espiga /espˈiɣa/
+ear
+espinaca /ˌespinˈaka/
+spinach
+espina dorsal /espˈina ðoɾsˈal/
+spine
+espolear /ˌespoleˈaɾ/
+1. encourage, impel, instigate, spur on, stimulate, urge
+2. incite, rouse, spur, stirup
+esponja /espˈoŋxa/
+sponge
+esposa /espˈosa/
+wife
+esposo /espˈoso/
+husband
+espuma /espˈuma/
+foam, froth
+esputo /espˈuto/
+mucus, phlegm
+espárrago /espˈaɾɾaɣo/
+asparagus
+esqueleto /ˌeskelˈeto/
+skeleton
+esquiar /eskjˈaɾ/
+ski
+esquimal /ˌeskimˈal/
+Eskimo
+esquina /eskˈina/
+corner
+esquí /eskˈi/
+ski
+esta /ˈesta/
+1. these, this, thishere
+establo /estˈaβlo/
+stable, stall, sty
+estación /ˌestaθjˈon/
+1. season
+2. station
+estación balnearia /ˌestaθjˈom bˌalneˈaɾja/
+spa
+estación de servicio /ˌestaθjˈon de seɾβˈiθjo/
+fillingstation
+estado /estˈaðo/
+state
+estafar /ˌestafˈaɾ/
+fleece
+estandarte /ˌestandˈaɾte/
+flag, standard
+estanque /estˈanke/
+pond
+estar /estˈaɾ/
+1. be
+2. be found, be located, findoneself
+estar ...ando /estˈaɾ ˈando/
+busyoneself
+estar de acuerdo con /estˈaɾ ðe akwˈeɾðo kˈon/
+agreeto
+estar de pie /estˈaɾ ðe pjˈe/
+stand
+estar sentado /estˈaɾ sentˈaðo/
+sit
+estar tendido /estˈaɾ tendˈiðo/
+lie, recline
+estatua /estˈatwa/
+statue
+esta mañana /ˈesta maɲˈana/
+thismorning
+esta tarde /ˈesta tˈaɾðe/
+thisevening
+estaño /estˈaɲo/
+tin
+este /ˈeste/
+east, East
+estima /estˈima/
+1. esteem, regard
+2. respect
+estimación /ˌestimaθjˈon/
+1. esteem, regard
+2. respect
+estimar /ˌestimˈaɾ/
+1. esteem, thinkwellof
+2. appraise, estimate, rate
+estimular /ˌestimulˈaɾ/
+rouse, stimulate, stirup
+estipular /ˌestipulˈaɾ/
+set conditions, stipulate
+estofado de carne húngaro /ˌestofˈaðo ðe kˈaɾne ˈuŋɡaɾo/
+goulash, stew
+estorbar /ˌestoɾβˈaɾ/
+1. bar, inhibit, prevent
+2. hinder
+estornudar /ˌestoɾnuðˈaɾ/
+sneeze
+estrecho /estɾˈetʃo/
+1. narrow
+2. close, cramped
+3. strait
+estrella /estɾˈeʎa/
+star
+estrofa /estɾˈofa/
+verse
+estropeado /ˌestɾopeˈaðo/
+broken, damaged
+estuche /estˈutʃe/
+jug, box, container, vessel
+estudiante /ˌestuðjˈante/
+academic, student
+estudiar /ˌestuðjˈaɾ/
+1. learn
+2. study
+estudio /estˈuðjo/
+study
+estufa /estˈufa/
+furnace, kiln, oven, stove
+estómago /estˈomaɣo/
+stomach
+es decir /ˈes ðeθˈiɾ/
+thatis
+es una lástima /ˈes ˈuna lˈastima/
+1. alas, regrettably, unfortunately
+2. that's too bad, whatapity
+europeo /ˌeʊɾopˈeo/
+European
+evidente /ˌeβiðˈɛnte/
+clear, distinct, plain
+evidentemente /ˌeβiðˈɛntemˈente/
+apparently, obviously
+evitar /ˌeβitˈaɾ/
+avoid, evade
+exacción /ˌeksakθjˈon/
+exaction, extortion
+exacto /eksˈakto/
+exact
+exagerar /ˌeksaxeɾˈaɾ/
+exaggerate
+examen /eksˈamen/
+investigation, examination, test
+examinar /ˌeksaminˈaɾ/
+examine
+excelente /ˌeksθelˈɛnte/
+fine, great
+excepto /eksθˈepːto/
+apart from, but, except, otherthan
+excluir /ˌekskluˈiɾ/
+exclude
+excursión /ˌekskuɾsjˈon/
+excursion, outing, sightseeingtrip
+excusado /ˌekskusˈaðo/
+toilet
+exhortación /ˌeksoɾtaθjˈon/
+admonition, exhortation
+exhortar /ˌeksoɾtˈaɾ/
+admonish, scold
+exigir /ˌeksixˈiɾ/
+demand, postulate, require
+existencia /ˌeksistˈɛnθja/
+existence
+existir /ˌeksistˈiɾ/
+exist
+expedir /ˌekspeðˈiɾ/
+1. dispatch, send off, ship
+2. dismiss, turnaway
+experiencia /ˌekspeɾjˈɛnθja/
+experience
+experto /ekspˈeɾto/
+1. experienced, expert, skilful, skilled, skillful, practised
+2. adroit, clever, dexterous
+expiración /ˌekspiɾaθjˈon/
+end, terminate
+expirar /ˌekspiɾˈaɾ/
+end, come to an end, end up, expire
+explicación /ˌeksplikaθjˈon/
+1. account, explanation
+explicar /ˌeksplikˈaɾ/
+1. account for, explain
+2. clarify
+explotar /ˌeksplotˈaɾ/
+exploit, utilize
+exposición /ˌeksposiθjˈon/
+exhibition, exposition
+exterior /ˌeksteɾjˈoɾ/
+external, outer, outside
+externo /ekstˈeɾno/
+external, outer, outside
+extorsión /ˌekstoɾsjˈon/
+exaction, extortion
+extra /ˈekstɾa/
+additional, extra
+extracto /ekstɾˈakto/
+extract, infusion
+extranjero /ˌekstɾaŋxˈeɾo/
+1. alien, foreigner
+2. foreign
+extraviarse /ˌekstɾaβjˈaɾse/
+go astray, strayoff
+extremamente /ekstɾˈemamˈente/
+1. extremely
+2. most
+fabricación /fˌaβɾikaθjˈon/
+1. making, manifacture
+2. manufacture
+fabricar /fˌaβɾikˈaɾ/
+1. fabricate, manufacture
+2. achieve, act, do, make, perform
+faisán /faɪsˈan/
+pheasant
+falaz /falˈaθ/
+1. deceptive, delusive, fallacious
+2. deceitful
+falda /fˈalða/
+skirt
+falta /fˈalta/
+absence, lack, shortage, shortcoming
+faltar /faltˈaɾ/
+be lacking, bemissing
+familia /famˈilja/
+family
+familiar /fˌamiljˈaɾ/
+relative
+famoso /famˈoso/
+famous, glorious
+fardo /fˈaɾðo/
+bale
+farmacia /faɾmˈaθja/
+chemist's shop, drugstore
+farmacéutico /fˌaɾmaθˈeutˌiko/
+chemist
+faro /fˈaɾo/
+headlight
+farol /faɾˈol/
+lantern
+farsante /faɾsˈante/
+attitudinizer, poseur
+fatal /fatˈal/
+fateful, ill‐fated
+fatigar /fˌatiɣˈaɾ/
+fag out, jade, overdrive, override
+favor /faβˈoɾ/
+favor, favour
+favorable /fˌaβoɾˈaβle/
+advantageous, favourable
+favorecer /fˌaβoɾeθˈeɾ/
+favor, favour
+faz /fˈaθ/
+face
+febrero /feβɾˈeɾo/
+February
+fecha /fˈetʃa/
+date
+federal /fˌeðeɾˈal/
+federal
+felicitar /fˌeliθitˈaɾ/
+congratulate
+feminino /fˌeminˈino/
+female, feminine
+fender /fendˈeɾ/
+split
+fenomenal /fˌenomenˈal/
+phenomenal
+feo /fˈeo/
+nasty, ugly
+fidedigno /fˌiðeðˈiɡno/
+1. plausible
+fiebre /fjˈeβɾe/
+ague, fever
+fiel /fjˈel/
+faithful
+fiero /fjˈeɾo/
+savage, wild
+fiesta /fjˈesta/
+celebration, festival, party
+figurado /fˌiɣuɾˈaðo/
+figurative
+figurarse /fˌiɣuɾˈaɾse/
+fancy, imagine
+fijar /fixˈaɾ/
+attach, determine, fasten, fix, affix, make fast, secure
+fijo /fˈixo/
+1. fixed
+2. fast, firm, stable
+fila /fˈila/
+grade, rank, rate
+filete /filˈete/
+slice
+filtro /fˈiltɾo/
+filter
+fin /fˈin/
+1. aim, goal, purpose, target
+2. end, ending
+final /finˈal/
+end, ending
+finalmente /finˈalmˈente/
+at last, finally, ultimately
+finca /fˈinka/
+estate, farm, property, ranch
+finesa /finˈesa/
+Finnish, Finnishwoman
+fingir /fiŋxˈiɾ/
+1. give as an excuse, pretend
+2. feign
+finlandesa /fˌinlandˈesa/
+Finnish, Finnishwoman
+finlandés /fˌinlandˈes/
+1. Finnish
+2. Finnishlanguage
+3. Finn
+fino /fˈino/
+1. dainty, delicate, fine, refined
+2. gaunt, lean, slender, thin
+finés /finˈes/
+1. Finnish
+2. Finnishlanguage
+3. Finn
+firma /fˈiɾma/
+1. company, firm
+2. signature
+firmar /fiɾmˈaɾ/
+sign
+fisonomía /fˌisonomˈia/
+face
+flamenco /flamˈɛnko/
+1. Flemmish
+2. Flemming
+flan /flˈan/
+cream
+flauta /flˈaʊta/
+flute
+flecha /flˈetʃa/
+arrow
+flema /flˈema/
+mucus, phlegm
+flor /flˈoɾ/
+bloom, flower
+florin /flˈoɾin/
+guilder, gulden
+foca /fˈoka/
+seal, sea‐dog
+folleto /foʎˈeto/
+leaflet, pamphlet, paperback
+fondear /fˌondeˈaɾ/
+anchor
+fondo /fˈondo/
+1. background
+formulario /fˌoɾmulˈaɾjo/
+blank, form
+forrar /foɾɾˈaɾ/
+cover, overlay
+forro /fˈoɾɾo/
+lining
+forta leza /fˈoɾta lˈeθa/
+fortress
+forzar /foɾθˈaɾ/
+compel, force
+foto /fˈoto/
+photograph
+fotografía /fˌotoɣɾafˈia/
+photograph
+fotógrafo /fotˈoɣɾafo/
+1. photographer
+frambuesa /fɾambwˈesa/
+raspberry
+francesa /fɾanθˈesa/
+Frenchwoman
+francés /fɾanθˈes/
+1. French
+2. Frenchlanguage
+3. Frenchman
+franela /fɾanˈela/
+flannel
+franqueo /fɾankˈeo/
+postage
+frase /fɾˈase/
+sentence
+fregadero /fɾˌeɣaðˈeɾo/
+dresser
+fregar /fɾeɣˈaɾ/
+washup
+freir /fɾˈeɪɾ/
+fry
+freno /fɾˈeno/
+brake
+freno de emergencia /fɾˈeno ðe ˌemeɾxˈɛnθja/
+communication‐cord
+frente /fɾˈɛnte/
+forehead
+fresa /fɾˈesa/
+strawberry
+fresco /fɾˈesko/
+1. fresh, recent
+2. cool
+fresno /fɾˈesno/
+ash
+friolera /fɾiolˈeɾa/
+trifle
+frisio /fɾˈisjo/
+Frisian
+frisona /fɾisˈona/
+Frisian, Frisianwoman
+frisón /fɾisˈon/
+Frisian
+frontera /fɾontˈeɾa/
+boundary, frontier, limit
+frontón /fɾontˈon/
+1. façade
+2. front, battlefront, frontage
+frotar /fɾotˈaɾ/
+rub
+fruta /fɾˈuta/
+fruit
+frutal /fɾutˈal/
+fruit‐tree
+frío /fɾˈio/
+1. bleak, chilly, cold
+fuego /fwˈeɣo/
+fire
+fuente /fwˈɛnte/
+1. fountain
+2. source, spring
+3. basin, bowl, pelvis
+fuera /fwˈeɾa/
+abroad, out, outside
+fuera de /fwˈeɾa ðˈe/
+outside, outsideof
+fuerte /fwˈeɾte/
+1. strong
+2. firm, robust, sturdy
+3. solid
+fuerza /fwˈeɾθa/
+force, strength, vigour
+fuerza de caballos /fwˈeɾθa ðe kaβˈaʎos/
+horsepower
+fulminante /fˌulminˈante/
+acute
+fumar /fumˈaɾ/
+smoke
+funcionar /fˌunθjonˈaɾ/
+function, operate, run, work
+funcionario /fˌunθjonˈaɾjo/
+officer, official
+función /funθjˈon/
+function, job, office, post
+fundar /fundˈaɾ/
+1. base
+2. erect, establish, found
+furgón /fuɾɣˈon/
+luggage‐van
+fusilar /fˌusilˈaɾ/
+shootdead
+fábrica /fˈaβɾika/
+factory
+fácil /fˈaθil/
+easy, facile
+fácilmente /fˈaθilmˈente/
+easily
+fécula /fˈekula/
+potatoflour
+fécula de patata /fˈekula ðe patˈata/
+potatoflour
+fértil /fˈeɾtil/
+fertile
+física /fˈisika/
+physics
+fósforo /fˈosfoɾo/
+match
+gafas /ɡˈafas/
+glasses, spectacles
+gafas oscuras /ɡˈafas oskˈuɾas/
+sun‐glasses
+gallego /ɡaʎˈeɣo/
+Galician
+galleta /ɡaʎˈeta/
+biscuit, cookie
+gallina /ɡaʎˈina/
+chicken, fowl
+gallo /ɡˈaʎo/
+cock, rooster
+ganado /ɡanˈaðo/
+livestock
+ganancia /ɡanˈanθja/
+1. accession, acquisition, gain
+2. asset
+ganar /ɡanˈaɾ/
+earn, gain, win
+gancho /ɡˈantʃo/
+hook
+ganso /ɡˈanso/
+goose
+garaje /ɡaɾˈaxe/
+garage
+garantía /ɡˌaɾantˈia/
+guarantee, warrant
+garganta /ɡaɾɣˈanta/
+throat
+garra /ɡˈaɾɾa/
+claw
+garrafa /ɡaɾɾˈafa/
+carafe, decanter
+gas /ɡˈas/
+gas
+gasolina /ɡˌasolˈina/
+gasolene, gasoline, petrol
+gastado /ɡastˈaðo/
+worn
+gastar /ɡastˈaɾ/
+pay out, spend
+gastos /ɡˈastos/
+charge, cost, expense
+gas natural /ɡˈas nˌatuɾˈal/
+naturalgas
+gata /ɡˈata/
+femalecat
+gato /ɡˈato/
+1. cat
+2. jack
+gaviota /ɡaβjˈota/
+seagull
+gemelos /xemˈelos/
+1. twins
+2. twin
+gemir /xemˈiɾ/
+groan, moan
+general /xˌeneɾˈal/
+general, usual
+generalmente /xˌeneɾˈalmˈente/
+generally
+gente /xˈɛnte/
+people
+geografía /xˌeoɣɾafˈia/
+1. geographic, geographical
+2. geography
+gerente /xeɾˈɛnte/
+1. administrator
+2. manager
+geógrafo /xeˈoɣɾafo/
+geographer
+ginebra /xinˈeβɾa/
+gin
+girar /xiɾˈaɾ/
+1. turn
+2. endorse
+giro postal /xˈiɾo postˈal/
+moneyorder
+globo terráqueo /ɡlˈoβo teɾɾˈakeo/
+globe, worldglobe
+gobernar /ɡˌoβeɾnˈaɾ/
+control, govern, restrain, rule
+gobierno /ɡoβjˈeɾno/
+administration, government
+godo /ɡˈoðo/
+Goth
+golondrina /ɡˌolondɾˈina/
+swallow
+golpe /ɡˈolpe/
+blow
+golpear /ɡˌolpeˈaɾ/
+beat, hit, strike
+goma /ɡˈoma/
+rubber
+gordo /ɡˈoɾðo/
+fat, fatty, greasy
+gorrión /ɡˌoɾɾiˈon/
+sparrow
+gorro /ɡˈoɾɾo/
+1. cap
+gota /ɡˈota/
+1. arthritis
+2. drip, drop
+3. gout
+grabado /ɡɾaβˈaðo/
+image, picture
+gracia /ɡɾˈaθja/
+charm
+gracias /ɡɾˈaθjas/
+1. gratitude, thanks
+2. thank you
+gracioso /ɡɾaθjˈoso/
+affable, friendly, good‐natured, kind
+grado /ɡɾˈaðo/
+degree, grade
+gram /ɡɾˈam/
+gram, gramme
+gramática /ɡɾamˈatika/
+grammar
+grande /ɡɾˈande/
+big, great, large
+granero /ɡɾanˈeɾo/
+barn, shed, stand
+granito /ɡɾanˈito/
+granite
+granizo /ɡɾanˈiθo/
+hail
+granja /ɡɾˈaŋxa/
+estate, farm, property, ranch
+grasa /ɡɾˈasa/
+fat, grease
+gratitud /ɡɾˌatitˈud/
+gratitude
+gratuito /ɡɾatwˈito/
+free
+grave /ɡɾˈaβe/
+1. important, serious
+2. court, yard, courtyard
+3. alarming, grave
+greda /ɡɾˈeða/
+chalk
+grieco /ɡɾiˈeko/
+Greek
+griega /ɡɾiˈeɣa/
+Greekwoman
+griego /ɡɾiˈeɣo/
+Greek
+grieta /ɡɾiˈeta/
+1. crack, crevice
+2. burst, flaw
+grifo /ɡɾˈifo/
+faucet, tap
+gripe /ɡɾˈipe/
+flu, grip, influenza
+gris /ɡɾˈis/
+grey
+gritar /ɡɾitˈaɾ/
+cry out, scream, shout
+grito /ɡɾˈito/
+cry, shout
+grosella /ɡɾosˈeʎa/
+1. gooseberry
+2. currant
+3. redcurrant
+grosero /ɡɾosˈeɾo/
+rude
+grueso /ɡɾuˈeso/
+1. bold, corpulent, fat, thick
+2. fatty, greasy
+grupo /ɡɾˈupo/
+1. bevy, collection, group, heap, herd, set
+guadaña /ɡwaðˈaɲa/
+scythe
+guante /ɡwˈante/
+glove, mitten
+guardabarros /ɡwˌaɾðaβˈaɾɾos/
+mudguard
+guardar /ɡwaɾðˈaɾ/
+1. guard, preserve, protect, save
+2. conserve, keep, maintain
+3. shelter
+guardarropa /ɡwˌaɾðaɾɾˈopa/
+cloakroom
+guardavía /ɡwˌaɾðaβˈia/
+signalman
+guardia /ɡwˈaɾðja/
+1. guard
+2. policeman
+guardiamarina /ɡwˌaɾðjamaɾˈina/
+middy, midshipsman, navalcadet
+guerra /ɡˈeɾɾa/
+war
+guiar /ɡjˈaɾ/
+conduct, direct, guide, head, lead
+guisante /ɡisˈante/
+pea
+gusano /ɡusˈano/
+worm
+gustar /ɡustˈaɾ/
+1. please
+2. appreciate, like
+gusto /ɡˈusto/
+taste
+guía /ɡˈia/
+1. leader
+2. guide
+3. handbook, guidebook
+gámba /ɡˈamba/
+prawn
+gótico /ɡˈotiko/
+Gothic
+haba /ˈaβa/
+bean
+haber /aβˈeɾ/
+credit
+habilidad /ˌaβiliðˈad/
+ability
+habitación /ˌaβitaθjˈon/
+chamber, room
+habitante /ˌaβitˈante/
+inhabitant
+habitar /ˌaβitˈaɾ/
+dwell, live
+habituarse /ˌaβitwˈaɾse/
+accustom oneself, getused
+hablar /aβlˈaɾ/
+speak, talk
+hacer /aθˈeɾ/
+1. achieve, act, do, make, perform
+2. accomplish, keep, observe
+hacerse /aθˈeɾse/
+1. become, come about, grow, happen
+2. get
+hacer dimisión /aθˈeɾ ðˌimisjˈon/
+quit, resign
+hacer incribir /aθˈeɾ ˌinkɾiβˈiɾ/
+register
+hacer las compras /aθˈeɾ las kˈompɾas/
+shop
+hacer la manicura /aθˈeɾ la mˌanikˈuɾa/
+manicure
+hacer uso de /aθˈeɾ ˈuso ðˈe/
+employ, use, makeuseof
+hace ... /ˈaθe/
+...ago
+hace poco /ˈaθe pˈoko/
+just, justnow
+hacha /ˈatʃa/
+axe
+hacia atrás /ˌaθja atɾˈas/
+backward, backwards
+halcón /alkˈon/
+falcon
+hallar /aʎˈaɾ/
+1. come across, encounter, meet, see
+2. find
+hallarse /aʎˈaɾse/
+1. be found, be located, findoneself
+hambre /ˈambɾe/
+1. fame, hearsay, renown, repute, rumor, rumour
+2. hunger
+harina /aɾˈina/
+1. flour
+2. meal
+hasta la vista /ˌasta la βˈista/
+bye, goodbye, solong
+hasta luego /ˌasta luˈeɣo/
+bye, goodbye, solong
+hasta que /ˌasta kˈe/
+until, till
+hay /ˈaɪ/
+there is, thereare
+haya /ˈajja/
+beech
+haz el favor /ˈaθ el faβˈoɾ/
+please
+haz favor /ˈaθ faβˈoɾ/
+please
+hebilla /eβˈiʎa/
+buckle
+hebraico /eβɾˈaɪko/
+1. Hebrew, Jewish
+2. Jew
+hebreo /eβɾˈeo/
+1. Hebrew, Jewish
+2. Jew
+3. Israelite
+hecho /ˈetʃo/
+fact
+hectolitro /ˌektolˈitɾo/
+hectolitre
+helada /elˈaða/
+1. freezing cold, frost
+hemorroides /ˌemoɾɾˈoɪðes/
+haemorhoids
+hendedura /ˌendeðˈuɾa/
+1. crack, crevice
+2. burst, flaw
+henderse /endˈeɾse/
+1. burst, split
+hendidura /ˌendiðˈuɾa/
+ravine
+heno /ˈeno/
+hay
+heredar /ˌeɾeðˈaɾ/
+inherit
+herida /eɾˈiða/
+injury, wound
+herido /eɾˈiðo/
+injured, wounded
+herir /eɾˈiɾ/
+hurt, wound
+hermana /eɾmˈana/
+sister
+hermano /eɾmˈano/
+brother
+hermanos /eɾmˈanos/
+brothers and sisters, siblings
+hermoso /eɾmˈoso/
+lovely
+herramienta /ˌeɾɾamjˈɛnta/
+agent, means, tool
+hervir /eɾβˈiɾ/
+boil
+hiedra /jˈeðɾa/
+ivy
+hielo /jˈelo/
+ice
+hiena /jˈena/
+hyaena
+hierba /jˈeɾβa/
+grass
+hierro /jˈeɾɾo/
+iron
+higo /ˈiɣo/
+fig
+higuera /iɣˈeɾa/
+fig‐tree
+hija /ˈixa/
+daughter
+hijo /ˈixo/
+son
+hilo /ˈilo/
+thread
+hinchable /intʃˈaβle/
+airbed, airmattress
+hindú /indˈu/
+Hindu
+hipopótamo /ˌipopˈotamo/
+hippo, hippopotamus
+historia /istˈoɾja/
+story, history
+hoja /ˈoxa/
+1. leaf, sheet
+2. blank, form
+hojalata /ˌoxalˈata/
+sheet metal, tin, tinplate
+hoja de afeitar /ˈoxa ðe ˌafeɪtˈaɾ/
+razor‐blade
+holandés /ˌolandˈes/
+1. Dutchman, Hollander
+2. Dutch
+holgazán /ˌolɣaθˈan/
+lazy
+hombre /ˈombɾe/
+1. man, humanbeing
+2. fellow
+hombre de ciencia /ˈombɾe ðe θjˈɛnθja/
+scientist
+hombre político /ˈombɾe polˈitiko/
+politician
+hombro /ˈombɾo/
+shoulder
+homenaje /ˌomenˈaxe/
+honor, honour
+hongo /ˈoŋɡo/
+mushroom
+honor /onˈoɾ/
+honor, honour
+honorable /ˌonoɾˈaβle/
+respectable
+honrado /onrˈaðo/
+above‐board, honest
+hora /ˈoɾa/
+hour, o'clock, time
+horario /oɾˈaɾjo/
+schedule, time‐table
+horizonte /ˌoɾiθˈonte/
+horizon
+hormiga /oɾmˈiɣa/
+ant, emmet
+hormigón /ˌoɾmiɣˈon/
+concrete
+hornada /oɾnˈaða/
+bakedgoods
+horrible /oɾɾˈiβle/
+1. abhorrent, abominable, alien, awful, hideous, horrible, gruesome
+2. bleak, dismal, dreary, ghastly, grisly, nasty
+3. agonizing
+horror /oɾɾˈoɾ/
+1. abhorrence, abomination, horror
+horroroso /ˌoɾɾoɾˈoso/
+1. abhorrent, abominable, alien, awful, hideous, horrible, gruesome
+2. dismal, dreary, nasty
+3. agonizing, ghastly
+hospital /ˌospitˈal/
+hospital
+hospitalidad /ˌospitˌaliðˈad/
+hospitality
+hotel /otˈel/
+hotel
+hoy /ˈoɪ/
+today
+hoy día /ˈoɪ ðˈia/
+currently, nowadays, thesedays
+hueco /wˈeko/
+1. fantastic, offantasy
+2. frivolous
+3. concave, hollow
+4. cavity
+5. cave
+6. airy‐fairy
+7. conceited, vain
+8. chimerical
+huelga /wˈelɣa/
+strike
+hueso /wˈeso/
+bone
+huevas /wˈeβas/
+spawn
+huevo /wˈeβo/
+egg
+huevo frito /wˈeβo fɾˈito/
+boiledegg
+huir /wˈiɾ/
+flee, runaway
+humear /ˌumeˈaɾ/
+smoke
+humedo /umˈeðo/
+1. damp, humid, moist
+humillante /ˌumiʎˈante/
+humiliating
+hurtar /uɾtˈaɾ/
+rob
+huésped /wˈesped/
+guest
+hábil /ˈaβil/
+1. experienced, expert, skilful, skilled, skillful, practised
+2. able, capable
+3. adroit, clever, dexterous
+hígado /ˈiɣaðo/
+liver
+húngara /ˈuŋɡaɾa/
+Hungarian, Hungarianwoman
+húngaro /ˈuŋɡaɾo/
+Hungarian
+ibérico /iβˈeɾiko/
+Iberian
+idea /iðˈea/
+1. idea
+2. concept
+ideal /ˌiðeˈal/
+ideal
+idem /ˈiðem/
+equally, likewise
+identificar /ˌiðentˌifikˈaɾ/
+identify
+idolatría /ˌiðolatɾˈia/
+1. idolatry, idolworship
+iglesia /iɣlˈesja/
+church, church‐building, house of worship, placeofworship
+ignición /ˌiɡniθjˈon/
+ignition
+igual /iɣwˈal/
+equal, even, level
+igualdad /ˌiɣwalðˈad/
+draw, equality
+iguana /iɣwˈana/
+iguana
+imagen /imˈaxen/
+image, picture
+imitación /ˌimitaθjˈon/
+imitation
+imitar /ˌimitˈaɾ/
+imitate
+impedimento /ˌimpeðimˈɛnto/
+handicap, impediment, obstacle
+impedir /ˌimpeðˈiɾ/
+1. bar, inhibit, prevent
+2. hinder
+imperdible /ˌimpeɾðˈiβle/
+safety‐pin, safetypin
+imperio /impˈeɾjo/
+empire
+implorar /ˌimploɾˈaɾ/
+implore, invoke
+imponer /ˌimponˈeɾ/
+tax
+importancia /ˌimpoɾtˈanθja/
+concern
+importante /ˌimpoɾtˈante/
+important, serious
+importar /ˌimpoɾtˈaɾ/
+amountto
+importe /impˈoɾte/
+amount, sum
+imposible /ˌimposˈiβle/
+impossible
+impresión /ˌimpɾesjˈon/
+trace, track
+imprimir /ˌimpɾimˈiɾ/
+print
+impuesto /impwˈesto/
+tax
+imán /imˈan/
+magnet
+incendio /inθˈɛndjo/
+conflagration, fire
+incitar /ˌinθitˈaɾ/
+1. encourage, impel, instigate, spur on, stimulate, urge
+2. cheer, fire, inspire
+3. fan, stir up, urgeon
+4. rouse, stirup
+inclemente /ˈinklemˈente/
+severe, strict
+inclinado /ˌinklinˈaðo/
+oblique, slanting
+incluído /ˌinkluˈiðo/
+including, inclusively
+incomodar /ˌinkomoðˈaɾ/
+bother, disturb, hinder, trouble
+inconveniente /ˌinkombenjˈɛnte/
+difficulty, trouble
+incremento /ˌinkɾemˈɛnto/
+accretion, growth
+increíble /ˌinkɾeˈiβle/
+incredible
+incrustación /ˌinkɾustaθjˈon/
+fur, scale
+indeciso /ˌindeθˈiso/
+indecisive
+indemnizar /ˌindemniθˈaɾ/
+compensate
+indicación /ˌindikaθjˈon/
+1. index
+2. indication
+indicar /ˌindikˈaɾ/
+1. indicate, suggest
+2. point out, show
+indicio /indˈiθjo/
+1. index
+2. indication
+indico /indˈiko/
+Indian
+indigencia /ˌindixˈɛnθja/
+1. misery
+2. destitution, distress, indigence, need, penury
+indigente /ˌindixˈɛnte/
+1. miserable, poor
+2. needy
+indio /ˈindjo/
+1. Indian
+2. RedIndian
+indio americano /ˈindjo ˌameɾikˈano/
+Indian, AmericanIndian
+indispuesta /ˌindispwˈesta/
+not well, upset
+individuo /ˌindiβˈiðwo/
+individual
+indole /indˈole/
+character, nature, personality
+indonesio /ˌindonˈesjo/
+Indonesian
+indonésico /ˌindonˈesiko/
+Indonesian
+indulgencia /ˌindulxˈɛnθja/
+indulgence
+indígena /indˈixena/
+1. aboriginal, domestic
+2. native
+infamar /ˌimfamˈaɾ/
+slander
+infección /ˌimfekθjˈon/
+infection
+infectar /ˌimfektˈaɾ/
+infect
+infeliz /ˌimfelˈiθ/
+unhappy
+inferior /ˌimfeɾjˈoɾ/
+inferior
+inficionar /ˌimfiθjonˈaɾ/
+1. infect
+2. communicate
+inflamación /ˌimflamaθjˈon/
+inflammation
+inflar /imflˈaɾ/
+inflate
+influir en /ˌimfluˈiɾ ˈen/
+act, affect, influence
+información /ˌimfoɾmaθjˈon/
+account, information
+informar /ˌimfoɾmˈaɾ/
+1. acquaint, inform, report
+2. communicate
+3. let know
+ingeniero /ˌiŋxenjˈeɾo/
+engineer
+ingenuo /iŋxˈenwo/
+guileless, inoffensive
+inglesa /iŋɡlˈesa/
+English, Englishwoman
+inglés /iŋɡlˈes/
+1. English
+2. Englishlanguage
+3. Englishman, Sassenach
+ingrediente /ˌiŋɡɾeðjˈɛnte/
+component, element, ingredient, part
+iniciador /ˌiniθjaðˈoɾ/
+pioneer
+inicial /ˌiniθjˈal/
+initial
+injuria /iŋxˈuɾja/
+1. abuse, insult
+injuriar /ˌiŋxuɾjˈaɾ/
+1. abuse, insult, offend
+2. jeer, jeer at, taunt
+inmediatamente /ˌinmeðjˈatamˈente/
+at once, immediately, just, right away, rightnow
+inmóvil /inmˈoβil/
+motionless
+innato /innˈato/
+1. congenital, inborn, inbred, innate, native
+2. congentital
+innovador /ˌinnoβaðˈoɾ/
+pioneer
+inocente /ˌinoθˈɛnte/
+guiltless, innocent
+inpulsar /ˌimpulsˈaɾ/
+encourage, impel, instigate, spur on, stimulate, urge
+inquieto /inkjˈeto/
+agitated, anxious
+inscribir /ˌinskɾiβˈiɾ/
+1. enter
+2. record, register
+insecto /insˈekto/
+bug, insect
+insectos dañinos /insˈektos ðaɲˈinos/
+vermin
+insistencia /ˌinsistˈɛnθja/
+1. insistence, pressure, urgency
+insistir /ˌinsistˈiɾ/
+insist
+insolente /ˌinsolˈɛnte/
+rude
+inspector /ˌinspektˈoɾ/
+checker, controller
+instancia /instˈanθja/
+1. insistence, pressure, urgency
+instar /instˈaɾ/
+insist
+instigador /ˌinstiɣaðˈoɾ/
+firebrand, instigator
+instigar /ˌinstiɣˈaɾ/
+1. abet, excite, incite, provoke, rouse, stimulate, stirup
+2. initiate, start
+3. activate, cause, giveriseto
+instinto /instˈinto/
+1. access, impetus, impulse
+2. instinct
+instruir /ˌinstɾuˈiɾ/
+teach
+instrumento /ˌinstɾumˈɛnto/
+agent, means, tool
+insultar /ˌinsultˈaɾ/
+1. jeer, jeer at, taunt
+2. abuse, insult, offend
+insulto /insˈulto/
+abuse, insult
+inteligencia /ˌintelixˈɛnθja/
+1. notion, sense, realization
+2. understanding
+inteligible /ˌintelixˈiβle/
+understandable
+intención /ˌintenθjˈon/
+intention, meaning, plan
+intentar /ˌintentˈaɾ/
+attempt, test, try
+interesante /ˌinteɾesˈante/
+interesting
+interesar /ˌinteɾesˈaɾ/
+interest
+interior /ˌinteɾjˈoɾ/
+inner, inside, internal
+interna /intˈeɾna/
+inner, inside, internal
+interprete /ˌinteɾpɾˈete/
+interpreter
+interrumpir /ˌinteɾɾumpˈiɾ/
+interrupt
+interruptor /ˌinteɾɾupːtˈoɾ/
+switch
+interés /ˌinteɾˈes/
+interest
+intestinos /ˌintestˈinos/
+intestines
+inventar /ˌimbentˈaɾ/
+invent
+invierno /imbjˈeɾno/
+winter
+invitar /ˌimbitˈaɾ/
+invite
+invocar /ˌimbokˈaɾ/
+1. invoke
+inválido /imbˈaliðo/
+1. disabled
+2. disabledperson
+inyección /ˌiɲekθjˈon/
+injection
+ir /ˈiɾ/
+go
+irlandés /ˌiɾlandˈes/
+1. Irish
+2. Irishman
+irregular /ˌiɾɾeɣulˈaɾ/
+abnormal
+irse /ˈiɾse/
+go
+ir a buscar a /ˈiɾ a βuskˈaɾ ˈa/
+1. takealong
+2. meet, pickup
+ir por /ˈiɾ pˈoɾ/
+fetch, get, pickup
+isla /ˈisla/
+island
+islas Filipinas /ˈislas fˌilipˈinas/
+Philippine Islands, Philippines
+israelita /ˌisraelˈita/
+Israelite
+israelí /ˌisraelˈi/
+1. Israelian
+2. Israeli
+italiana /ˌitaljˈana/
+Italianwoman
+italiano /ˌitaljˈano/
+1. Italian
+2. Italianlanguage
+jabalí /xˌaβalˈi/
+wildboar
+jadeante /xˌaðeˈante/
+breathless
+jamás /xamˈas/
+never
+jamón /xamˈon/
+ham
+japonesa /xˌaponˈesa/
+Japanesewoman
+japonés /xˌaponˈes/
+1. Japanese
+2. Japaneselanguage
+jardinero /xˌaɾðinˈeɾo/
+gardener
+jardín zoológico /xaɾðˈin θˌoolˈoxiko/
+zoo
+jarra /xˈaɾɾa/
+jug, pitcher
+jarro /xˈaɾɾo/
+1. jug, pot
+2. box, container, vessel
+javanesa /xˌaβanˈesa/
+Javanesewoman
+javanés /xˌaβanˈes/
+1. Javan, Javanese
+jefe /xˈefe/
+1. boss, chief, leader
+2. superior
+3. chef
+jengibre /xeŋxˈiβɾe/
+ginger
+jerez /xeɾˈeθ/
+sherry
+jirafa /xiɾˈafa/
+giraffe
+joven /xˈoβen/
+1. young
+2. youngster, youth
+joya /xˈojja/
+1. gem, jewel
+joyero /xojjˈeɾo/
+jeweller
+judía /xuðˈia/
+haricot
+judía verde /xuðˈia βˈeɾðe/
+haricot
+judío /xuðˈio/
+Israelite
+juego /xwˈeɣo/
+game
+juego de damas /xwˈeɣo ðe ðˈamas/
+checkers
+jueves /xwˈeβes/
+Thursday
+juez /xwˈeθ/
+judge
+jugar /xuɣˈaɾ/
+play
+jugo /xˈuɣo/
+juice, sap
+jugo de grosellas /xˈuɣo ðe ɣɾosˈeʎas/
+currantjuice
+jugo de manzana /xˈuɣo ðe manθˈana/
+applejuice
+juguete /xuɣˈete/
+toy
+juicio /xwˈiθjo/
+judgment
+julio /xˈuljo/
+July
+junco /xˈunko/
+cane, reed
+junio /xˈunjo/
+June
+juntamente /xˈuntamˈente/
+1. together
+2. atthesametime
+juntar /xuntˈaɾ/
+join, unite
+juntarse /xuntˈaɾse/
+1. associate, come together, join, pool
+jurar /xuɾˈaɾ/
+1. blaspheme, cuss, curse, swear
+justamente /xˈustamˈente/
+1. exactly
+2. sharp
+juventud /xˌuβentˈud/
+youth
+juzgado /xuθɣˈaðo/
+tribunal
+juzgar /xuθɣˈaɾ/
+1. judge
+kilo /kˈilo/
+kilo
+kilómetro /kilˈometɾo/
+kilometre
+la /lˈa/
+the
+labio /lˈaβjo/
+lip
+laborioso /lˌaβoɾjˈoso/
+active, hardworking
+labrador /lˌaβɾaðˈoɾ/
+builder
+laca para las uñas /lˈaka pˌaɾa las ˈuɲas/
+nail‐varnish
+lado /lˈaðo/
+side
+lado inferior /lˈaðo ˌimfeɾjˈoɾ/
+bottom
+ladrar /laðɾˈaɾ/
+give tongue, bark
+ladrillo /laðɾˈiʎo/
+brick
+ladrón /laðɾˈon/
+thief
+lago /lˈaɣo/
+lake, loch
+lago Lemán /lˈaɣo lemˈan/
+LakeofGeneva
+lamer /lamˈeɾ/
+lick
+lanchamotora /lˌantʃamotˈoɾa/
+motor‐boat, motor‐launch
+langosta /laŋɡˈosta/
+lobster
+lanzar /lanθˈaɾ/
+throw
+largo /lˈaɾɣo/
+long
+largura /laɾɣˈuɾa/
+length
+las /lˈas/
+the
+lastre /lˈastɾe/
+ballast
+lata /lˈata/
+can, tin, tincan
+latino /latˈino/
+Latin
+latín /latˈin/
+Latin
+latón /latˈon/
+brass
+laurel /laʊɾˈel/
+laurel
+lava /lˈaβa/
+lava
+lavadero /lˌaβaðˈeɾo/
+laundry
+lavaplatos /lˌaβaplˈatos/
+dishwasher
+lavar /laβˈaɾ/
+1. wash
+2. washup
+lazo /lˈaθo/
+1. bond, tie
+2. connection, league
+lección /lekθjˈon/
+lesson
+leche /lˈetʃe/
+milk
+lechería /lˌetʃeɾˈia/
+dairy
+lecho /lˈetʃo/
+bed
+lechuga /letʃˈuɣa/
+lettuce
+lechón /letʃˈon/
+piglet
+leer /leˈeɾ/
+read
+legúa /leɣˈua/
+mile
+lejano /lexˈano/
+distant, far, remote
+lejos /lˈexos/
+1. away
+2. afar, far, far away, remotely
+lengua /lˈɛŋɡwa/
+1. tongue
+2. language
+lenguado /leŋɡwˈaðo/
+sole
+lenguaje figurado /leŋɡwˈaxe fˌiɣuɾˈaðo/
+metaphor
+lente /lˈɛnte/
+lens
+lenteja /lentˈexa/
+lentil
+lento /lˈɛnto/
+slow
+letón /letˈon/
+Latvian, Lett
+levantar /lˌeβantˈaɾ/
+lever, lift, raise
+levantarse /lˌeβantˈaɾse/
+1. get up, rise, stand, standup
+ley /lˈeɪ/
+law
+león /leˈon/
+lion
+leño /lˈeɲo/
+timber, wood
+liar /liˈaɾ/
+bind, connect, join, tie, tieup
+libertino /lˌiβeɾtˈino/
+lawless, licentious, riotous
+libra /lˈiβɾa/
+1. pound
+2. plate, sheet, slab
+librero /liβɾˈeɾo/
+bookseller
+librería /lˌiβɾeɾˈia/
+bookshop, bookstore
+libritode memoria /lˌiβɾitˈoðe memˈoɾja/
+notebook
+libro /lˈiβɾo/
+book
+libréria /liβɾˈeɾja/
+bookcase
+licor /likˈoɾ/
+liqueur
+liebre /liˈeβɾe/
+hare
+liebre macho /liˈeβɾe mˈatʃo/
+buck, buck‐hare
+ligar /liɣˈaɾ/
+bind, connect, join, tie, tieup
+ligero /lixˈeɾo/
+light
+lila /lˈila/
+lilac
+lima /lˈima/
+file
+lima para uñas /lˈima pˌaɾa ˈuɲas/
+nail‐scissors
+limitado /lˌimitˈaðo/
+confined, limited, restricted
+limitar /lˌimitˈaɾ/
+abridge, confine, limit, restrict
+limosna /limˈosna/
+alms, charity
+limpiar /limpjˈaɾ/
+1. polish
+2. clean, cleanse, make clean, purge
+3. delete, wipe, wipeoff
+limpieza /limpjˈeθa/
+cleanliness, purity
+limpio /lˈimpjo/
+clean
+limón /limˈon/
+lemon
+lince /lˈinθe/
+lynx
+lindo /lˈindo/
+1. delightful, lovely
+2. charming
+lisera /lisˈeɾa/
+shoulder, verge, vergeofaroad
+liso /lˈiso/
+1. even, flat, level, smooth
+lista /lˈista/
+1. list
+2. menu
+lista de precios /lˈista ðe pɾˈeθjos/
+price‐list
+listo /lˈisto/
+finished, ready, through
+litro /lˈitɾo/
+liter, litre
+llama /ʎˈama/
+flame
+llamada /ʎamˈaða/
+1. appeal
+2. parade, roll‐call
+llamar /ʎamˈaɾ/
+1. appeal to, invoke
+2. hit, knock, strike
+3. call
+4. summon
+llamarse /ʎamˈaɾse/
+becalled
+llamar a la puerta /ʎamˈaɾ a la pwˈeɾta/
+knock at the door, rapatthedoor
+llano /ʎˈano/
+1. plain
+2. flat
+llanta /ʎˈanta/
+felly, felloe, rim
+llanura /ʎanˈuɾa/
+plain
+llave /ʎˈaβe/
+1. key, wrench
+2. adjustable wrench, spanner
+llave inglesa /ʎˈaβe iŋɡlˈesa/
+monkey‐wrench, shiftingspanner
+llegada /ʎeɣˈaða/
+arrival
+llegar /ʎeɣˈaɾ/
+pass, spend
+llenar /ʎenˈaɾ/
+1. complete
+2. fill, fill in, fillup
+lleno /ʎˈeno/
+complete, full
+llevar /ʎeβˈaɾ/
+1. bring, fetch
+2. bring along, takealong
+3. carry, wear
+llorar /ʎoɾˈaɾ/
+cry, weep
+llover /ʎoβˈeɾ/
+rain
+lluvia /ʎˈuβja/
+rain
+lo /lˈo/
+the
+lobo /lˈoβo/
+wolf
+loma /lˈoma/
+hill
+londinense /lˌondinˈɛnse/
+Londoner
+loro /lˈoɾo/
+parrot
+los /lˈos/
+the
+los dos /los ðˈos/
+both
+loza /lˈoθa/
+1. crockery, earthenware, pottery
+lucio /lˈuθjo/
+pike
+lucir /luθˈiɾ/
+shine
+luego /luˈeɣo/
+1. soon
+2. afterwards, next, subsequently
+3. beyond, then, thereafter
+lugar /luɣˈaɾ/
+1. inducement, occasion, motive
+2. account, reason
+lujo /lˈuxo/
+luxury
+lumbar /lumbˈaɾ/
+loin
+luna /lˈuna/
+moon
+lunes /lˈunes/
+Monday
+luxemburgués /lˌuksembuɾɣˈes/
+1. Luxemburg
+2. Luxemburger
+luz /lˈuθ/
+light
+luz de Bengala /lˈuθ ðe βeŋɡˈala/
+bengal‐light, bengal‐lights
+luz posterior /lˈuθ pˌosteɾjˈoɾ/
+rear‐lamp, rear‐light, tail‐light
+luz trasera /lˈuθ tɾasˈeɾa/
+rear‐lamp, rear‐light, tail‐light
+lágrima /lˈaɣɾima/
+tear
+lámina /lˈamina/
+plate, sheet, slab
+lámpara /lˈampaɾa/
+lamp
+lápiz /lˈapiθ/
+pencil
+línea /lˈinea/
+line
+líquido /lˈikiðo/
+liquid
+lúgubre /lˈuɣuβɾe/
+bleak, dismal, dreary, horrible, ghastly, grisly, nasty
+macarrones /mˌakaɾɾˈones/
+macaroni
+maciso /maθˈiso/
+massive
+madera /maðˈeɾa/
+timber, wood
+madre /mˈaðɾe/
+1. bed, watercourse
+2. mother
+maduro /maðˈuɾo/
+mature, ripe
+maestra /maˈestɾa/
+teacher, femaleteacher
+maestro /maˈestɾo/
+instructor, teacher
+magnetófono /mˌaɡnetˈofono/
+tape‐recorder
+magnífico /maɡnˈifiko/
+1. lovely
+2. bright, brilliant
+majo /mˈaxo/
+pretty
+malayo /malˈajjo/
+Malay
+mala costumbre /mˈala kostˈumbɾe/
+habit, trick
+mala suerte /mˈala swˈeɾte/
+badluck
+malentendido /mˌalentendˈiðo/
+misunderstanding
+maleta /malˈeta/
+1. trunk
+2. suitcase, valise
+maleta de mano /malˈeta ðe mˈano/
+suitcase, valise
+malo /mˈalo/
+1. erroneous, mistaken, wrong
+2. bad, miserable, nasty, poor
+mal olor /mˈal olˈoɾ/
+stench
+mal reputado /mˈal ɾɾˌeputˈaðo/
+ofillrepute
+mancebía /mˌanθeβˈia/
+brothel
+mancha /mˈantʃa/
+blot, spot
+mandar /mandˈaɾ/
+1. direct, guide, manage, steer
+mandarina /mˌandaɾˈina/
+tangerine
+mandato /mandˈato/
+command
+mando /mˈando/
+command
+mandíbula /mandˈiβula/
+jaw, jawbone
+manga /mˈaŋɡa/
+sleeve
+manido /manˈiðo/
+stale
+mano /mˈano/
+hand
+manso /mˈanso/
+tame
+manta /mˈanta/
+blanket
+mantel /mantˈel/
+table‐cloth
+mantequilla /mˌantekˈiʎa/
+1. butter
+2. blueberry
+manzana /manθˈana/
+apple
+manzano /manθˈano/
+apple‐tree
+mapa /mˈapa/
+map
+maquinar /mˌakinˈaɾ/
+1. initiate, start
+2. activate, cause, giveriseto
+mar /mˈaɾ/
+sea
+marcar /maɾkˈaɾ/
+dial
+marea /maɾˈea/
+tide
+mareado /mˌaɾeˈaðo/
+dizzy
+mareado en avión /mˌaɾeˈaðo en aβjˈon/
+airsick
+marfil /maɾfˈil/
+ivory
+margarina /mˌaɾɣaɾˈina/
+margarine
+marido /maɾˈiðo/
+husband
+marina /maɾˈina/
+navy
+marinero /mˌaɾinˈeɾo/
+sailor
+mariposa /mˌaɾipˈosa/
+butterfly
+marroquí /mˌaɾɾokˈi/
+Moroccan
+marroquía /mˌaɾɾokˈia/
+Moroccanwoman
+marroquín /mˌaɾɾokˈin/
+1. Moroccan
+marroquína /mˌaɾɾokˈina/
+Moroccanwoman
+marrón /maɾɾˈon/
+brown
+martes /mˈaɾtes/
+Tuesday
+martes de carnestolendas /mˈaɾtes ðe kˌaɾnestolˈɛndas/
+Shrove‐Tuesday
+martillo /maɾtˈiʎo/
+hammer
+marzo /mˈaɾθo/
+March
+mar Báltico /mˈaɾ βˈaltiko/
+BalticSea
+mar Rojo /mˈaɾ ɾɾˈoxo/
+RedSea
+mar del Norte /mˈaɾ ðel nˈoɾte/
+NorthSea
+mas /mˈas/
+but
+masa /mˈasa/
+1. lump, mass
+2. dough, paste
+masaje /masˈaxe/
+massage
+masajear /mˌasaxeˈaɾ/
+massage
+masculino /mˌaskulˈino/
+male
+masticar /mˌastikˈaɾ/
+chew
+matar /matˈaɾ/
+1. butcher, slaughter
+2. kill, liquidate, slay
+materia /matˈeɾja/
+matter
+material /mˌateɾjˈal/
+data, material
+matrimonio /mˌatɾimˈonjo/
+1. marriage, matrimony
+matrícula /matɾˈikula/
+numberplate
+mayo /mˈajjo/
+May
+mayoría /mˌajjoɾˈia/
+majority
+maíz /maˈiθ/
+corn, Indian corn, maize, mealies
+mañana /maɲˈana/
+1. morning
+2. tomorrow
+mañana pasado /maɲˈana pasˈaðo/
+thedayaftertomorrow
+mañana por la mañana /maɲˈana poɾ la maɲˈana/
+tomorrowmorning
+mañana por la tarde /maɲˈana poɾ la tˈaɾðe/
+tomorrowevening
+mear /meˈaɾ/
+1. urinate
+mecanógrafa /mˌekanˈoɣɾafa/
+stenotypist, femalestenotypist
+mechero /metʃˈeɾo/
+lighter
+mecánico /mekˈaniko/
+1. mechanic
+2. chauffeur, driver
+media /mˈeðja/
+stocking
+media noche /mˈeðja nˈotʃe/
+midnight
+medicamento /mˌeðikamˈɛnto/
+drug, medicine, pharmaceutical
+medicina /mˌeðiθˈina/
+drug, medicine, pharmaceutical
+medida /meðˈiða/
+measure, measurement
+medio /mˈeðjo/
+1. half
+2. agent, means, tool
+3. average, mean, middle
+4. remedy, resources
+mediodía /mˌeðjoðˈia/
+midday, noon
+medir /meðˈiɾ/
+measure
+medroso /meðɾˈoso/
+1. afraid
+2. fearful
+medusa /meðˈusa/
+jelly‐fish
+mejicana /mˌexikˈana/
+Mexicanwoman
+mejicano /mˌexikˈano/
+Mexican
+mejikano /mˌexikˈano/
+Mexican
+mejilla /mexˈiʎa/
+cheek
+mejor /mexˈoɾ/
+better
+melindroso /mˌelindɾˈoso/
+prudish
+melocotón /mˌelokotˈon/
+peach
+melón /melˈon/
+melon
+mencionar /mˌenθjonˈaɾ/
+1. cite, quote
+2. mention
+mendicidad /mˌendiθiðˈad/
+begging
+mendigar /mˌendiɣˈaɾ/
+beg
+mendigo /mendˈiɣo/
+beggar
+menesteroso /mˌenesteɾˈoso/
+1. abject, dismal, meager, miserable, wretched
+2. needy
+menguar /meŋɡwˈaɾ/
+abate, decrease, diminish, drop, fall
+menos /mˈenos/
+1. apart from, but, except, otherthan
+2. fewer, less
+menos y menos /mˈenos i mˈenos/
+lessandless
+mensaje /mensˈaxe/
+errand, message
+mensualmente /menswˈalmˈente/
+monthly
+menta /mˈɛnta/
+mint
+mentir /mentˈiɾ/
+lie, tellalie
+mentira /mentˈiɾa/
+lie
+menú /menˈu/
+menu
+mercado /meɾkˈaðo/
+1. fair, market
+2. salesactivity
+3. marketplace
+mercado de consumo /meɾkˈaðo ðe konsˈumo/
+market, salesactivity
+merecer /mˌeɾeθˈeɾ/
+be worthy of, deserve, merit
+merluza /meɾlˈuθa/
+haddock
+mermelada /mˌeɾmelˈaða/
+jam, marmelade
+mermelada de manzanas /mˌeɾmelˈaða ðe manθˈanas/
+apple‐sauce
+mes /mˈes/
+month
+mesa /mˈesa/
+table
+metal /metˈal/
+metal
+meter /metˈeɾ/
+lay down, place, put, putdown
+meticuloso /mˌetikulˈoso/
+accurate, scrupulous
+metro /mˈetɾo/
+1. metre
+2. subway, underground
+mezcla /mˈeθkla/
+admixture, mixture
+mezquino /meθkˈino/
+petty, small‐minded
+mezquita /meθkˈita/
+mosque
+mi /mˈi/
+my
+miedo /mjˈeðo/
+1. agony, anguish, fear
+2. afraid
+3. fright
+4. timid
+miedoso /mjeðˈoso/
+1. afraid
+miel /mjˈel/
+honey
+miembro /mjˈembɾo/
+limb, member
+mil /mˈil/
+thousand, onethousand
+millón /miʎˈon/
+million
+milímetro /milˈimetɾo/
+millimetre
+mimar /mimˈaɾ/
+spoil
+mimoso /mimˈoso/
+affectionate, caressing, cuddlesome, cuddly
+mineral /mˌineɾˈal/
+mineral
+ministerio /mˌinistˈeɾjo/
+ministry
+minuto /minˈuto/
+minute
+miope /mjˈope/
+near‐sighted, short‐sighted
+mirada /miɾˈaða/
+look
+mirlo /mˈiɾlo/
+blackbird
+misa /mˈisa/
+mass
+miserable /mˌiseɾˈaβle/
+1. miserable, poor
+2. abject, dismal, meager, wretched
+misericordia /mˌiseɾikˈoɾðja/
+charity, mercifulness, mercy
+misericordioso /mˌiseɾˌikoɾðjˈoso/
+charitable, merciful
+mismo /mˈismo/
+even
+mito /mˈito/
+myth
+mitología /mˌitoloxˈia/
+mythology
+mitra /mˈitɾa/
+miter, mitre
+miércoles /mjˈeɾkoles/
+Wednesday
+mobilario /mˌoβilˈaɾjo/
+furniture
+mochila /motʃˈila/
+backpack, knapsack
+moda /mˈoða/
+fashion, mode
+moderno /moðˈeɾno/
+modern
+modesto /moðˈesto/
+modest
+modista /moðˈista/
+milliner
+modo subjuntivo /mˈoðo sˌuβxuntˈiβo/
+subjunctive
+mofarse de /mofˈaɾse ðˈe/
+laughat
+mohoso /moˈoso/
+mouldy
+mojado /moxˈaðo/
+wet
+moler /molˈeɾ/
+grind, pulverize
+molestar /mˌolestˈaɾ/
+bother, disturb, hinder, trouble
+molestia /molˈestja/
+1. hindrance
+2. disquiet, disturbance, interference, unrest
+3. trouble
+momentito /mˌomentˈito/
+instant, moment
+momento /momˈɛnto/
+instant, moment
+mondar habas /mondˈaɾ ˈaβas/
+string
+moneda /monˈeða/
+coin
+monedas /monˈeðas/
+change
+monje /mˈoŋxe/
+monk
+mono /mˈono/
+1. ape, monkey
+2. overalls
+monopolio /mˌonopˈoljo/
+monopoly
+monstruo /mˈonstɾuo/
+colossus
+montar /montˈaɾ/
+go in, enter, perform
+montaña /montˈaɲa/
+mountain
+monte /mˈonte/
+mountain
+monumental /mˌonumentˈal/
+monumental
+monólogo /monˈoloɣo/
+monologue, soliloquy
+morado /moɾˈaðo/
+violet
+morar /moɾˈaɾ/
+dwell, live
+morder /moɾðˈeɾ/
+bite
+mordisco /moɾðˈisko/
+bite
+moreno /moɾˈeno/
+brown
+morera /moɾˈeɾa/
+mulberry‐tree
+morir /moɾˈiɾ/
+die, expire, passaway
+mosaico /mosˈaɪko/
+mosaic, mosaicwork
+mosca /mˈoska/
+fly, housefly
+mosquito /moskˈito/
+mosquito
+mostaza /mostˈaθa/
+mustard
+mostrador /mˌostɾaðˈoɾ/
+counter
+mostrar /mostɾˈaɾ/
+indicate, point out, show
+motel /motˈel/
+motel
+motivo /motˈiβo/
+1. inducement, occasion, motive
+2. account, reason
+moto /mˈoto/
+motorcycle
+motocicleta /mˌotoθiklˈeta/
+moped
+motor /motˈoɾ/
+engine, motor
+moverse /moβˈeɾse/
+move
+mozo /mˈoθo/
+porter
+muchacha /mutʃˈatʃa/
+girl, lass, wench
+muchacho /mutʃˈatʃo/
+boy, lad, laddie
+muchacho travieso /mutʃˈatʃo tɾaβjˈeso/
+naughty boy, pickle
+mucho /mˈutʃo/
+1. a lot of, much
+2. plentyof
+mudar /muðˈaɾ/
+1. alter, change
+2. turn
+mudo /mˈuðo/
+dumb, mute, speechless
+mueblaje /mweβlˈaxe/
+furniture
+muelle /mwˈeʎe/
+spring
+muerte /mwˈeɾte/
+death
+muerto /mwˈeɾto/
+dead
+mujer /muxˈeɾ/
+1. wife
+2. woman
+mulo /mˈulo/
+mule
+multa /mˈulta/
+1. fine
+2. minutes, protocol
+multar /multˈaɾ/
+1. fine
+2. give a ticket, takesomebody'sname
+multiplicar /mˌultiplikˈaɾ/
+1. multiply
+2. duplicate
+mundo /mˈundo/
+world
+municipio /mˌuniθˈipjo/
+community
+museo /musˈeo/
+museum
+muslo /mˈuslo/
+thigh
+muy /mˈujj/
+quite, very, verymuch
+muérdago /mwˈeɾðaɣo/
+mistletoe
+muñeca /muɲˈeka/
+1. wrist
+2. doll, puppet
+máquina /mˈakina/
+engine, machine
+máquina de escribir /mˈakina ðe ˌeskɾiβˈiɾ/
+typewriter
+mármol /mˈaɾmol/
+marble
+más /mˈas/
+more
+mástil /mˈastil/
+mast
+más adelante /mˈas ˌaðelˈante/
+afterwards, next, subsequently
+más bien /mˈas βjˈen/
+1. preferably
+2. rather
+más y más /mˈas i mˈas/
+increasingly, moreandmore
+máximo /mˈaksimo/
+maximum
+máximum /mˈaksimum/
+maximum
+médico /mˈeðiko/
+doctor, physician
+método /mˈetoðo/
+method
+músculo /mˈuskulo/
+muscle
+música /mˈusika/
+music
+músico /mˈusiko/
+musician
+nabo /nˈaβo/
+turnip
+nacer /naθˈeɾ/
+arise, beborn
+nacimiento /nˌaθimjˈɛnto/
+birth
+nacional /nˌaθjonˈal/
+national
+nacionalidad /nˌaθjonˌaliðˈad/
+nationality
+nada /nˈaða/
+nothing
+nadar /naðˈaɾ/
+float, swim
+nadie /nˈaðje/
+neither, nobody, none, no‐one
+naranja /naɾˈaŋxa/
+orange
+naranjo /naɾˈaŋxo/
+orange‐tree
+nariz /naɾˈiθ/
+nose
+nata batida /nˈata βatˈiða/
+whippedcream
+natural /nˌatuɾˈal/
+coming
+naturaleza /nˌatuɾalˈeθa/
+1. character, nature, personality
+naturalmente /nˌatuɾˈalmˈente/
+naturally
+navegar /nˌaβeɣˈaɾ/
+navigate
+necesario /nˌeθesˈaɾjo/
+necessary
+necesidad /nˌeθesiðˈad/
+1. need, want
+2. necessity
+necesitado /nˌeθesitˈaðo/
+1. abject, dismal, meager, miserable, wretched
+2. needy
+necesitar /nˌeθesitˈaɾ/
+need, require
+neerlandesa /nˌeeɾlandˈesa/
+Dutchwoman
+neerlandés /nˌeeɾlandˈes/
+1. Dutch
+2. Dutchman
+3. Dutchlanguage
+negar /neɣˈaɾ/
+deny
+negativa /nˌeɣatˈiβa/
+refusal
+negativo /nˌeɣatˈiβo/
+negative
+negocio /neɣˈoθjo/
+enterprise
+negro /nˈeɣɾo/
+1. Negro
+2. black
+nene /nˈene/
+baby
+nervio /nˈeɾβjo/
+nerve
+neumático /neʊmˈatiko/
+1. tyre
+2. tire
+3. cover, outercover
+nevado /neβˈaðo/
+snowy
+nevar /neβˈaɾ/
+snow
+niebla /njˈeβla/
+fog, mist
+nieto /njˈeto/
+grandson
+nieve /njˈeβe/
+snow
+nilón /nilˈon/
+nylon
+ninguno /niŋɡˈuno/
+neither, nobody, none, no‐one
+nivel /niβˈel/
+level
+ni mucho menos /nˈi mˈutʃo mˈenos/
+notatall
+niño /nˈiɲo/
+1. bairn, child, infant
+no /nˈo/
+1. no
+2. not
+noble /nˈoβle/
+ofnoblebirth
+nobleza /noβlˈeθa/
+nobility
+noche /nˈotʃe/
+1. night
+2. evening
+noción /noθjˈon/
+concept, idea
+nogal /noɣˈal/
+walnut‐tree
+nombramiento /nˌombɾamjˈɛnto/
+appointment, appointmenttooffice
+nombrar /nombɾˈaɾ/
+appoint
+nombre /nˈombɾe/
+appellation, name
+nombre de pila /nˈombɾe ðe pˈila/
+firstname
+normal /noɾmˈal/
+normal
+norte /nˈoɾte/
+north, North
+noruega /nˌoɾuˈeɣa/
+Norwegianwoman
+noruego /nˌoɾuˈeɣo/
+Norwegian
+nosotras /nosˈotɾas/
+us, we
+nosotros /nosˈotɾos/
+us, we
+nostalgia /nostˈalxja/
+nostalgia
+notable /notˈaβle/
+considerable, sizable
+notar /notˈaɾ/
+note, make a note, writedown
+notario /notˈaɾjo/
+notary
+noticia /notˈiθja/
+1. account, communication
+2. advice, announcement, message, notice, report
+noticias /notˈiθjas/
+1. news, novelty, somethingnew
+2. advice, announcement, communication, message, notice, report
+notificar /nˌotifikˈaɾ/
+instruct, notify, summon
+notoriedad /nˌotoɾjeðˈad/
+acquaintance, conversance, familiarity
+notorio /notˈoɾjo/
+well‐known
+novela /noβˈela/
+novel
+noviembre /noβjˈembɾe/
+November
+novio /nˈoβjo/
+beloved, loved one, lover, sweetheart, well‐beloved
+no ... del todo /nˈo ðel tˈoðo/
+notatall
+no ... mas /nˈo mˈas/
+nolonger
+no ... mas que /nˈo mˈas kˈe/
+exclusively, just, only
+no ... nunca /nˈo nˈunka/
+never
+no tener razón /nˈo tenˈeɾ ɾɾaθˈon/
+bewrong
+no tocar /nˈo tokˈaɾ/
+keepone'shandsoff
+nube /nˈuβe/
+cloud
+nudo /nˈuðo/
+knot, node
+nueve /nwˈeβe/
+nine
+nuevo /nwˈeβo/
+new, novel
+nuez /nwˈeθ/
+nut
+nuez moscada /nwˈeθ moskˈaða/
+nutmeg
+nunca /nˈunka/
+never
+níquel /nˈikel/
+nickel
+número /nˈumeɾo/
+1. amount, number
+2. numeral
+o /ˈo/
+or
+oasis /oˈasis/
+oasis
+obedecer /ˌoβeðeθˈeɾ/
+obey
+obispo /oβˈispo/
+bishop
+objeción /ˌoβxeθjˈon/
+objection
+objecto /oβxˈekto/
+article, object, thing
+objeto /oβxˈeto/
+1. thing
+2. aim, goal, purpose, target
+obligar /ˌoβliɣˈaɾ/
+compel, force
+obligatorio /ˌoβliɣatˈoɾjo/
+compulsory
+obra /ˈoβɾa/
+work
+obrera /oβɾˈeɾa/
+female laborer, femal labourer, femalworker
+obrero /oβɾˈeɾo/
+hand, laborer, labourer, operative, worker, working man, workman
+observar /ˌoβseɾβˈaɾ/
+keep, mind, observe
+obstrucción /ˌoβstɾukθjˈon/
+1. dam
+2. barrier, fence
+3. bar
+obtener /ˌobtenˈeɾ/
+1. achieve, acquire, attain, get, obtain
+2. have, receive
+obtuso /obtˈuso/
+1. blunt
+2. dull, obtuse
+oca /ˈoka/
+goose
+ocasionar /ˌokasjonˈaɾ/
+1. activate, cause, giveriseto
+2. causetotakeplace
+occipucio /ˌokθipˈuθjo/
+back of the head, occiput
+ochenta /otʃˈɛnta/
+eighty
+ocho /ˈotʃo/
+eight
+ochocientos /ˌotʃoθjˈɛntos/
+eighthundred
+octavo /oktˈaβo/
+eighth
+octubre /oktˈuβɾe/
+October
+oculista /ˌokulˈista/
+oculist, ophtalmologist
+ocultar /ˌokultˈaɾ/
+conceal, hide
+ocultarse /ˌokultˈaɾse/
+hide, hideoneself
+oculto /okˈulto/
+hidden
+ocupado /ˌokupˈaðo/
+busy
+ocupar /ˌokupˈaɾ/
+occupy, take
+océano /oθˈeano/
+ocean
+odiar /oðjˈaɾ/
+hate
+odio /ˈoðjo/
+hate
+oeste /oˈeste/
+1. west, West
+ofender /ˌofendˈeɾ/
+abuse, insult, offend
+ofensa /ofˈɛnsa/
+1. abuse, insult
+oferta /ofˈeɾta/
+1. offer
+2. presentation
+oficial /ˌofiθjˈal/
+official
+oficina /ˌofiθˈina/
+bureau, office
+oficina de correos /ˌofiθˈina ðe koɾɾˈeos/
+postoffice
+oficina de informaciones /ˌofiθˈina ðe ˌimfoɾmaθjˈones/
+inquiry‐office
+oficio /ofˈiθjo/
+1. handicraft, occupation, trade
+2. function, job, office, post
+oficioso /ˌofiθjˈoso/
+accommodating, helpful
+ofrecer /ˌofɾeθˈeɾ/
+bid, offer, makeanofferof
+ofrecimiento /ˌofɾeθimjˈɛnto/
+1. offer
+2. presentation
+ojo /ˈoxo/
+eye
+ola /ˈola/
+wave
+oleaje /ˌoleˈaxe/
+billow
+oler /olˈeɾ/
+give off an odour, reek, smell
+oler a /olˈeɾ ˈa/
+smellof
+oler mal /olˈeɾ mˈal/
+reek, smell, smell bad, stink
+olivo /olˈiβo/
+olive‐tree
+olla /ˈoʎa/
+1. jug, pot
+2. box, container, vessel
+olmo /ˈolmo/
+elm
+olor /olˈoɾ/
+1. aroma, flavour
+2. odor, odour, scent, smell
+olvidar /ˌolβiðˈaɾ/
+forget
+omnipotencia /ˌomnipotˈɛnθja/
+omnipotence
+omnipotente /ˌomnipotˈɛnte/
+almighty, all‐powerful, omnipotent
+omnisciente /ˌomnisθjˈɛnte/
+all‐knowing, omniscient
+once /ˈonθe/
+eleven
+opinión /ˌopinjˈon/
+opinion
+opio /ˈopjo/
+opium
+oponerse /ˌoponˈeɾse/
+1. confront, stand up to, withstand
+2. resist
+oprimido /ˌopɾimˈiðo/
+1. stale
+2. airless, oppressive, stiffling, sultry
+oprimir /ˌopɾimˈiɾ/
+suppress
+oración /ˌoɾaθjˈon/
+appeal, entreaty, supplication
+orden /ˈoɾðen/
+1. order
+2. warrant, writ
+ordenador /ˌoɾðenaðˈoɾ/
+computer
+orden del día /ˈoɾðen del ðˈia/
+agenda
+orden por escrito /ˈoɾðem poɾ eskɾˈito/
+warrant, writ
+oreja /oɾˈexa/
+ear
+orgulloso /ˌoɾɣuʎˈoso/
+proud
+origen /oɾˈixen/
+1. lineage
+2. beginning, commencement, start
+3. origin
+original /ˌoɾixinˈal/
+1. aboriginal, original
+originario /ˌoɾixinˈaɾjo/
+coming
+orina /oɾˈina/
+urine
+orinal /ˌoɾinˈal/
+pot, chamberpot
+orinar /ˌoɾinˈaɾ/
+urinate
+oro /ˈoɾo/
+gold
+ortiga /oɾtˈiɣa/
+nettle
+ortografía /ˌoɾtoɣɾafˈia/
+orthography
+oruga /oɾˈuɣa/
+caterpillar
+osa /ˈosa/
+she‐bear
+oscuro /oskˈuɾo/
+dark, dim
+oso /ˈoso/
+bear
+ostra /ˈostɾa/
+oyster
+otoño /otˈoɲo/
+autumn
+otra vez /ˈotɾa βˈeθ/
+1. afresh, again, all over again, anew
+2. oncemore
+otro /ˈotɾo/
+other, another, else
+otro lado /ˈotɾo lˈaðo/
+oppositeside
+oveja /oβˈexa/
+sheep
+oír /oˈiɾ/
+hear
+paciencia /paθjˈɛnθja/
+patience
+padre /pˈaðɾe/
+father
+padres /pˈaðɾes/
+parents
+padre y madre /pˈaðɾe i mˈaðɾe/
+parents
+pagar /paɣˈaɾ/
+pay
+pagar a plazos /paɣˈaɾ a plˈaθos/
+payonaccount
+pago /pˈaɣo/
+payment
+paisaje /paɪsˈaxe/
+landscape, scenery
+pala /pˈala/
+shovel
+palabra /palˈaβɾa/
+word
+palacio /palˈaθjo/
+palace
+palmera /palmˈeɾa/
+palm, palmtree
+palo /pˈalo/
+baton, cane, stick
+paloma /palˈoma/
+pigeon
+pan /pˈan/
+bread, loaf
+pana /pˈana/
+brakedown
+panadero /pˌanaðˈeɾo/
+baker
+panadería /pˌanaðeɾˈia/
+bakery
+panecillo /pˌaneθˈiʎo/
+roll
+panne /pˈanne/
+brakedown
+pantalón /pˌantalˈon/
+pants, trousers
+pantalón corto /pˌantalˈon kˈoɾto/
+1. short pants, shorts
+pantorrilla /pˌantoɾɾˈiʎa/
+calf
+papel /papˈel/
+paper
+papelería /pˌapeleɾˈia/
+stationer'sshop
+papel de cartas /papˈel ðe kˈaɾtas/
+writing‐paper
+papel higiénico /papˈel ixjˈeniko/
+toilet‐paper
+papel pintado /papˈel pintˈaðo/
+tapestry, wallcovering
+papel secante /papˈel sekˈante/
+blotter, blottingpaper
+paquete /pakˈete/
+packet, parcel
+par /pˈaɾ/
+1. even
+2. pair
+para /pˈaɾa/
+for, to, in order to, per
+parachoques /pˌaɾatʃˈokes/
+buffer, bumper
+parada /paɾˈaða/
+stop
+parada del autobús /paɾˈaða ðel ˌaʊtoβˈus/
+1. busstop
+2. bus stop
+paraguas /paɾˈaɣwas/
+umbrella
+paralelo /pˌaɾalˈelo/
+parallel
+paraninfo /pˌaɾanˈimfo/
+auditorium
+parar /paɾˈaɾ/
+1. turnaway
+2. halt, come to a halt, stop
+3. shut off, switch off, turnoff
+para que /pˌaɾa kˈe/
+so, sothat
+para una persona /pˌaɾa ˈuna peɾsˈona/
+oneperson
+parche /pˈaɾtʃe/
+adhesiveplaster
+pardo /pˈaɾðo/
+1. brown
+2. grey
+pardone usted /paɾðˈone ustˈed/
+excuseme
+parecer /pˌaɾeθˈeɾ/
+1. appear, look
+2. appear to be, seem
+parecerse /pˌaɾeθˈeɾse/
+be similar, resemble
+pared /paɾˈed/
+wall
+pariente /paɾjˈɛnte/
+1. relative, femalerelative
+parir /paɾˈiɾ/
+bear, givebirthto
+parisiense /pˌaɾisjˈɛnse/
+Parisian
+parque /pˈaɾke/
+park
+parra /pˈaɾɾa/
+vine, grapevine
+parroquiano /pˌaɾɾokjˈano/
+client, customer
+parte /pˈaɾte/
+1. part, Parthian, share
+2. piece
+parte trasera /pˈaɾte tɾasˈeɾa/
+back, reverse, reverseside
+particular /pˌaɾtikulˈaɾ/
+1. affair, business, business deal, case, matter
+2. apart, particular, separate, special
+partidario /pˌaɾtiðˈaɾjo/
+1. acolyte, member, supporter
+partido /paɾtˈiðo/
+1. adherents, disciples, following, party, supporters
+2. followers, partymembers
+3. faction, side
+pasada /pasˈaða/
+1. former, last, previous, prior
+pasado /pasˈaðo/
+1. former
+2. past
+pasado mañana /pasˈaðo maɲˈana/
+thedayaftertomorrow
+pasaporte /pˌasapˈoɾte/
+passport
+pasar /pasˈaɾ/
+pass, spend
+pasillo /pasˈiʎo/
+corridor, passage
+paso /pˈaso/
+1. pass
+2. gate, gangway, passage, passageway
+3. pace, step, stride
+paso a nivel /pˈaso a niβˈel/
+level‐crossing
+paso de montaña /pˈaso ðe montˈaɲa/
+pass
+pasta dentrífica /pˈasta ðentɾˈifika/
+tooth‐paste
+pasta de almendras /pˈasta ðe almˈɛndɾas/
+almondpaste
+pastel /pastˈel/
+1. bakedgoods
+2. pie, tart
+pastelero /pˌastelˈeɾo/
+confectioner
+pastelería /pˌasteleɾˈia/
+confectionery
+pastel de almendra /pastˈel ðe almˈɛndɾa/
+almoundpastry
+pastor protestante /pastˈoɾ pɾˌotestˈante/
+pastor
+patada /patˈaða/
+kick
+patata /patˈata/
+potato
+patillas /patˈiʎas/
+whiskers, side‐whiskers
+patinar /pˌatinˈaɾ/
+skate
+patinete /pˌatinˈete/
+scooter
+patio /pˈatjo/
+court, yard, courtyard
+pato /pˈato/
+duck
+patria /pˈatɾia/
+1. cradle, placeofbirth
+2. fatherland
+patriarca /pˌatɾiˈaɾka/
+patriarch
+patrono /patɾˈono/
+patron
+patrón /patɾˈon/
+1. boss, chief, leader
+pavo /pˈaβo/
+turkey
+paz /pˈaθ/
+peace
+país /paˈis/
+country, land
+pañal /paɲˈal/
+swaddlingcloth
+peatón /pˌeatˈon/
+pedestrian
+pecho /pˈetʃo/
+bosom, breast, chest
+pedal /peðˈal/
+pedal
+pedazo /peðˈaθo/
+bit, lump, piece
+pedido /peðˈiðo/
+order
+pedir /peðˈiɾ/
+1. book, order, reserve
+2. ask, ask for, beg, bid, request
+pedir limosna /peðˈiɾ limˈosna/
+beg
+pegar /peɣˈaɾ/
+1. sew, sewon
+2. thrash
+3. glue, stick
+peinar /peɪnˈaɾ/
+comb
+peine /pˈeɪne/
+comb
+peligro /pelˈiɣɾo/
+danger, peril
+peligroso /pˌeliɣɾˈoso/
+dangerous
+pelota /pelˈota/
+ball
+peludo /pelˈuðo/
+hairy, hirsute
+peluquera /pˌelukˈeɾa/
+hairdresser, femalehairdresser
+peluquero /pˌelukˈeɾo/
+barber, hairdresser
+pelvis /pˈelβis/
+basin, bowl, pelvis
+película /pelˈikula/
+film, motion picture, movie
+pendiente /pendjˈɛnte/
+1. ear‐drop, earring
+2. pending
+pensamiento /pˌensamjˈɛnto/
+thought
+pensar /pensˈaɾ/
+think
+pensión /pensjˈon/
+boarding house, boardingschool
+península /penˈinsula/
+peninsula
+pepino /pepˈino/
+1. gherkin
+2. cucumber
+pequeño /pekˈeɲo/
+diminutive, little, small
+pera /pˈeɾa/
+pear
+peral /peɾˈal/
+pear‐tree
+perca /pˈeɾka/
+bass
+perder /peɾðˈeɾ/
+1. miss
+2. lose
+perderse /peɾðˈeɾse/
+loseone'sway
+perdida /peɾðˈiða/
+loss
+perdido /peɾðˈiðo/
+lost
+perdiz /peɾðˈiθ/
+partridge
+peregrinación /pˌeɾeɣɾˌinaθjˈon/
+pilgrimage
+perejil /pˌeɾexˈil/
+parsley
+perfume /peɾfˈume/
+perfume
+periodista /pˌeɾjoðˈista/
+1. journalist, femalejournalist
+perito de contabilidad /peɾˈito ðe kˌontaβˌiliðˈad/
+accountant
+periódico /peɾjˈoðiko/
+gazette, magazine, newspaper, periodical
+perjudicar a /pˌeɾxuðikˈaɾ ˈa/
+harm
+perla /pˈeɾla/
+pearl
+permiso /peɾmˈiso/
+permission
+permitir /pˌeɾmitˈiɾ/
+accord, admit, afford, allow, permit
+pero /pˈeɾo/
+but
+perpetrar /pˌeɾpetɾˈaɾ/
+1. achieve, act, do, make, perform
+2. accomplish, keep, observe
+perro /pˈeɾɾo/
+dog
+persa /pˈeɾsa/
+Persian
+perseguir /pˌeɾseɣˈiɾ/
+chase, persecute, prosecute, pursue
+persona /peɾsˈona/
+person
+personal /pˌeɾsonˈal/
+personal
+pertenecer a /pˌeɾteneθˈeɾ ˈa/
+1. belongto
+2. belong to, beoneof
+peruana /pˌeɾuˈana/
+Peruvianwoman
+peruano /pˌeɾuˈano/
+Peruvian
+perímetro /peɾˈimetɾo/
+1. circumference
+2. outskirts, periphery
+pesado /pesˈaðo/
+burdensome, heavy, onerous
+pesar /pesˈaɾ/
+weigh
+pescador /pˌeskaðˈoɾ/
+fisherman
+pescar /peskˈaɾ/
+fish
+peso /pˈeso/
+weight
+petición /pˌetiθjˈon/
+request
+petroleo /pˌetɾolˈeo/
+paraffin‐oil, petroleum
+petróleo /petɾˈoleo/
+crudeoil
+petulancia /pˌetulˈanθja/
+wantonness
+petulante /pˌetulˈante/
+1. wanton
+pez /pˈeθ/
+fish
+pezuña /peθˈuɲa/
+hoof
+pez de colores /pˈeθ ðe kolˈoɾes/
+goldfish
+pez dorado /pˈeθ ðoɾˈaðo/
+goldfish
+picar /pikˈaɾ/
+pick, stab, sting
+picazón /pˌikaθˈon/
+itch
+pichón /pitʃˈon/
+dove, pigeon
+pico /pˈiko/
+1. beak, bill
+2. mountain peak, mountain top, pinnacle
+3. woodpecker
+pic nic /pˈik nˈik/
+picnic
+piedra /pjˈeðɾa/
+stone
+piel /pjˈel/
+1. fur, hide, skin
+2. fur coat, furpiece
+pierna /pjˈeɾna/
+1. leg
+2. paw
+piernas torcidas hacia afuera /pjˈeɾnas toɾθˈiðas ˌaθja afwˈeɾa/
+knock‐kneed legs, turned‐inlegs
+pieza /pjˈeθa/
+1. fragment, lump, piece
+2. part, share
+pijama /pixˈama/
+pyjamas
+pila /pˈila/
+battery
+pimienta /pimjˈɛnta/
+pepper
+pimiento /pimjˈɛnto/
+paprika
+pino /pˈino/
+pine, pine‐tree
+pintar /pintˈaɾ/
+paint
+pintor /pintˈoɾ/
+painter
+pintoresco /pˌintoɾˈesko/
+picturesque
+pintura /pintˈuɾa/
+1. dye, paint
+2. painting, picture
+piojo /pjˈoxo/
+louse
+pipa /pˈipa/
+pipe
+pirenaico /pˌiɾenˈaɪko/
+Pyrenean
+piscina /pisθˈina/
+pool, swimming‐bath, swimming‐pool
+piso /pˈiso/
+1. apartment, flat
+2. floor, storey, story
+piso bajo /pˈiso βˈaxo/
+ground‐floor
+pistón /pistˈon/
+piston
+piña /pˈiɲa/
+pineapple
+placer /plaθˈeɾ/
+1. pleasure
+2. fun
+plancha /plˈantʃa/
+iron, flat‐iron
+planchar /plantʃˈaɾ/
+iron, ironclothes
+plano /plˈano/
+1. even, flat, level, smooth
+2. map
+3. design, diagram, plan, plane
+planta /plˈanta/
+1. sole
+2. plant
+plantar /plantˈaɾ/
+plant
+plantío /plantˈio/
+planting
+plata /plˈata/
+silver
+plataforma /plˌatafˈoɾma/
+platform
+plataforma posterior /plˌatafˈoɾma pˌosteɾjˈoɾ/
+rearplatform
+platija /platˈixa/
+plaice
+platillo /platˈiʎo/
+1. cymbal
+2. saucer
+plato /plˈato/
+1. food
+2. menu
+3. plate
+playa /plˈajja/
+beach
+plaza /plˈaθa/
+plaza, square, publicsquare
+plaza de toros /plˈaθa ðe tˈoɾos/
+bullring
+pleito /plˈeɪto/
+complaint
+plemear /plˌemeˈaɾ/
+hightide
+plombo /plˈombo/
+lead
+pluma /plˈuma/
+feather
+plástico /plˈastiko/
+plastic
+plátano /plˈatano/
+banana
+población /pˌoβlaθjˈon/
+1. population
+2. folk, nation, people
+3. city, town
+pobre /pˈoβɾe/
+1. miserable, poor
+2. abject, dismal, meager, wretched
+3. needy
+pobreza /poβɾˈeθa/
+poverty
+pobrezo /poβɾˈeθo/
+misery
+poco /pˈoko/
+1. a little, rather, some, somewhat, tosomeextent
+2. little
+poco a poco /pˈoko a pˈoko/
+gradually, littlebylittle
+podadera /pˌoðaðˈeɾa/
+bill, pruning‐knife
+podadera de mango largo /pˌoðaðˈeɾa ðe mˈaŋɡo lˈaɾɣo/
+polepruner
+podadera de mano tipo yunque /pˌoðaðˈeɾa ðe mˈano tˈipo ʝˈunke/
+anvilpruner
+podadera de vanilla /pˌoðaðˈeɾa ðe βanˈiʎa/
+polepruner
+poder /poðˈeɾ/
+1. beableto
+2. ability
+podrido /poðɾˈiðo/
+addled, bad, rotten
+poesía /pˌoesˈia/
+poetry
+polaca /polˈaka/
+Polishwoman
+polaco /polˈako/
+1. Polish
+2. Pole
+polaina /polˈaɪna/
+gaiter, legging
+policía /pˌoliθˈia/
+police
+pollo /pˈoʎo/
+chick, chicken
+polonesa /pˌolonˈesa/
+Polishwoman
+polonés /pˌolonˈes/
+1. Polish
+2. Pole
+polvo /pˈolβo/
+dust
+polvos /pˈolβos/
+1. powder, cosmeticpowder
+política /polˈitika/
+policy, politics
+político /polˈitiko/
+politician
+pomelo /pomˈelo/
+grapefruit
+poner /ponˈeɾ/
+1. put on, start, switch on, turnon
+2. lay
+3. lay down, place, put, putdown
+ponerse /ponˈeɾse/
+1. attitudinize, pose, putonairs
+2. puton
+3. dress, getdressed
+poner en depósito /ponˈeɾ en depˈosito/
+deposit
+poner pleito a /ponˈeɾ plˈeɪto ˈa/
+sue
+poney /ponˈeɪ/
+pony
+popa /pˈopa/
+1. stern
+2. poop, poopdeck
+poquito /pokˈito/
+a little, rather
+por /pˈoɾ/
+1. a, in, inside, into, on, per, within
+2. through
+porciento /poɾθjˈɛnto/
+percent, percentage
+porque /pˈoɾke/
+1. because, forthereasonthat
+2. as, for, since
+portamonedas /pˌoɾtamonˈeðas/
+purse, wallet
+portero /poɾtˈeɾo/
+porter
+portuguesa /pˌoɾtuɣˈesa/
+Portuguesewoman
+portugués /pˌoɾtuɣˈes/
+1. Portuguese
+2. Portugueselanguage
+portátil /poɾtˈatil/
+portable
+porvenir /pˌoɾβenˈiɾ/
+future
+por decirlo así /poɾ ðeθˈiɾlo asˈi/
+sotospeak
+por ejemplo /poɾ exˈemplo/
+for example, forinstance
+por eso /poɾ ˈeso/
+1. on that account, therefore
+por favor /poɾ faβˈoɾ/
+please
+por fin /poɾ fˈin/
+at last, finally, ultimately
+por fortuna /poɾ foɾtˈuna/
+1. fortunately
+2. unfortunately
+por la derecha /poɾ la ðeɾˈetʃa/
+right, totheright
+por la izquierda /poɾ la iθkjˈeɾða/
+left, totheleft
+por la mañana /poɾ la maɲˈana/
+inthemorning
+por la noche /poɾ la nˈotʃe/
+intheevening
+por la tarde /poɾ la tˈaɾðe/
+intheevening
+por lo más /poɾ lo mˈas/
+atmost
+por lo tocante a /poɾ lo tokˈante ˈa/
+1. about, concerning
+2. on, upon
+3. as to, as regards
+por medio de /poɾ mˈeðjo ðˈe/
+by, by means of, on, through, with
+por qué /poɾ kˈe/
+1. what for, why
+2. wherefore
+por razón de oficio /poɾ ɾɾaθˈon de ofˈiθjo/
+officially
+por separado /poɾ sˌepaɾˈaðo/
+apart, separately
+por suerte /poɾ swˈeɾte/
+by accident, bychance
+poseer /pˌoseˈeɾ/
+own, possess
+posible /posˈiβle/
+possible
+postal /postˈal/
+1. picturepostcard
+2. postcard
+poste /pˈoste/
+pole, post, stanchion, stake
+postre /pˈostɾe/
+dessert
+postrero /postɾˈeɾo/
+last
+practicable /pɾˌaktikˈaβle/
+1. passable, practicable
+precavido /pɾˌekaβˈiðo/
+1. careful, cautious
+precio /pɾˈeθjo/
+price
+precio de entrada /pɾˈeθjo ðe entɾˈaða/
+admission, admissionfee
+precipicio /pɾˌeθipˈiθjo/
+abyss, chasm, gulf, precipice
+precipitadamente /pɾˌeθipitˈaðamˈente/
+hastily, hurriedly, inahurry
+preciso /pɾeθˈiso/
+1. accurate, precise
+2. correct, exact, proper, right
+preferir /pɾˌefeɾˈiɾ/
+prefer
+pregunta /pɾeɣˈunta/
+question
+preguntar /pɾˌeɣuntˈaɾ/
+ask
+preguntarse /pɾˌeɣuntˈaɾse/
+ask oneself, wonder
+prejuicio /pɾexwˈiθjo/
+prejudice
+premiar /pɾemjˈaɾ/
+awardaprize
+preocupar /pɾˌeokupˈaɾ/
+agitate, alarm
+preparar /pɾˌepaɾˈaɾ/
+prepare
+presa /pɾˈesa/
+dam
+presencia /pɾesˈɛnθja/
+presence
+presentación /pɾˌesentaθjˈon/
+1. accession
+2. presentation
+presente /pɾesˈɛnte/
+present
+preservativo /pɾˌeseɾβatˈiβo/
+condom, rubber
+presión /pɾesjˈon/
+pressure
+prestar /pɾestˈaɾ/
+1. borrow
+2. lend, loan
+preste /pɾˈeste/
+priest
+presumido /pɾˌesumˈiðo/
+attitudinizer, poseur
+presupuesto /pɾˌesupwˈesto/
+budget, estimate, estimates
+pretensión /pɾˌetensjˈon/
+1. offer, offerofparriage
+2. offer of marriage, proposal
+3. claim, presumption, pretence
+pretina /pɾetˈina/
+belt, girdle
+prever /pɾeβˈeɾ/
+foresee
+prima /pɾˈima/
+cousin
+primavera /pɾˌimaβˈeɾa/
+spring, springtime
+primeramente /pɾimˈeɾamˈente/
+first, firstly, firstofall
+primero /pɾimˈeɾo/
+1. first
+2. firstly, firstofall
+primeros socorros /pɾimˈeɾos sokˈoɾɾos/
+firstaid
+primitivo /pɾˌimitˈiβo/
+initial
+primo /pɾˈimo/
+cousin
+primo segundo /pɾˈimo seɣˈundo/
+secondcousin
+princesa /pɾinθˈesa/
+princess
+principal /pɾˌinθipˈal/
+1. mostimportant
+2. main, predominant, principal
+3. chief, major
+principalmente /pɾˌinθipˈalmˈente/
+1. above all, especially, chiefly, mainly, principally
+principiante /pɾˌinθipjˈante/
+beginner
+principiar /pɾˌinθipjˈaɾ/
+begin, commence, start
+principio /pɾinθˈipjo/
+1. beginning, commencement, start
+2. principle
+prisa /pɾˈisa/
+1. haste
+2. speed
+3. urgency
+prisión /pɾisjˈon/
+1. jail, gaol, prison
+privar /pɾiβˈaɾ/
+rob
+probablemente /pɾoβˈaβlemˈente/
+probably
+probar /pɾoβˈaɾ/
+1. attempt, test, try
+2. prove
+3. tryon
+procedente de /pɾˌoθeðˈɛnte ðˈe/
+a native of, comingfrom
+proceso /pɾoθˈeso/
+action, lawsuit
+proceso verbal /pɾoθˈeso βeɾβˈal/
+minutes, protocol
+proclamación /pɾˌoklamaθjˈon/
+proclamation
+proclamar /pɾˌoklamˈaɾ/
+issue, proclaim
+procurarse /pɾˌokuɾˈaɾse/
+1. achieve, acquire, attain, get, obtain
+2. buy, procure
+producción /pɾˌoðukθjˈon/
+1. making, manifacture
+2. manufacture
+producir /pɾˌoðuθˈiɾ/
+1. activate, cause, giveriseto
+2. afford, bear, produce
+producto /pɾoðˈukto/
+product
+profesional /pɾˌofesjonˈal/
+professional
+profesión /pɾˌofesjˈon/
+profession
+profundidad /pɾˌofundiðˈad/
+depth
+profundo /pɾofˈundo/
+deep, profound
+progreso /pɾoɣɾˈeso/
+advance, advancement, progress
+prohibir /pɾˌoiβˈiɾ/
+forbid, prohibit
+prohijar /pɾˌoixˈaɾ/
+affiliate
+promesa /pɾomˈesa/
+affirmation, promise
+prometer /pɾˌometˈeɾ/
+promise
+prometida /pɾˌometˈiða/
+bride, fiancée
+prometido /pɾˌometˈiðo/
+fiancé
+promulgar /pɾˌomulɣˈaɾ/
+issue, proclaim
+pronombre demonstrativo /pɾonˈombɾe ðˌemonstɾatˈiβo/
+1. demonstrative, demonstrativepronoun
+pronto /pɾˈonto/
+1. soon
+2. fast, quickly, swiftly
+pronunciación /pɾˌonunθjaθjˈon/
+pronunciation
+pronunciar /pɾˌonunθjˈaɾ/
+pronounce
+propiedad /pɾˌopjeðˈad/
+ownership
+propietario /pɾˌopjetˈaɾjo/
+owner
+propina /pɾopˈina/
+tip
+propio /pɾˈopjo/
+own, personal
+proposición /pɾˌoposiθjˈon/
+offer, tender
+propulsión /pɾˌopulsjˈon/
+drive
+propósito /pɾopˈosito/
+1. design, diagram, plan, plane
+2. project, scheme
+prostituta /pɾˌostitˈuta/
+prostitute
+protección /pɾˌotekθjˈon/
+protection
+protectar /pɾˌotektˈaɾ/
+protect
+protector /pɾˌotektˈoɾ/
+patron
+proteger /pɾˌotexˈeɾ/
+protect
+protegido /pɾˌotexˈiðo/
+protégé
+protesta /pɾotˈesta/
+protest
+protestante /pɾˌotestˈante/
+Protestant
+protestar /pɾˌotestˈaɾ/
+protest
+provecho /pɾoβˈetʃo/
+1. benefit, gain, profit
+2. advantage
+proveniente /pɾˌoβenjˈɛnte/
+coming
+provisionalmente /pɾˌoβisjonˈalmˈente/
+for the time being, temporarily
+proyectar /pɾˌojjektˈaɾ/
+make a project of, plan
+prudente /pɾuðˈɛnte/
+1. thoughtful
+2. careful, cautious
+prueba /pɾuˈeβa/
+1. problem, trouble
+2. proof, sign, token
+prusiano /pɾusjˈano/
+Prussian
+prémio /pɾˈemjo/
+premium, prize
+príncipe /pɾˈinθipe/
+prince
+próximo /pɾˈoksimo/
+1. future
+2. close, near, nearby, next
+3. following
+psiquiatra /sikjˈatɾa/
+psychiatrist
+publicación /pˌuβlikaθjˈon/
+advice, announcement, communication, message, notice, report
+publicar /pˌuβlikˈaɾ/
+1. advertise, announce, givenotice
+2. publish, reveal
+3. acquaint, let know, inform
+pudín /puðˈin/
+pudding
+pueblecito /pwˌeβleθˈito/
+hamlet, township
+pueblo /pwˈeβlo/
+1. folk, nation, people
+2. village
+puente /pwˈɛnte/
+bridge
+puerta /pwˈeɾta/
+1. gate, gateway, portal
+2. door
+puerta trasera /pwˈeɾta tɾasˈeɾa/
+back‐door
+puerto /pwˈeɾto/
+harbor, harbour, port
+puesta del sol /pwˈesta ðel sˈol/
+sunset
+puesto /pwˈesto/
+barn, shed, stand
+puesto de Primeros Auxilios /pwˈesto ðe pɾimˈeɾos aʊksˈiljos/
+first‐aidstation
+puesto que /pwˈesto kˈe/
+1. because, forthereasonthat
+2. as, for, since
+pulga /pˈulɣa/
+flea
+pulgar /pulɣˈaɾ/
+thumb
+pulmón /pulmˈon/
+lung
+pulsera /pulsˈeɾa/
+bracelet
+punta /pˈunta/
+peak, point, tip, summit
+puntiagudo /pˌuntjaɣˈuðo/
+pointed, spiked
+punto /pˈunto/
+dot, period, point, spot
+punto de contacto /pˈunto ðe kontˈakto/
+startingpoint
+punto de partida /pˈunto ðe paɾtˈiða/
+startingpoint
+punto inicial /pˈunto ˌiniθjˈal/
+startingpoint
+purgante /puɾɣˈante/
+laxative
+puro /pˈuɾo/
+pure
+puré de patatas /puɾˈe ðe patˈatas/
+mashedpotatoes
+pus /pˈus/
+pus
+puta /pˈuta/
+hooker, whore
+putrefacción /pˌutɾefakθjˈon/
+1. corruption, decay, depravation, taint
+puño /pˈuɲo/
+fist
+pájaro /pˈaxaɾo/
+bird
+pálido /pˈaliðo/
+pale, sallow
+párpado /pˈaɾpaðo/
+eyelid
+párrafo /pˈaɾɾafo/
+paragraph
+píldora /pˈilðoɾa/
+pill
+póliza /pˈoliθa/
+policy, insurancepolicy
+que /kˈe/
+1. that
+2. than
+quebraja /keβɾˈaxa/
+1. crack, crevice
+2. burst, flaw
+quebrar /keβɾˈaɾ/
+break
+quedar /keðˈaɾ/
+1. meet
+2. besituated
+quedarse /keðˈaɾse/
+remain, stay, stayover
+quedarse atrás /keðˈaɾse atɾˈas/
+be kept in, be detained, remain, stayon
+queja /kˈexa/
+complaint
+quejarse /kexˈaɾse/
+complain
+quemado /kemˈaðo/
+burnt
+quemar /kemˈaɾ/
+1. burn
+2. beburntdown
+3. burndown
+quemarse /kemˈaɾse/
+sticktothepan
+queque /kˈeke/
+cake
+querer /keɾˈeɾ/
+1. love
+2. desire, wish
+querer decir /keɾˈeɾ ðeθˈiɾ/
+1. aim, intend
+2. mean
+querido /keɾˈiðo/
+1. beloved, loved one, lover, sweetheart, well‐beloved
+2. best
+queso /kˈeso/
+cheese
+quieto /kjˈeto/
+calm, quiet
+quince /kˈinθe/
+fifteen
+quinto /kˈinto/
+fifth
+quitar /kitˈaɾ/
+abstract, takeaway
+quitarse /kitˈaɾse/
+1. take off, putoff
+2. absent onself, depart, go away, leave
+quitar el polvo /kitˈaɾ el pˈolβo/
+dust
+quitar el polvo a /kitˈaɾ el pˈolβo ˈa/
+dust
+quizás /kiθˈas/
+maybe, mayhap, perchance, perhaps, possibly
+química /kˈimika/
+chemistry
+químico /kˈimiko/
+chemist
+ración /ɾɾaθjˈon/
+share
+radiador /ɾɾˌaðjaðˈoɾ/
+radiator
+radio /ɾɾˈaðjo/
+radio, wireless
+radio de acción /ɾɾˈaðjo ðe akθjˈon/
+radius
+ralea /ɾɾalˈea/
+property, quality
+rama /ɾɾˈama/
+bough, branch
+rana /ɾɾˈana/
+frog
+raramente /ɾɾˈaɾamˈente/
+seldom
+raro /ɾɾˈaɾo/
+rare
+rascar /ɾɾaskˈaɾ/
+scratch
+rata /ɾɾˈata/
+rat
+ratón /ɾɾatˈon/
+mouse
+raya /ɾɾˈajja/
+ray, strip, stripe
+rayo /ɾɾˈajjo/
+beam, ray
+rayos de Röntgen /ɾɾˈajjos ðe ɾɾˈontxen/
+X‐rays
+rayos x /ɾɾˈajjos ˈɛkis/
+X‐rays
+raza /ɾɾˈaθa/
+breed, race
+razonable /ɾɾˌaθonˈaβle/
+acceptable
+reaccionar /ɾɾˌeakθjonˈaɾ/
+react, respond
+realizar /ɾɾˌealiθˈaɾ/
+1. accomplish, achieve, actout
+2. produce
+realizarse /ɾɾˌealiθˈaɾse/
+come about, happen, occur
+rebaja /ɾɾeβˈaxa/
+abatement, discount, rebate
+rebanada /ɾɾˌeβanˈaða/
+breadandbutter
+rebuznar /ɾɾˌeβuθnˈaɾ/
+bray
+recado /ɾɾekˈaðo/
+errand, message
+recalar /ɾɾˌekalˈaɾ/
+endup
+recelo /ɾɾeθˈelo/
+suspicion
+recelocaz /ɾɾˌeθelokˈaθ/
+suspicion
+receloso /ɾɾˌeθelˈoso/
+suspicious
+receta /ɾɾeθˈeta/
+prescription, recipe
+rechazar /ɾɾˌetʃaθˈaɾ/
+1. reject
+2. refuse
+recibir /ɾɾˌeθiβˈiɾ/
+get, have, receive
+recibo /ɾɾeθˈiβo/
+1. receipt
+2. acknowledgement
+recientemente /ɾɾeθjˈɛntemˈente/
+recently
+recipiente de agua /ɾɾˌeθipjˈɛnte ðe ˈaɣwa/
+basin, reservoir
+recitar /ɾɾˌeθitˈaɾ/
+recite
+recoger /ɾɾˌekoxˈeɾ/
+1. collect, gather, pickup
+2. get, lay hold of, pick up, take
+recoger la mesa /ɾɾˌekoxˈeɾ la mˈesa/
+clear away, removethecloth
+recomendable /ɾɾˌekomendˈaβle/
+recommendable
+recomendación /ɾɾˌekomˌendaθjˈon/
+recommendation
+recompensa /ɾɾˌekompˈɛnsa/
+compensation, reward
+recompensar /ɾɾˌekompensˈaɾ/
+compensate, reward
+recorrer /ɾɾˌekoɾɾˈeɾ/
+cover, go through, passthrough
+recreación /ɾɾˌekɾeaθjˈon/
+entertainment
+recuerdo /ɾɾekwˈeɾðo/
+1. keepsake, memento, souvenir
+2. memory, recollection
+red /ɾɾˈed/
+net, network
+redicho /ɾɾeðˈitʃo/
+1. hackneyed
+2. hard‐worked, stale, trite, worn‐out
+redondear /ɾɾˌeðondeˈaɾ/
+round, roundoff
+redondel /ɾɾˌeðondˈel/
+arena
+redondo /ɾɾeðˈondo/
+round
+reducción /ɾɾˌeðukθjˈon/
+abatement, discount, rebate
+reflexionar /ɾɾˌefleksjonˈaɾ/
+think, think about, reflecton
+reflexión /ɾɾˌefleksjˈon/
+consultation, deliberation
+reflujo /ɾɾeflˈuxo/
+lowtide
+refrenar /ɾɾˌefɾenˈaɾ/
+control, govern, restrain, rule
+refugio /ɾɾefˈuxjo/
+1. asylum
+2. Alpine hut, climber's hut, mountainhut
+regalo /ɾɾeɣˈalo/
+1. gift, present
+regar /ɾɾeɣˈaɾ/
+1. irrigate, water
+registrar /ɾɾˌexistɾˈaɾ/
+1. examine
+2. audit, check, check up on, supervise, verify
+3. record, register
+registro /ɾɾexˈistɾo/
+account book, record, register
+región /ɾɾexjˈon/
+region
+regla /ɾɾˈeɣla/
+regulation, rule
+reglamento /ɾɾˌeɣlamˈɛnto/
+regulations, rules
+rehusar /ɾɾˌeusˈaɾ/
+1. reject
+2. refuse
+reina /ɾɾˈeɪna/
+queen
+reino /ɾɾˈeɪno/
+kingdom
+reja /ɾɾˈexa/
+barrier, fence
+relación /ɾɾˌelaθjˈon/
+1. relation, understanding
+relampaguear /ɾɾˌelampˌaɣeˈaɾ/
+lighten
+relevar /ɾɾˌeleβˈaɾ/
+taketheplaceof
+relevo /ɾɾelˈeβo/
+replacement, substitution
+religión /ɾɾˌelixjˈon/
+religion
+relleno /ɾɾeʎˈeno/
+replacement, replenishment, supplement
+reloj /ɾɾelˈox/
+1. watch
+2. clock
+relojero /ɾɾˌeloxˈeɾo/
+watchmaker
+reloj de pulsera /ɾɾelˈox ðe pulsˈeɾa/
+watch, wrist‐watch
+relámpago /ɾɾelˈampaɣo/
+lightning
+remar /ɾɾemˈaɾ/
+row
+remendar /ɾɾˌemendˈaɾ/
+mend, patch, patchup
+remitente /ɾɾˌemitˈɛnte/
+sender
+remo /ɾɾˈemo/
+oar
+remolacha /ɾɾˌemolˈatʃa/
+beet
+remolcar /ɾɾˌemolkˈaɾ/
+drag, tow
+remolque /ɾɾemˈolke/
+trailer
+renegado /ɾɾˌeneɣˈaðo/
+unfaithful
+renunciar a /ɾɾˌenunθjˈaɾ ˈa/
+relinquish, renounce, waive
+reparar /ɾɾˌepaɾˈaɾ/
+fix, repair
+reparo /ɾɾepˈaɾo/
+1. criticism
+2. observation, remark, reproof
+repeler /ɾɾˌepelˈeɾ/
+protect from, wardoff
+repetir /ɾɾˌepetˈiɾ/
+repeat
+reponerse /ɾɾˌeponˈeɾse/
+revive
+reprender /ɾɾˌepɾendˈeɾ/
+1. reproach, rebuke, reprove, scold
+2. blame
+representante /ɾɾˌepɾesentˈante/
+agent
+representante exclusivo /ɾɾˌepɾesentˈante ˌeksklusˈiβo/
+soleagent
+representar /ɾɾˌepɾesentˈaɾ/
+act for, represent
+reprimir /ɾɾˌepɾimˈiɾ/
+1. bridle, check, restrain
+2. control, govern, rule
+reprobable /ɾɾˌepɾoβˈaβle/
+blameworthy, censurable, condemnable, objectionable
+reprobación /ɾɾˌepɾoβaθjˈon/
+censure, condemnation, disapprobation, disapproval
+reprobar /ɾɾˌepɾoβˈaɾ/
+1. condemn, disapprove, disapprove of, rebuke
+2. reproach, reprove, scold
+3. blame
+reproducción /ɾɾˌepɾoðukθjˈon/
+1. image, picture
+2. figure, diagram, representation
+reproducir /ɾɾˌepɾoðuθˈiɾ/
+depict, represent
+repugnancia /ɾɾˌepuɡnˈanθja/
+1. aversion, dislike
+2. disgust, nausea
+repulsar /ɾɾˌepulsˈaɾ/
+reducetheprice
+república /ɾɾepˈuβlika/
+republic
+requerir /ɾɾˌekeɾˈiɾ/
+admonish, scold
+resabio /ɾɾesˈaβjo/
+habit, trick
+reservar /ɾɾˌeseɾβˈaɾ/
+1. reserve
+2. book
+resfriado /ɾɾˌesfɾiˈaðo/
+cold
+resignación /ɾɾˌesiɡnaθjˈon/
+acquiescence, rezignation
+resistir /ɾɾˌesistˈiɾ/
+resist, withstand
+resolver /ɾɾˌesolβˈeɾ/
+decide
+respaldo /ɾɾespˈalðo/
+prop, support
+respectar /ɾɾˌespektˈaɾ/
+esteem, thinkwellof
+respecto de /ɾɾespˈekto ðˈe/
+1. about, concerning
+2. on, upon
+3. as to, as regards
+respetable /ɾɾˌespetˈaβle/
+respectable
+respetar /ɾɾˌespetˈaɾ/
+respect
+respiración /ɾɾˌespiɾaθjˈon/
+1. respiration
+2. breath
+respirar /ɾɾˌespiɾˈaɾ/
+1. exhale
+2. breathe
+responder /ɾɾˌespondˈeɾ/
+answer, reply, respond
+responder a /ɾɾˌespondˈeɾ ˈa/
+answer
+responsabilidad /ɾɾˌesponsˌaβiliðˈad/
+responsibility
+responsable /ɾɾˌesponsˈaβle/
+accountable, responsible
+respuesta /ɾɾespwˈesta/
+answer, reply
+resquebrajarse /ɾɾˌeskeβɾaxˈaɾse/
+1. burst, split
+restar /ɾɾestˈaɾ/
+remain, stay, stayover
+restaurante /ɾɾˌestaʊɾˈante/
+restaurant
+resultado /ɾɾˌesultˈaðo/
+result
+resultar /ɾɾˌesultˈaɾ/
+pointouttobe
+resumen /ɾɾesˈumen/
+abridgement, abstract, resumé, summery
+retaguardia /ɾɾˌetaɣwˈaɾðja/
+1. rear, rearguard
+2. defence
+retener /ɾɾˌetenˈeɾ/
+detain, hold back, retain
+retirarse /ɾɾˌetiɾˈaɾse/
+retreat
+retiro /ɾɾetˈiɾo/
+isolation, separation
+retraso /ɾɾetɾˈaso/
+1. delay, retardation
+2. adjournment
+retratar /ɾɾˌetɾatˈaɾ/
+depict, represent
+retrato /ɾɾetɾˈato/
+1. image, picture
+2. figure, diagram, representation
+retrete /ɾɾetɾˈete/
+toilet
+retroceder /ɾɾˌetɾoθeðˈeɾ/
+go back, gobackwards
+retroceso /ɾɾˌetɾoθˈeso/
+decline, goingdown
+retrovisor /ɾɾˌetɾoβisˈoɾ/
+drivingmirror
+retrógrado /ɾɾetɾˈoɣɾaðo/
+backward, retrograde
+reumatismo /ɾɾˌeʊmatˈismo/
+rheumatism
+reunir /ɾɾeʊnˈiɾ/
+1. join, unite
+reunirse /ɾɾeʊnˈiɾse/
+join
+reunión /ɾɾeʊnjˈon/
+joining, junction
+revelar /ɾɾˌeβelˈaɾ/
+develop, reveal
+reverso /ɾɾeβˈeɾso/
+back, reverse, reverseside
+revisar /ɾɾˌeβisˈaɾ/
+1. examine
+2. audit, check, check up on, supervise, verify
+3. revise
+revisor /ɾɾˌeβisˈoɾ/
+guard
+revista /ɾɾeβˈista/
+1. periodical
+2. magazine, revue
+revés /ɾɾeβˈes/
+1. back, reverse, reverseside
+2. rear
+rey /ɾɾˈeɪ/
+king
+rezagado /ɾɾˌeθaɣˈaðo/
+laggard, straggler
+rezar /ɾɾeθˈaɾ/
+pray
+reír /ɾɾeˈiɾ/
+laugh
+reírse de /ɾɾeˈiɾse ðˈe/
+laughat
+reñir /ɾɾeɲˈiɾ/
+quarrel, wrangle
+rico /ɾɾˈiko/
+nice, tasty
+ridiculizar /ɾɾˌiðikˌuliθˈaɾ/
+ridicule
+ridículo /ɾɾiðˈikulo/
+ridiculous
+riesgo /ɾɾiˈesɣo/
+hazard, risk
+rigido /ɾɾixˈiðo/
+rigid, stiff
+rinceronte /ɾɾˌinθeɾˈonte/
+rhino, rhinoceros
+riqueza /ɾɾikˈeθa/
+abundance, affluence, wealth
+risa /ɾɾˈisa/
+laughter
+ritmo /ɾɾˈitmo/
+rhythm
+riñón /ɾɾiɲˈon/
+kidney
+robar /ɾɾoβˈaɾ/
+1. rob
+2. steal
+roble /ɾɾˈoβle/
+oak
+robo /ɾɾˈoβo/
+abstraction, theft
+roca /ɾɾˈoka/
+1. reef
+2. rock
+rocío /ɾɾoθˈio/
+dew
+rodar /ɾɾoðˈaɾ/
+roll
+rodilla /ɾɾoðˈiʎa/
+knee
+rojo /ɾɾˈoxo/
+red
+romano /ɾɾomˈano/
+Roman
+romería /ɾɾˌomeɾˈia/
+pilgrimage
+romper /ɾɾompˈeɾ/
+break
+románico /ɾɾomˈaniko/
+Romanesque
+ron /ɾɾˈon/
+rum
+roncar /ɾɾonkˈaɾ/
+snore
+ropa /ɾɾˈopa/
+clothes, clothing
+ropa de la cama /ɾɾˈopa ðe la kˈama/
+bed‐clothes, bedding
+rosa /ɾɾˈosa/
+rose
+rosado /ɾɾosˈaðo/
+pink
+rostro /ɾɾˈostɾo/
+face
+roto /ɾɾˈoto/
+broken
+rubio /ɾɾˈuβjo/
+blond, fair
+rueda posterior /ɾɾuˈeða pˌosteɾjˈoɾ/
+back wheel, hind wheel, rearwheel
+ruego /ɾɾuˈeɣo/
+appeal, entreaty, supplication
+ruido /ɾɾuˈiðo/
+1. ado, din, noise
+2. sound
+3. agitation, riot, tumult
+ruina /ɾɾuˈina/
+ruin
+ruiseñor /ɾɾuˌiseɲˈoɾ/
+nightingale
+rumano /ɾɾumˈano/
+1. Romanian, Rumanian
+rusa /ɾɾˈusa/
+Russianwoman
+ruso /ɾɾˈuso/
+Russian
+ruta /ɾɾˈuta/
+1. route
+rábano /ɾɾˈaβano/
+radish
+rábano picante /ɾɾˈaβano pikˈante/
+horse‐radish, horseradish
+rápido /ɾɾˈapiðo/
+1. fast, quick, rapid, speedy, swift
+2. fasttrain
+récord /ɾɾˈekoɾd/
+record
+río /ɾɾˈio/
+river
+río Amazonas /ɾɾˈio ˌamaθˈonas/
+Amazon
+saber /saβˈeɾ/
+know, knowhow
+sabido /saβˈiðo/
+well‐known
+saborear /sˌaβoɾeˈaɾ/
+taste
+sacacorchos /sˌakakˈoɾtʃos/
+corkscrew
+sacerdote /sˌaθeɾðˈote/
+priest
+sajón /saxˈon/
+Saxon
+salario /salˈaɾjo/
+salary, wage, wages
+saldar /salðˈaɾ/
+1. liquidate
+2. pay
+salida /salˈiða/
+1. demand, sale
+2. exit, wayout
+3. departure
+salida del sol /salˈiða ðel sˈol/
+sunrise
+salir /salˈiɾ/
+1. exit, goout
+2. absent onself, depart, go away, leave
+3. drive away, driveoff
+salmo /sˈalmo/
+psalm
+salmón /salmˈon/
+salmon
+salsa /sˈalsa/
+gravy, sauce
+salsa de malzanas /sˈalsa ðe malθˈanas/
+apple‐sauce
+salsa de manzanas /sˈalsa ðe manθˈanas/
+apple‐sauce
+saltamontes /sˌaltamˈontes/
+grasshopper, locust
+saltar /saltˈaɾ/
+jump, leap, spring
+salteo /saltˈeo/
+assault
+salto /sˈalto/
+jump, leap
+salud /salˈud/
+health
+saludar /sˌaluðˈaɾ/
+greet, salute
+saludo /salˈuðo/
+1. greeting, salutation
+salvar /salβˈaɾ/
+keep, save, rescue
+salvia /sˈalβja/
+sage
+salvo /sˈalβo/
+bar, barring, except for, subject to, withoutprejudice
+sanar /sanˈaɾ/
+recover
+sandalia /sandˈalja/
+sandal
+sandwich /sandwˈitʃ/
+sandwich
+sangrar /saŋɡɾˈaɾ/
+bleed
+sangre /sˈaŋɡɾe/
+blood
+sangría /saŋɡɾˈia/
+bleeding, blood‐letting
+santa /sˈanta/
+saint
+santo /sˈanto/
+saint
+sapo /sˈapo/
+toad
+saque de comienzo /sˈake ðe komjˈɛnθo/
+kick‐off
+sartén /saɾtˈen/
+frying‐pan, fryingpan
+sastre /sˈastɾe/
+tailor
+satélite de la tierra /satˈelite ðe la tjˈeɾɾa/
+earthsatellite
+sauce /sˈaʊθe/
+willow
+secar /sekˈaɾ/
+dry
+sección /sekθjˈon/
+section
+seco /sˈeko/
+dry
+secreción /sˌekɾeθjˈon/
+secretion
+secreto /sekɾˈeto/
+1. hidden
+2. secret
+secta /sˈekta/
+sect
+sed /sˈed/
+thirst
+seducir /sˌeðuθˈiɾ/
+attract, draw
+segregar /sˌeɣɾeɣˈaɾ/
+divide, separate
+seguido /seɣˈiðo/
+1. directly, straighahead
+2. straight ahead, straightalong
+seguir /seɣˈiɾ/
+follow
+segundo /seɣˈundo/
+second
+seguridad /sˌeɣuɾiðˈad/
+safety, security
+seguro /seɣˈuɾo/
+1. insurance
+2. safe, secure
+seis /sˈeɪs/
+six
+sellar /seʎˈaɾ/
+mark, stamp
+sello /sˈeʎo/
+stamp, postagestamp
+sello de correos /sˈeʎo ðe koɾɾˈeos/
+stamp, postagestamp
+semanalmente /sˌemanˈalmˈente/
+weekly
+sembrar /sembɾˈaɾ/
+sow
+semejante /sˌemexˈante/
+like, alike, similar
+sencillo /senθˈiʎo/
+simple, straightforward
+sendero /sendˈeɾo/
+path
+sensible /sensˈiβle/
+sensitive
+sentarse /sentˈaɾse/
+sitdown
+sentencia /sentˈɛnθja/
+decision, judgement
+sentimiento /sˌentimjˈɛnto/
+feel, feeling, sensation
+sentir /sentˈiɾ/
+1. be sorry about, regret
+2. feel, sense
+sentirse /sentˈiɾse/
+feel
+separación /sˌepaɾaθjˈon/
+1. separation, partition
+2. isolation
+separado /sˌepaɾˈaðo/
+1. apart, particular, separate, special
+2. remote
+separar /sˌepaɾˈaɾ/
+divide, separate
+septiembre /sepːtjˈembɾe/
+September
+ser /sˈer/
+be
+sereno /seɾˈeno/
+serene, untroubled
+serie /sˈeɾje/
+series, set
+serio /sˈeɾjo/
+earnest, serious, staid
+serpiente /seɾpjˈɛnte/
+serpent, snake
+servicial /sˌeɾβiθjˈal/
+accommodating, helpful
+servicio /seɾβˈiθjo/
+1. service, worshipservice
+2. attendance, waiting
+3. house charge, servicecharge
+servilleta /sˌeɾβiʎˈeta/
+napkin
+servir /seɾβˈiɾ/
+1. accomodate
+2. serve
+ser arrojado a la playa /sˈer ˌaɾɾoxˈaðo a la plˈajja/
+bewashedashore
+ser de /sˈer ðˈe/
+belongto
+ser partidario de /sˈer pˌaɾtiðˈaɾjo ðˈe/
+adhereto
+ser presuntuoso /sˈer pɾˌesuntwˈoso/
+attitudinize, pose, putonairs
+sesenta /sesˈɛnta/
+sixty
+seta /sˈeta/
+1. fungus, mushroom
+seudónimo /seʊðˈonimo/
+pseudonym
+severo /seβˈeɾo/
+severe, strict
+sexo /sˈekso/
+sex
+sexto /sˈeksto/
+sixth
+sexual /sekswˈal/
+generative, sexual
+seña /sˈeɲa/
+character, mark, sign, signal, token
+señal /seɲˈal/
+mark, sign, signal, token
+señas /sˈeɲas/
+address
+señorita /sˌeɲoɾˈita/
+madam, Mrs.
+si /sˈi/
+1. as, like, suchas
+2. if, providedthat
+siberiana /sˌiβeɾjˈana/
+Siberian
+siberiano /sˌiβeɾjˈano/
+Siberian
+sidra /sˈiðɾa/
+cider
+siempre /sjˈempɾe/
+1. constantly, continually, continuously
+2. always, ever
+sien /sjˈen/
+temple
+sierra /sjˈeɾɾa/
+1. mountainchain
+2. chain of mountains, mountain chain, mountain range, rand
+3. saw
+siete /sjˈete/
+seven
+siglo /sˈiɣlo/
+centennial, century
+significar /sˌiɡnifikˈaɾ/
+imply, mean, signify
+siguiente /siɣjˈɛnte/
+following, next
+silbar /silβˈaɾ/
+whistle
+silencio /silˈɛnθjo/
+1. calm, quiet, silence
+silla /sˈiʎa/
+chair
+sillón /siʎˈon/
+armchair
+simple /sˈimple/
+simple, straightforward
+sin /sˈin/
+without
+sincero /sinθˈeɾo/
+1. above‐board, honest
+2. sincere
+sin aliento /sin aljˈɛnto/
+breathless
+sin duda /sin dˈuða/
+no doubt, undoubtedly
+sistema /sistˈema/
+system
+sitiar /sitjˈaɾ/
+besiege
+sitio /sˈitjo/
+1. place
+2. location, spot
+3. seat
+4. siege
+sobre /sˈoβɾe/
+1. envelope
+2. on, upon
+sobretodo /sˌoβɾetˈoðo/
+1. above all, especially, chiefly, mainly, principally
+sobre todo /sˌoβɾe tˈoðo/
+above all, especially
+sobrino /soβɾˈino/
+nephew
+sofocar /sˌofokˈaɾ/
+choke, quell, suffocate, suppress
+sol /sˈol/
+sun
+solicitación /sˌoliθˌitaθjˈon/
+request
+solicitar /sˌoliθitˈaɾ/
+ask, ask for, beg, bid, request
+solicitud /sˌoliθitˈud/
+request
+sollo /sˈoʎo/
+sturgeon
+solo /sˈolo/
+alone, only, sole, solitary
+soltero /soltˈeɾo/
+single, unmarried
+solterona /sˌolteɾˈona/
+unmarried woman, spinster
+solterón /sˌolteɾˈon/
+bachelor
+sombra /sˈombɾa/
+1. shadow
+2. shade
+sombrero /sombɾˈeɾo/
+hat
+somero /somˈeɾo/
+shallow, superficial
+sonido /sonˈiðo/
+sound
+sonreír /sˌonreˈiɾ/
+smile
+sonrisa /sonrˈisa/
+smile
+sopa /sˈopa/
+soup
+soplar /soplˈaɾ/
+blow
+sordo /sˈoɾðo/
+deaf
+sorprender /sˌoɾpɾendˈeɾ/
+surprise
+sorpresa /soɾpɾˈesa/
+surprise
+sosegado /sˌoseɣˈaðo/
+calm, tranquil
+sosegar /sˌoseɣˈaɾ/
+appease, calm, quiet, soothe, still
+sosegarse /sˌoseɣˈaɾse/
+1. abate, subside
+2. calmdown
+sospecha /sospˈetʃa/
+suspicion
+sospechar /sˌospetʃˈaɾ/
+suspect
+sostener /sˌostenˈeɾ/
+abet, support, sustain
+sostén /sostˈen/
+bra
+soñar /soɲˈaɾ/
+dream
+su /sˈu/
+1. her, his, its, their
+subasta /suβˈasta/
+tender
+subir /suβˈiɾ/
+1. ascend, get up, go up, lift, rise, arise
+2. climb, goup
+subir a /suβˈiɾ ˈa/
+ascend, climb, scale
+subscripción /sˌuβskɾipθjˈon/
+subscription
+subscriptor /sˌuβskɾipːtˈoɾ/
+subscriber
+substantivo /sˌuβstantˈiβo/
+noun, substantive
+substituir /sˌuβstitwˈiɾ/
+1. taketheplaceof
+2. replace, substitute
+subyugar /sˌuβjjuɣˈaɾ/
+1. govern, head up, restrain
+2. control, rule
+sucesivamente /sˌuθesˈiβamˈente/
+consecutively
+sucesivo /sˌuθesˈiβo/
+following, next
+sucinto /suθˈinto/
+concise
+sucio /sˈuθjo/
+dirty, filthy, nasty, soiled, unclean
+sudafricano /sˌuðafɾikˈano/
+SouthAfrican
+sudamericano /sˌuðamˌeɾikˈano/
+SouthAmerican
+sudar /suðˈaɾ/
+sweat
+sudor /suðˈoɾ/
+perspiration, sweat
+sueco /swˈeko/
+1. Swedish
+2. Swede
+suela /swˈela/
+sole
+suelo /swˈelo/
+1. bottom, foundation, ground
+2. floor
+suelto /swˈelto/
+loose
+suerte /swˈeɾte/
+1. destiny, fate, fortune, luck
+2. kind, sort
+3. chance
+sueño /swˈeɲo/
+1. sleep
+2. dream
+suizo /swˈiθo/
+Swiss
+sujetador /sˌuxetaðˈoɾ/
+bra
+sujetar /sˌuxetˈaɾ/
+hang onto, hold
+suma /sˈuma/
+amount, sum
+sumar /sumˈaɾ/
+add up, sumup
+superficie /sˌupeɾfˈiθje/
+summit, surface, top
+supermercado /sˌupeɾmeɾkˈaðo/
+supermarket
+suplemento /sˌuplemˈɛnto/
+replacement, replenishment, supplement
+suplicar /sˌuplikˈaɾ/
+implore, invoke
+suponer /sˌuponˈeɾ/
+guess, presume, suppose, surmise
+sur /sˈuɾ/
+south
+surtido /suɾtˈiðo/
+assortment
+suscribirse /sˌuskɾiβˈiɾse/
+subscribe, subscribeto
+suscripción /sˌuskɾipθjˈon/
+subscription
+suscriptor /sˌuskɾipːtˈoɾ/
+subscriber
+suspender /sˌuspendˈeɾ/
+reject
+suspicaz /sˌuspikˈaθ/
+suspicious
+suspirar /sˌuspiɾˈaɾ/
+sigh
+sustraer /sˌustɾaˈeɾ/
+subtract
+sábana /sˈaβana/
+sheet
+séptimo /sˈepːtimo/
+seventh
+sí /sˈi/
+yes
+sólido /sˈoliðo/
+1. firm, robust, sturdy
+2. solid
+sólo /sˈolo/
+exclusively, just, only
+sótano /sˈotano/
+basement, cellar
+tabaco /taβˈako/
+tobacco
+taberna /taβˈeɾna/
+bar, pub
+tabique /taβˈike/
+wall
+tabla /tˈaβla/
+1. shelf
+2. lath, slat
+3. board, plank
+tabla de planchar /tˈaβla ðe plantʃˈaɾ/
+ironingboard
+taburete /tˌaβuɾˈete/
+barstool
+taco /tˈako/
+1. nail
+2. taco
+tacón /takˈon/
+heel
+tajada /taxˈaða/
+slice
+tal /tˈal/
+such, such a, thatkindof
+talento /talˈɛnto/
+aptitude, disposition, talent, turn
+talentoso /tˌalentˈoso/
+1. gifted, talented
+2. accomplished
+taller /taʎˈeɾ/
+workplace
+talonario /tˌalonˈaɾjo/
+cheque‐book
+talón /talˈon/
+1. heel
+2. acknowledgement, receipt
+tal vez /tˈal βˈeθ/
+maybe, mayhap, perchance, perhaps, possibly
+tamaño /tamˈaɲo/
+1. dimension, measurement
+2. size
+también /tambjˈen/
+also, likewise, too
+tambor /tambˈoɾ/
+drum
+tampoco /tampˈoko/
+neither, nor
+tampón /tampˈon/
+plug, tampon
+tanque /tˈanke/
+1. cistern, tank
+tantico /tantˈiko/
+a little, rather
+tanto /tˈanto/
+thatmuch
+tapacubo /tˌapakˈuβo/
+hub‐cap
+tapicero /tˌapiθˈeɾo/
+paperer, paper‐hanger
+tapizar /tˌapiθˈaɾ/
+paper
+tapon /tˈapon/
+hub‐cap
+taquilla /takˈiʎa/
+window, ticket‐window
+tardar /taɾðˈaɾ/
+be kept in, be detained, remain, stayon
+tarde /tˈaɾðe/
+1. afternoon
+2. evening
+tardío /taɾðˈio/
+late, tardy
+tarjeta /taɾxˈeta/
+1. card, map, menu
+2. postcard
+tarjeta de crédito /taɾxˈeta ðe kɾˈeðito/
+creditcard
+tarjeta postal /taɾxˈeta postˈal/
+1. picturepostcard
+2. postcard
+tarjeta postal ilustrada /taɾxˈeta postˈal ˌilustɾˈaða/
+picturepostcard
+tarta de manzana /tˈaɾta ðe manθˈana/
+apple‐tart
+tasa /tˈasa/
+assessment
+taxi /tˈaksi/
+taxi
+taza /tˈaθa/
+cup
+teatro /teˈatɾo/
+theatre
+teatro de varietés /teˈatɾo ðe βˌaɾjetˈes/
+varietyentertainment
+tejado /texˈaðo/
+roof
+tela /tˈela/
+1. bit, lump, piece
+2. cloth, material
+telegrama /tˌeleɣɾˈama/
+telegram
+telemando /tˌelemˈando/
+remotecontrol
+televisión /tˌeleβisjˈon/
+television, TV
+teléfono /telˈefono/
+telephone
+temer /temˈeɾ/
+be afraid of, fear
+temeroso /tˌemeɾˈoso/
+1. afraid
+2. horrible
+temor /temˈoɾ/
+fear
+temperatura /tˌempeɾatˈuɾa/
+temperature
+tempestad /tˌempestˈad/
+storm
+templo /tˈemplo/
+temple
+temporada /tˌempoɾˈaða/
+season
+temprano /tempɾˈano/
+early
+tenazas /tenˈaθas/
+1. pincers
+2. tongs
+3. pairofpincers
+tenedor /tˌeneðˈoɾ/
+fork
+tenedor de libros /tˌeneðˈoɾ ðe lˈiβɾos/
+book‐keeper
+tener /tenˈeɾ/
+1. desire, wish
+2. have, havegot
+3. own, possess
+4. hang onto, hold
+tener cuidado /tenˈeɾ kwiðˈaðo/
+advert, pay attention, pay attention to, watchoutfor
+tener el propósito /tenˈeɾ el pɾopˈosito/
+intend, mean
+tener lugar /tenˈeɾ luɣˈaɾ/
+come about, happen, occur
+tener puesto /tenˈeɾ pwˈesto/
+wear
+tener que /tenˈeɾ kˈe/
+have to, must, ought to, should
+tener éxito /tenˈeɾ ˈeksito/
+succeed
+tenga /tˈɛŋɡa/
+behold, here is, here are, look, there
+tenis /tˈenis/
+tennis
+tensión /tensjˈon/
+tension
+tentación /tˌentaθjˈon/
+1. disposal, inclination, tendency
+2. temptation
+tercero /teɾθˈeɾo/
+third
+tercio /tˈeɾθjo/
+third
+terciopelo /tˌeɾθjopˈelo/
+velvet
+terminado /tˌeɾminˈaðo/
+completed, done, finished, over, through
+terminante /tˌeɾminˈante/
+effective, effectual, efficacious
+terminar /tˌeɾminˈaɾ/
+accomodate, end, finish, terminate
+terminarse /tˌeɾminˈaɾse/
+end, come to an end, end up, expire
+termos /tˈeɾmos/
+1. thermosbottle
+2. thermos, thermosflask
+termómetro /teɾmˈometɾo/
+thermometer
+ternero /teɾnˈeɾo/
+calf
+terraza /teɾɾˈaθa/
+terrace
+terremoto /tˌeɾɾemˈoto/
+earthquake
+terrenal /tˌeɾɾenˈal/
+1. terrestrial
+2. earthen, earthly
+terreno /teɾɾˈeno/
+ground, grounds, terrain
+terreno del camping /teɾɾˈeno ðel kˈampiŋ/
+camping ground, campingsite
+terreno pantanoso /teɾɾˈeno pˌantanˈoso/
+marsh, swamp
+terrestre /teɾɾˈestɾe/
+1. terrestrial
+2. earthen, earthly
+testigo /testˈiɣo/
+witness
+tetera /tetˈeɾa/
+1. teapot
+2. tea‐pot
+texto /tˈeksto/
+lyric, text
+teñir /teɲˈiɾ/
+dye, tint
+tibio /tˈiβjo/
+lukewarm
+tiburón /tˌiβuɾˈon/
+shark
+tiempo /tjˈempo/
+1. time, while
+2. weather
+tienda /tjˈɛnda/
+boutique, shop, store
+tienda de campaña /tjˈɛnda ðe kampˈaɲa/
+tent
+tierno /tjˈeɾno/
+soft
+tierra /tjˈeɾɾa/
+earth, land, soil
+tigre /tˈiɣɾe/
+tiger
+tijeras /tixˈeɾas/
+scissors
+tijera para setos /tixˈeɾa pˌaɾa sˈetos/
+hedge clippers, hedgeshears
+tilo /tˈilo/
+lime‐tree, linden‐tree
+timbrar /timbɾˈaɾ/
+mark, stamp
+timbre /tˈimbɾe/
+bell
+timbre de alarma /tˈimbɾe ðe alˈaɾma/
+alarmbell
+timón /timˈon/
+1. handlebars, helm, rudder
+tinieblas /tinjˈeβlas/
+darkness, murk
+tinta /tˈinta/
+ink
+tirantes /tiɾˈantes/
+braces, suspenders
+tirar /tiɾˈaɾ/
+1. fire, shoot
+2. drag, draw, haul, pull, tug
+titubear /tˌituβeˈaɾ/
+1. hesitate
+2. waver
+toalla /toˈaʎa/
+towel
+tobillo /toβˈiʎo/
+ankle
+tocar /tokˈaɾ/
+1. touchupon
+2. play
+3. sound
+4. touch
+tocino /toθˈino/
+bacon
+todavia /toðˈaβja/
+still, yet
+toda clase de /tˈoða klˈase ðˈe/
+1. all, everykindof
+2. all sorts, all sorts of, miscellaneous, ofallsorts
+todo /tˈoðo/
+1. entire, overall, whole
+2. all, altogether, everything
+todopoderoso /tˌoðopˌoðeɾˈoso/
+almighty, all‐powerful, omnipotent
+todos /tˈoðos/
+all
+tolerar /tˌoleɾˈaɾ/
+endure, put up with, tolerate
+tomar /tomˈaɾ/
+1. accept, receive, take, takein
+2. engulf, swallowup
+3. get, lay hold of, pick up
+tomar en consideración /tomˈaɾ en kˌonsiðˌeɾaθjˈon/
+account, consider, esteem, regard, takeintoaccount
+tomate /tomˈate/
+tomato
+tomo /tˈomo/
+volume
+toque /tˈoke/
+touch
+torcido /toɾθˈiðo/
+furious
+tormenta /toɾmˈɛnta/
+storm
+tornillo /toɾnˈiʎo/
+screw
+toro /tˈoɾo/
+bull
+torre /tˈoɾɾe/
+castle, tower
+torta /tˈoɾta/
+pie, tart
+tortilla /toɾtˈiʎa/
+omelette
+toser /tosˈeɾ/
+cough
+trabajador /tɾˌaβaxaðˈoɾ/
+hand, laborer, labourer, operative, worker, working man, workman
+trabajar /tɾˌaβaxˈaɾ/
+work
+trabajo /tɾaβˈaxo/
+job, work
+traducir /tɾˌaðuθˈiɾ/
+translate
+traer /tɾaˈeɾ/
+bring, fetch
+tragar /tɾaɣˈaɾ/
+1. engulf, swallowup
+2. swallow
+traje /tɾˈaxe/
+costume, outfit, suit
+traje de baño /tɾˈaxe ðe βˈaɲo/
+bathing suit, bathing‐suit
+tranquilo /tɾankˈilo/
+calm, tranquil
+transbordador /tɾˌansβoɾðaðˈoɾ/
+ferry
+transitable /tɾˌansitˈaβle/
+1. passable, practicable
+transitivo /tɾˌansitˈiβo/
+transitive
+transpirar /tɾˌanspiɾˈaɾ/
+sweat
+transportar /tɾˌanspoɾtˈaɾ/
+transport
+transporte /tɾanspˈoɾte/
+transport
+tranvía /tɾambˈia/
+streetcar, tram
+tras /tɾˈas/
+behind, after
+trasladar /tɾˌaslaðˈaɾ/
+copy
+traslado /tɾaslˈaðo/
+copy
+trasporte /tɾaspˈoɾte/
+transport
+trastornar /tɾˌastoɾnˈaɾ/
+overthrow, turn, turn over, upset
+tratado /tɾatˈaðo/
+treaty
+tratamiento /tɾˌatamjˈɛnto/
+treatment
+tratar /tɾatˈaɾ/
+1. treat
+2. deal with, handle
+tratar de /tɾatˈaɾ ðˈe/
+aim, attempt, endeavour, take steps, undertake
+trato /tɾˈato/
+treatment
+trece /tɾˈeθe/
+thirteen
+treinta /tɾˈeɪnta/
+thirty
+tremblar /tɾemblˈaɾ/
+quiver, shiver, tremble
+tren /tɾˈen/
+1. train
+tren corrido /tɾˈen koɾɾˈiðo/
+corridortrain
+trepar /tɾepˈaɾ/
+climb
+tres /tɾˈes/
+three
+tresillo /tɾesˈiʎo/
+lounge suite, three‐piecesuite
+tres veces /tɾˈes βˈeθes/
+three times, thrice
+tributo /tɾiβˈuto/
+1. tax
+2. tribute
+tricar /tɾikˈaɾ/
+carrier cycle, carriertricycle
+trigo /tɾˈiɣo/
+wheat
+trillado /tɾiʎˈaðo/
+1. hackneyed
+2. hard‐worked, stale, trite, worn‐out
+trinquete /tɾinkˈete/
+clique, coterie, junto, set
+tripulación /tɾˌipulaθjˈon/
+crew
+triste /tɾˈiste/
+1. sad
+2. bleak, dismal, dreary, gaunt, miserable, somber
+tristeza /tɾistˈeθa/
+sadness, sorrow
+trivial /tɾiβjˈal/
+commonplace, dismal, trite
+trombón /tɾombˈon/
+trumpet
+tronar /tɾonˈaɾ/
+thunder
+tronco /tɾˈonko/
+1. stem, trunk, tree‐trunk
+trono /tɾˈono/
+throne
+trozo /tɾˈoθo/
+slice
+trucha /tɾˈutʃa/
+trout
+trueno /tɾuˈeno/
+thunder
+tráfico /tɾˈafiko/
+traffic
+tráfico de dirección única /tɾˈafiko ðe ðˌiɾekθjˈon ˈunika/
+one‐waytraffic
+tu /tˈu/
+your
+tubo receptor /tˈuβo ɾɾˌeθepːtˈoɾ/
+cathodetube
+tuerca /twˈeɾka/
+nut
+tumba /tˈumba/
+grave, tomb
+tumor /tumˈoɾ/
+tumor, tumour
+turca /tˈuɾka/
+Turkish lady, Turkishwoman
+turco /tˈuɾko/
+1. Turkish
+2. Turk
+turista /tuɾˈista/
+tourist
+turno /tˈuɾno/
+file, line, rank, row, turn
+tutear /tˌuteˈaɾ/
+theeandthou
+tápa /tˈapa/
+cover, hood, lid
+té /tˈe/
+tea
+técnica /tˈeknika/
+technics, technique
+término /tˈeɾmino/
+end, ending
+tía /tˈia/
+aunt
+tímido /tˈimiðo/
+afraid, timid
+tío /tˈio/
+uncle
+título /tˈitulo/
+superscription
+tóxico /tˈoksiko/
+poisonous
+tú /tˈu/
+thou, you
+túnel /tˈunel/
+tunnel
+uf /ˈuf/
+shame
+ultrajar /ˌultɾaxˈaɾ/
+abuse, insult, offend
+un /ˈun/
+1. one
+2. a, an
+una /ˈuna/
+1. one
+2. a, an
+unas /ˈunas/
+a few, any, some
+una vez /ˈuna βˈeθ/
+once, onetime
+unirse /unˈiɾse/
+associate, join, pool
+universal /ˌuniβeɾsˈal/
+general, usual
+universidad /ˌuniβˌeɾsiðˈad/
+university
+unión /unjˈon/
+joining, junction
+uno /ˈuno/
+one
+unos /ˈunos/
+a few, any, some
+uno y medio /ˈuno i mˈeðjo/
+oneandahalf
+un momento /ˈun momˈɛnto/
+a few minutes, amoment
+urbano /uɾβˈano/
+urban
+urgente /uɾxˈɛnte/
+pressing, urgent
+urgentemente /uɾxˈɛntemˈente/
+urgently
+urraca /uɾɾˈaka/
+magpie
+usado /usˈaðo/
+1. worn
+2. used
+usar /usˈaɾ/
+1. use up, wearout
+2. employ, use, makeuseof
+uso /ˈuso/
+use
+usted /ustˈed/
+1. thou, you
+2. ye
+ustedes /ustˈeðes/
+ye, you
+uva /ˈuβa/
+grape
+uña /ˈuɲa/
+nail
+vaca /bˈaka/
+cow
+vacaciones /bˌakaθjˈones/
+vacation
+vaciar /baθjˈaɾ/
+1. empty
+2. bottle
+vacilación /bˌaθilaθjˈon/
+1. hesitation, wavering
+vacilar /bˌaθilˈaɾ/
+1. hesitate
+2. waver
+vacío /baθˈio/
+empty, void
+vainilla /baɪnˈiʎa/
+vanilla
+vale /bˈale/
+agreed, okay
+valer /balˈeɾ/
+beworth
+valle /bˈaʎe/
+valley
+valor /balˈoɾ/
+1. courage
+2. value, worth
+valorar en /bˌaloɾˈaɾ ˈen/
+blame, holdagainst
+valuta /balˈuta/
+currency
+vampiro /bampˈiɾo/
+vampire
+variar /baɾjˈaɾ/
+vary
+variedad /bˌaɾjeðˈad/
+variety
+varios /bˈaɾjos/
+several
+vasco /bˈasko/
+Basque, Basquelanguage
+vascuence /baskwˈɛnθe/
+1. Basque
+2. Basquelanguage
+vaso /bˈaso/
+1. glass
+2. vase, vessel
+vecino /beθˈino/
+1. adjacent
+2. adjoining
+3. nearby, neighbouring
+4. neighbour
+vegetación /bˌexetaθjˈon/
+vegetation
+vegetariano /bˌexetaɾjˈano/
+vegetarian
+veinte /bˈeɪnte/
+twenty
+veinte y uno /bˈeɪnte i ˈuno/
+twenty‐one
+vejiga /bexˈiɣa/
+bladder, bubble
+vela /bˈela/
+candle
+velludo /beʎˈuðo/
+hairy, hirsute
+velocidad /bˌeloθiðˈad/
+speed
+velocidad inicial /bˌeloθiðˈað ˌiniθjˈal/
+initialvelocity
+vena /bˈena/
+vein
+vencimiento /bˌenθimjˈɛnto/
+end, terminate
+vendaje /bendˈaxe/
+bandage
+vendar /bendˈaɾ/
+dress
+vendedor /bˌendeðˈoɾ/
+salesman
+vendedora /bˌendeðˈoɾa/
+saleswoman
+vender /bendˈeɾ/
+dispose of, sell, vend
+veneno /benˈeno/
+poison
+venganza /beŋɡˈanθa/
+revenge, vengeance
+vengar /beŋɡˈaɾ/
+avenge, avengeoneself
+venir /benˈiɾ/
+come
+venir después /benˈiɾ ðespwˈes/
+arrive afterwards, come afterwards, come later, follow
+venta /bˈɛnta/
+sale
+ventaja /bentˈaxa/
+1. advantage, benefit
+ventana /bentˈana/
+window
+ventilador /bˌentilaðˈoɾ/
+electric fan, ventilator
+ventilar /bˌentilˈaɾ/
+aerate, air out, give an airing, ventilate
+ver /bˈeɾ/
+see
+verano /beɾˈano/
+summer
+verbena /beɾβˈena/
+fair
+verdad /beɾðˈad/
+reality, truth
+verdaderamente /bˌeɾðaðˈeɾamˈente/
+absolutely, genuinly, indeed, really, truly
+verdadero /bˌeɾðaðˈeɾo/
+true
+verde /bˈeɾðe/
+1. green
+verduras /beɾðˈuɾas/
+vegetable
+vergonzoso /bˌeɾɣonθˈoso/
+1. ashamed
+2. humiliating
+vergüenza /bˌeɾɣuˈɛnθa/
+shame
+vermut /beɾmˈut/
+vermouth
+verter /beɾtˈeɾ/
+pourin
+vestido /bestˈiðo/
+dress, gown, robe
+vestir /bestˈiɾ/
+1. cover, overlay
+2. clothe, dress
+vestirse /bestˈiɾse/
+1. dress, getdressed
+vestíbulo /bestˈiβulo/
+hall
+veterinario /bˌeteɾinˈaɾjo/
+veterinarian
+viajar /bjaxˈaɾ/
+travel
+viaje /bjˈaxe/
+journey, trip, voyage
+viajero /bjaxˈeɾo/
+traveller
+viaticar /bjˌatikˈaɾ/
+administerthelastsacraments
+victoria /biktˈoɾja/
+victory
+vida /bˈiða/
+life
+vidrio /bˈiðɾio/
+glass
+viejo /bjˈexo/
+old
+viento /bjˈɛnto/
+wind
+vientre /bjˈɛntɾe/
+abdomen, belly, tummy
+viernes /bjˈeɾnes/
+Friday
+viga /bˈiɣa/
+beam, girder
+vigilar /bˌixilˈaɾ/
+guard, keep, look after, watchover
+vinagre /binˈaɣɾe/
+vinegar
+violento /bjolˈɛnto/
+acute, intense, intensive
+violoncelo /bjˌolonθˈelo/
+cello
+virtud /biɾtˈud/
+1. energy
+2. force, strength, vigour
+3. courage
+4. ability
+5. morality, vice
+6. chastity, purity
+visado /bisˈaðo/
+visa, visé
+visita /bisˈita/
+visit
+visitación /bˌisitaθjˈon/
+inspection
+visitar /bˌisitˈaɾ/
+attend, call on, see, visit
+vista /bˈista/
+1. appearance, aspect, look, sight, view
+2. exterior
+3. examination
+vitamina /bˌitamˈina/
+vitamin
+viudo /bjˈuðo/
+widower
+vivir /biβˈiɾ/
+be alive, live
+vivo /bˈiβo/
+alive
+viña /bˈiɲa/
+vine
+volante /bolˈante/
+1. handlebars, helm, rudder
+2. joystick, steering‐wheel
+volar /bolˈaɾ/
+fly
+voltaje /boltˈaxe/
+tension, voltage
+voluntad /bˌoluntˈad/
+will, willingness, wish
+voluntariamente /bˌoluntˈaɾjamˈente/
+willingly
+volver /bolβˈeɾ/
+1. turnaway
+2. go back, return
+3. come back
+4. turn, turn around, turnround
+vomitar /bˌomitˈaɾ/
+throw up, vomit
+vosotras /bosˈotɾas/
+you
+vosotros /bosˈotɾos/
+you
+votar /botˈaɾ/
+vote
+voz /bˈoθ/
+voice
+vuelo /bwˈelo/
+flight
+válido /bˈaliðo/
+valid
+válvula /bˈalβula/
+tube, valve
+vía /bˈia/
+1. path, road, way
+2. route
+víbora /bˈiβoɾa/
+adder, viper
+xilófono /silˈofono/
+xylophone
+y /ˈi/
+and
+ya /ʝˈa/
+already, by now, yet
+yate /ʝˈate/
+yacht
+ya ... no /ʝˈa nˈo/
+nolonger
+ya que /ʝˈa kˈe/
+1. because, forthereasonthat
+2. as, for, since
+yedra /ʝˈeðɾa/
+ivy
+yerba /ʝˈeɾβa/
+grass
+yerno /ʝˈeɾno/
+son‐in‐law
+yerro /ʝˈeɾɾo/
+aberration, error, mistake
+yo /ʝˈo/
+I
+yodo /ʝˈoðo/
+iodine
+yogur /ʝoɣˈuɾ/
+yoghourt, yoghurt
+yugo /ʝˈuɣo/
+yoke
+y tambien /i tˈambjen/
+and also, and ... as well, as well as, togetherwith
+y también /i tambjˈen/
+and also, and ... as well, as well as, togetherwith
+zalamero /θˌalamˈeɾo/
+affectionate, caressing, cuddlesome, cuddly
+zambullirse /θˌambuʎˈiɾse/
+dive, plunge
+zanahoria /θˌanaˈoɾja/
+carrot
+zanja /θˈaŋxa/
+hole, ditch, pit
+zapatero /θˌapatˈeɾo/
+shoemaker
+zapatilla /θˌapatˈiʎa/
+slipper
+zapato /θapˈato/
+shoe
+zarza /θˈaɾθa/
+blackberry, blackberry bush, bramble
+zarzamora /θˌaɾθamˈoɾa/
+blackberry
+zelandés /θˌelandˈes/
+1. Zealand
+2. Zealander
+zinc /θˈink/
+zinc
+zona /θˈona/
+zone
+zorro /θˈoɾɾo/
+fox
+zote /θˈote/
+addled, foolish, stupid
+zumo /θˈumo/
+juice, sap
+zumo de naranja /θˈumo ðe naɾˈaŋxa/
+orangejuice
+zurrar /θuɾɾˈaɾ/
+thrash
+África /ˈafɾika/
+Africa
+África del Sur /ˈafɾika ðel sˈuɾ/
+SouthAfrica
+ágata /ˈaɣata/
+agate
+ágil /ˈaxil/
+adroit, clever, dexterous, skillful
+águila /ˈaɣila/
+eagle
+álamo /ˈalamo/
+poplar
+álbum /ˈalβum/
+album
+álgebra /ˈalxeβɾa/
+algebra
+ámbar amarillo /ˈambaɾ ˌamaɾˈiʎo/
+amber
+ángulo /ˈaŋɡulo/
+angle
+árabe /ˈaɾaβe/
+1. Arabian, Arabic
+2. Arab
+árbol /ˈaɾβol/
+tree
+árido /ˈaɾiðo/
+1. barren
+2. dreary
+áspero /ˈaspeɾo/
+1. coarse, rough
+2. severe, strict
+áspid /ˈaspid/
+adder, viper
+átomo /ˈatomo/
+atom
+ávido /ˈaβiðo/
+acquisitive, eager, greedy
+él /ˈel/
+he, him
+ídolo /ˈiðolo/
+idol
+ópera /ˈopeɾa/
+opera
+óptico /ˈopːtiko/
+optician
+órbita /ˈoɾβita/
+orbit
+úlcera /ˈulθeɾa/
+ulcer, sore
+último /ˈultimo/
+last
+único /ˈuniko/
+1. alone, only, sole, solitary
+2. unique
+útero /ˈuteɾo/
+uterus, womb
+ñajú /ɲaxˈu/
+gumbo, okra, okraplant
+ñame /ɲˈame/
+yam
+ñandu /ɲˈandu/
+American ostrich, nandu
+ñaña /ɲˈaɲa/
+elder sister
+unknown
+ abcdefghijklmnopqrstuvwxyzáéíñóöúü

@@ -1,10 +1,24 @@
-import numpy
+# main file
+# app runs till "/end" is encountered
+
 import json
+import support_functions as sf
 
-with open ("spa-eng.dict", "r", encoding='utf-8') as spanish: 
-    spatext = spanish.read()
 
-engtext = json.load(open("data.json", "r"))
+def main():
 
-print(spatext[:140])
-print(type(engtext))
+    main_word = " "
+    count = 0
+
+    while (main_word != "/end"):
+        if(count == 0):
+            main_word = sf.OpeningMessage()
+            main_word = sf.WordProcessor(main_word)
+            count = 1
+        else:
+            main_word = sf.WordProcessor(main_word)
+
+
+
+if __name__ == "__main__":
+    main()
